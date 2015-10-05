@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gianluca Fiore</title><link>http://www.gianlucafiore.it/</link><description>Mixing stuff since 1981</description><atom:link href="http://www.gianlucafiore.it/feeds/gianluca-fiore.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 15 Sep 2015 14:54:04 +0200</lastBuildDate><item><title>First Months In Poland</title><link>http://www.gianlucafiore.it/first-months-in-poland.html</link><description>&lt;p&gt;&lt;img src="pictures/sky-blue-flag-poland.jpg" width="1024" height="765" 
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gianluca Fiore</title><link>http://www.gianlucafiore.it/</link><description>Mixing stuff since 1981</description><atom:link href="http://www.gianlucafiore.it/feeds/gianluca-fiore.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 05 Oct 2015 17:05:35 +0200</lastBuildDate><item><title>terminalCV</title><link>http://www.gianlucafiore.it/terminalcv.html</link><description>&lt;p&gt;This goes into the "software I'm going to hack on" category. As the &lt;a href="https://github.com/hauckd"&gt;author&lt;/a&gt; says, terminalCV is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;A command line CV for sysadmins
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The due screenshot&lt;/p&gt;
+&lt;p&gt;&lt;img src="pictures/terminalcv.jpg" width="662" height="823" /&gt;&lt;/p&gt;
+&lt;p&gt;To see it in action click on the new link on the sidebar, &lt;strong&gt;TerminalCV&lt;/strong&gt;. Being a lover of all things CLI, I found terminalCV a great idea, not just for sysadmins but for developers in general (altough you can reason that for developers there's already Github). I'm planning to add a few features to it, like non-programming skills, and themeing (which I suck at usually but it's just a CLI so it's not that complicated :) ).&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gianluca Fiore</dc:creator><pubDate>Mon, 05 Oct 2015 17:05:35 +0200</pubDate><guid>tag:www.gianlucafiore.it,2015-10-05:terminalcv.html</guid><category>terminal</category><category>cli</category><category>cv</category><category>programming</category></item><item><title>First Months In Poland</title><link>http://www.gianlucafiore.it/first-months-in-poland.html</link><description>&lt;p&gt;&lt;img src="pictures/sky-blue-flag-poland.jpg" width="1024" height="765" 
 alt="Poland Flag"&gt;&lt;/p&gt;
 &lt;p&gt;As you may, or probably may not, know, I've moved to &lt;strong&gt;Poland&lt;/strong&gt; last April.
 Don't bother asking why as I'm still looking for an answer to.
