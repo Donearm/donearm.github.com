@@ -5,7 +5,7 @@
 }
 
 body {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'EB Garamond', sans-serif;
 }
 
 a {
@@ -149,7 +149,7 @@ h4.md:before {
     color: #fefefe;
     border-bottom: 1px solid rgba(255,255,255,0.3);
     text-shadow: 0 2px 3px #000;
-    font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+    font-family: 'EB Garamond' ,"Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
 }
 
 .tagline {
@@ -175,7 +175,7 @@ h4.md:before {
 .links a {
     font-size: 25px;
     padding-left: 15px;
-    font-family: sans-serif;
+    font-family: 'EB Garamond', sans-serif;
     letter-spacing: 2px;
     text-shadow: 0 2px 3px #000;
     text-decoration: none;
