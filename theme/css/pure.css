@@ -57,7 +57,7 @@ blockquote {
 	-moz-hyphens: auto;
 	hyphens: auto;
 }
-blockquote:before {
+.content blockquote:before {
 	content: '\201D';
 	color: #29547C;
 	font-size: 3em;
@@ -411,7 +411,7 @@ h4.md:before {
     .cover-img {
         background-position: 0;
     }
-	blockquote:before {
+	.content blockquote:before {
 		font-size: 2em;
 		top: 10px;
 		left: 6px;
