@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Gianluca Fiore</title><link href="http://www.gianlucafiore.it/" rel="alternate"></link><link href="http://www.gianlucafiore.it/feeds/blog.atom.xml" rel="self"></link><id>http://www.gianlucafiore.it/</id><updated>2016-07-04T14:44:00+02:00</updated><entry><title>Programming Isn't Easy</title><link href="http://www.gianlucafiore.it/blog/programming-isnt-easy.html" rel="alternate"></link><published>2016-07-04T14:44:00+02:00</published><author><name>Gianluca Fiore</name></author><id>tag:www.gianlucafiore.it,2016-07-04:blog/programming-isnt-easy.html</id><summary type="html">&lt;p&gt;&lt;img src="../images/Programming.jpg" width="1024" height="765" alt="Pair Programming"&gt;&lt;/p&gt;
 &lt;p&gt;I was reading, as usual, &lt;a href="http://www.hanselman.com"&gt;Scott Hanselman's blog&lt;/a&gt; and couldn't agree more on his complaining on the recent WWDC keynote asserting that programming is easy. From his &lt;a href="http://www.hanselman.com/blog/StopSayingLearningToCodeIsEasy.aspx"&gt;post&lt;/a&gt;:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;When we tell folks - kids or otherwise - that programming is easy, what will they think when it gets difficult? And it will get difficult. That&amp;#39;s where people find themselves saying &amp;quot;well, I guess I&amp;#39;m not wired for coding. It&amp;#39;s just not for me.&amp;quot;
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;blockquote&gt;
+&lt;p&gt;When we tell folks - kids or otherwise - that programming is easy, what will they think when it gets difficult? And it will get difficult. That's where people find themselves saying "well, I guess I'm not wired for coding. It's just not for me."&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Exactly. Apple may be in dire need of finding the next Steve Jobs or any other genius programmer and in doing so is pushing the concept that anybody &lt;strong&gt;can&lt;/strong&gt; code. While this is technically true, not everybody has the skills needed to code, nor to be a &lt;strong&gt;good&lt;/strong&gt; coder. Especially. I'd argue that most people haven't. Scott makes a list of problems new coders should be prepared to face:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Programming is hard.
-It&amp;#39;s complicated.
-It&amp;#39;s exhausting.
-It&amp;#39;s exasperating.
-Some things will totally make sense to you and some won&amp;#39;t. I&amp;#39;m looking at you, RegEx.
-The documentation usually sucks.
-Sometimes computers are stupid and crash.
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming is hard.&lt;/li&gt;
+&lt;li&gt;It's complicated.&lt;/li&gt;
+&lt;li&gt;It's exhausting.&lt;/li&gt;
+&lt;li&gt;It's exasperating.&lt;/li&gt;
+&lt;li&gt;Some things will totally make sense to you and some won't. I'm looking at you, RegEx.&lt;/li&gt;
+&lt;li&gt;The documentation usually sucks.&lt;/li&gt;
+&lt;li&gt;Sometimes computers are stupid and crash. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;That's a very optimistic list. I'd rephrase it like this:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Programming is hard because it needs you to &lt;strong&gt;think creatively&lt;/strong&gt; and &lt;strong&gt;outside of the box&lt;/strong&gt;, most of the time. It asks you a level of openness to new ideas and concepts, even after years of practice, that many people aren't prepared for&lt;/li&gt;

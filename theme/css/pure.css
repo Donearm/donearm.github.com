@@ -39,6 +39,34 @@ code {
     font-family: monospace;
 }
 
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+blockquote {
+	display: block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-style: italic;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+}
+blockquote:before {
+	content: '\201D';
+	color: #29547C;
+	font-size: 3em;
+	position: absolute;
+	top: 4px;
+	left: 3px;
+	font-weight: 700;
+}
+
 h2.md:before {
 	content: "# ";
 }
@@ -368,6 +396,12 @@ h4.md:before {
         margin: 25px auto;
     }
 
+	blockquote:before {
+		font-size: 2.5em;
+		top: 14px;
+		left: 5px;
+	}
+
     #layout {
         padding: 0;
     }
@@ -377,4 +411,10 @@ h4.md:before {
     .cover-img {
         background-position: 0;
     }
+	blockquote:before {
+		font-size: 2em;
+		top: 10px;
+		left: 6px;
+	}
+
 }
