@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.gianlucafiore.it/</loc>
-<lastmod>2017-04-02T14:24:34-00:00</lastmod>
+<lastmod>2017-04-23T10:32:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.gianlucafiore.it/archives.html</loc>
-<lastmod>2017-04-02T14:24:34-00:00</lastmod>
+<lastmod>2017-04-23T10:32:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.gianlucafiore.it/tags.html</loc>
-<lastmod>2017-04-02T14:24:34-00:00</lastmod>
+<lastmod>2017-04-23T10:32:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.gianlucafiore.it/categories.html</loc>
-<lastmod>2017-04-02T14:24:34-00:00</lastmod>
+<lastmod>2017-04-23T10:32:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,7 +39,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.gianlucafiore.it/blog/fidel-castro-1926-2016.html</loc>
+<loc>http://www.gianlucafiore.it/blog/fidel-castro.html</loc>
 <lastmod>2016-11-26T11:44:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -53,15 +53,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.gianlucafiore.it/blog/what-nobody-tells-you-about-shaving-with-a-straight-razor.html</loc>
-<lastmod>2016-06-29T18:04:00+02:00</lastmod>
+<loc>http://www.gianlucafiore.it/blog/cocktail-cheat-sheet.html</loc>
+<lastmod>2016-07-01T11:33:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.gianlucafiore.it/blog/classic-cocktails-cheat-sheet.html</loc>
-<lastmod>2016-04-14T17:10:03+02:00</lastmod>
+<loc>http://www.gianlucafiore.it/blog/what-nobody-tells-you-about-shaving-with-a-straight-razor.html</loc>
+<lastmod>2016-06-29T18:04:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -89,7 +89,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.gianlucafiore.it/blog/a-brief-guide-to-duckduckgo.html</loc>
-<lastmod>2015-03-07T11:54:34+01:00</lastmod>
+<lastmod>2015-03-07T14:34:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -144,6 +144,41 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.gianlucafiore.it/tag/duckduckgo.html</loc>
+<lastmod>2016-07-01T11:33:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.gianlucafiore.it/tag/cocktail.html</loc>
+<lastmod>2016-07-01T11:33:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.gianlucafiore.it/tag/drink.html</loc>
+<lastmod>2016-07-01T11:33:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.gianlucafiore.it/tag/cheat-sheet.html</loc>
+<lastmod>2016-07-01T11:33:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.gianlucafiore.it/tag/search-engine.html</loc>
+<lastmod>2016-07-01T11:33:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.gianlucafiore.it/tag/shaving.html</loc>
 <lastmod>2016-06-29T18:04:00+00:50</lastmod>
 <changefreq>daily</changefreq>
@@ -167,41 +202,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.gianlucafiore.it/tag/life.html</loc>
 <lastmod>2016-06-29T18:04:00+00:50</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.gianlucafiore.it/tag/duckduckgo.html</loc>
-<lastmod>2016-04-14T17:10:03+00:50</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.gianlucafiore.it/tag/cocktail.html</loc>
-<lastmod>2016-04-14T17:10:03+00:50</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.gianlucafiore.it/tag/drink.html</loc>
-<lastmod>2016-04-14T17:10:03+00:50</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.gianlucafiore.it/tag/cheat-sheet.html</loc>
-<lastmod>2016-04-14T17:10:03+00:50</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.gianlucafiore.it/tag/search-engine.html</loc>
-<lastmod>2016-04-14T17:10:03+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -278,7 +278,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.gianlucafiore.it/tag/guide.html</loc>
-<lastmod>2015-03-07T11:54:34+00:50</lastmod>
+<lastmod>2015-03-07T14:34:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
