@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.gianlucafiore.it/</loc>
-<lastmod>2017-08-01T11:06:35-00:00</lastmod>
+<lastmod>2017-08-20T17:30:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.gianlucafiore.it/archives.html</loc>
-<lastmod>2017-08-01T11:06:35-00:00</lastmod>
+<lastmod>2017-08-20T17:30:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.gianlucafiore.it/tags.html</loc>
-<lastmod>2017-08-01T11:06:35-00:00</lastmod>
+<lastmod>2017-08-20T17:30:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.gianlucafiore.it/categories.html</loc>
-<lastmod>2017-08-01T11:06:35-00:00</lastmod>
+<lastmod>2017-08-20T17:30:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.gianlucafiore.it/pages/about-me.html</loc>
 <lastmod>2016-03-02T08:48:46+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.gianlucafiore.it/blog/on-my-atheism.html</loc>
+<lastmod>2017-08-20T17:04:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -103,7 +110,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.gianlucafiore.it/category/blog.html</loc>
-<lastmod>2017-05-01T19:44:00+00:50</lastmod>
+<lastmod>2017-08-20T17:04:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.gianlucafiore.it/tag/atheism.html</loc>
+<lastmod>2017-08-20T17:04:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.gianlucafiore.it/tag/religion.html</loc>
+<lastmod>2017-08-20T17:04:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -313,7 +334,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.gianlucafiore.it/author/gianluca-fiore.html</loc>
-<lastmod>2017-05-01T19:44:00+00:50</lastmod>
+<lastmod>2017-08-20T17:04:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
