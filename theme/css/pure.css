@@ -195,7 +195,7 @@ h4.md:before {
 }
 .social a {
     text-decoration: none;
-    margin-left: 15px;
+    margin: 3px 3px 3px 10px; /* added, fix social icons overflowing the row */
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
     color: #fefefe;
 }
