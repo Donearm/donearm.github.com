@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.gianlucafiore.it/</loc>
-<lastmod>2018-05-02T21:32:14-00:00</lastmod>
+<lastmod>2018-05-07T21:08:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.gianlucafiore.it/archives.html</loc>
-<lastmod>2018-05-02T21:32:14-00:00</lastmod>
+<lastmod>2018-05-07T21:08:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.gianlucafiore.it/tags.html</loc>
-<lastmod>2018-05-02T21:32:14-00:00</lastmod>
+<lastmod>2018-05-07T21:08:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.gianlucafiore.it/categories.html</loc>
-<lastmod>2018-05-02T21:32:14-00:00</lastmod>
+<lastmod>2018-05-07T21:08:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.gianlucafiore.it/pages/about-me.html</loc>
 <lastmod>2018-01-20T23:00:12+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.gianlucafiore.it/blog/freecodecamp-frontend-development-course.html</loc>
+<lastmod>2018-05-05T21:44:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -110,7 +117,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.gianlucafiore.it/category/blog.html</loc>
-<lastmod>2017-08-20T17:04:00+00:50</lastmod>
+<lastmod>2018-05-05T21:44:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.gianlucafiore.it/tag/freecodecamp.html</loc>
+<lastmod>2018-05-05T21:44:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.gianlucafiore.it/tag/frontend.html</loc>
+<lastmod>2018-05-05T21:44:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.gianlucafiore.it/tag/development.html</loc>
+<lastmod>2018-05-05T21:44:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.gianlucafiore.it/tag/programming.html</loc>
+<lastmod>2018-05-05T21:44:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -181,13 +216,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.gianlucafiore.it/tag/capitalism.html</loc>
 <lastmod>2016-11-26T11:44:00+00:50</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.gianlucafiore.it/tag/programming.html</loc>
-<lastmod>2016-07-04T14:44:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -334,7 +362,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.gianlucafiore.it/author/gianluca-fiore.html</loc>
-<lastmod>2017-08-20T17:04:00+00:50</lastmod>
+<lastmod>2018-05-05T21:44:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
