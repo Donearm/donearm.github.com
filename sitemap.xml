@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.gianlucafiore.it/</loc>
-<lastmod>2018-05-07T21:25:31-00:00</lastmod>
+<lastmod>2018-05-19T15:55:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.gianlucafiore.it/archives.html</loc>
-<lastmod>2018-05-07T21:25:31-00:00</lastmod>
+<lastmod>2018-05-19T15:55:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.gianlucafiore.it/tags.html</loc>
-<lastmod>2018-05-07T21:25:31-00:00</lastmod>
+<lastmod>2018-05-19T15:55:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.gianlucafiore.it/categories.html</loc>
-<lastmod>2018-05-07T21:25:31-00:00</lastmod>
+<lastmod>2018-05-19T15:55:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.gianlucafiore.it/pages/about-me.html</loc>
 <lastmod>2018-01-20T23:00:12+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.gianlucafiore.it/blog/appreciation.html</loc>
+<lastmod>2018-05-19T11:44:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -117,7 +124,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.gianlucafiore.it/category/blog.html</loc>
-<lastmod>2018-05-05T21:44:00+00:50</lastmod>
+<lastmod>2018-05-19T11:44:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.gianlucafiore.it/tag/appreciation.html</loc>
+<lastmod>2018-05-19T11:44:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.gianlucafiore.it/tag/life.html</loc>
+<lastmod>2018-05-19T11:44:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.gianlucafiore.it/tag/friends.html</loc>
+<lastmod>2018-05-19T11:44:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -173,13 +201,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.gianlucafiore.it/tag/project.html</loc>
-<lastmod>2017-05-01T19:44:00+00:50</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.gianlucafiore.it/tag/friends.html</loc>
 <lastmod>2017-05-01T19:44:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -277,13 +298,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.gianlucafiore.it/tag/life.html</loc>
-<lastmod>2016-06-29T18:04:00+00:50</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.gianlucafiore.it/tag/naples.html</loc>
 <lastmod>2016-02-15T11:04:00+00:50</lastmod>
 <changefreq>daily</changefreq>
@@ -362,7 +376,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.gianlucafiore.it/author/gianluca-fiore.html</loc>
-<lastmod>2018-05-05T21:44:00+00:50</lastmod>
+<lastmod>2018-05-19T11:44:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
