@@ -1,2 +1,1 @@
-User-agent: *
 Sitemap: www.gianlucafiore.it/sitemap.xml
