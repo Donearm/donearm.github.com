@@ -1988,7 +1988,7 @@
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: "Font Awesome\ 5 Free" "Font Aweseome\ 5 Brands";
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2056,7 +2056,7 @@
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: "Font Awesome\ 5 Free" "Font Awesome\ 5 Brands";
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2150,9 +2150,9 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: "Font Awesome\ 5 Free" "Font Awesome\ 5 Brands";
 			font-style: normal;
-			font-weight: normal;
+			font-weight: 900;
 			text-transform: none !important;
 		}
 
