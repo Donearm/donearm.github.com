@@ -3,9 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.gianlucafiore.it/tags/configurations/</loc>
+    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gianlucafiore.it/tags/developers/</loc>
+    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gianlucafiore.it/tags/devops/</loc>
+    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.gianlucafiore.it/</loc>
     <lastmod>2019-07-29T10:54:03+02:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gianlucafiore.it/tags/script/</loc>
+    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
   </url>
   
   <url>
@@ -16,31 +35,26 @@
   <url>
     <loc>https://www.gianlucafiore.it/tags/</loc>
     <lastmod>2019-07-29T10:54:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gianlucafiore.it/tags/configurations/</loc>
-    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.gianlucafiore.it/tags/book/</loc>
+    <lastmod>2019-07-22T11:24:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gianlucafiore.it/tags/developers/</loc>
-    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.gianlucafiore.it/tags/development/</loc>
+    <lastmod>2019-07-22T11:24:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gianlucafiore.it/tags/devops/</loc>
-    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.gianlucafiore.it/tags/programming/</loc>
+    <lastmod>2019-07-22T11:24:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gianlucafiore.it/tags/script/</loc>
-    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.gianlucafiore.it/tags/writing/</loc>
+    <lastmod>2019-07-22T11:24:03+02:00</lastmod>
   </url>
   
   <url>
@@ -49,33 +63,8 @@
   </url>
   
   <url>
-    <loc>https://www.gianlucafiore.it/tags/book/</loc>
-    <lastmod>2019-07-22T11:24:03+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gianlucafiore.it/tags/development/</loc>
-    <lastmod>2019-07-22T11:24:03+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gianlucafiore.it/tags/programming/</loc>
-    <lastmod>2019-07-22T11:24:03+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gianlucafiore.it/tags/writing/</loc>
-    <lastmod>2019-07-22T11:24:03+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gianlucafiore.it/tags/your-first-year-in-code/</loc>
     <lastmod>2019-07-22T11:24:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -84,7 +73,17 @@
   </url>
   
   <url>
+    <loc>https://www.gianlucafiore.it/tags/backend/</loc>
+    <lastmod>2018-12-19T18:11:03+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.gianlucafiore.it/blog/</loc>
+    <lastmod>2018-12-19T18:11:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gianlucafiore.it/tags/frontend/</loc>
     <lastmod>2018-12-19T18:11:03+02:00</lastmod>
   </url>
   
@@ -94,15 +93,13 @@
   </url>
   
   <url>
-    <loc>https://www.gianlucafiore.it/tags/backend/</loc>
-    <lastmod>2018-12-19T18:11:03+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.gianlucafiore.it/tags/developement/</loc>
+    <lastmod>2018-10-04T15:44:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gianlucafiore.it/tags/frontend/</loc>
-    <lastmod>2018-12-19T18:11:03+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.gianlucafiore.it/tags/freecodecamp/</loc>
+    <lastmod>2018-10-04T15:44:03+02:00</lastmod>
   </url>
   
   <url>
@@ -111,21 +108,8 @@
   </url>
   
   <url>
-    <loc>https://www.gianlucafiore.it/tags/developement/</loc>
-    <lastmod>2018-10-04T15:44:03+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gianlucafiore.it/tags/freecodecamp/</loc>
-    <lastmod>2018-10-04T15:44:03+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gianlucafiore.it/tags/life/</loc>
     <lastmod>2018-10-04T15:44:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -136,18 +120,26 @@
   <url>
     <loc>https://www.gianlucafiore.it/tags/appreciation/</loc>
     <lastmod>2018-05-19T11:44:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gianlucafiore.it/tags/friends/</loc>
     <lastmod>2018-05-19T11:44:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gianlucafiore.it/blog/freecodecamp/</loc>
     <lastmod>2018-05-05T21:44:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gianlucafiore.it/tags/atheism/</loc>
+    <lastmod>2017-08-20T17:04:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gianlucafiore.it/tags/religion/</loc>
+    <lastmod>2017-08-20T17:04:05+02:00</lastmod>
   </url>
   
   <url>
@@ -158,13 +150,11 @@
   <url>
     <loc>https://www.gianlucafiore.it/tags/coffee/</loc>
     <lastmod>2017-05-19T09:47:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gianlucafiore.it/tags/donation/</loc>
     <lastmod>2017-05-19T09:47:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -173,38 +163,33 @@
   </url>
   
   <url>
+    <loc>https://www.gianlucafiore.it/tags/cheat-sheet/</loc>
+    <lastmod>2016-07-01T11:33:03+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.gianlucafiore.it/blog/classic-cocktails-cheat-sheet/</loc>
     <lastmod>2016-07-01T11:33:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gianlucafiore.it/tags/cheat-sheet/</loc>
-    <lastmod>2016-07-01T11:33:03+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gianlucafiore.it/tags/cocktail/</loc>
     <lastmod>2016-07-01T11:33:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gianlucafiore.it/tags/drink/</loc>
     <lastmod>2016-07-01T11:33:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gianlucafiore.it/tags/duckduckgo/</loc>
     <lastmod>2016-07-01T11:33:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gianlucafiore.it/tags/search-engine/</loc>
     <lastmod>2016-07-01T11:33:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -215,30 +200,35 @@
   <url>
     <loc>https://www.gianlucafiore.it/tags/italy/</loc>
     <lastmod>2016-02-15T11:04:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gianlucafiore.it/tags/naples/</loc>
     <lastmod>2016-02-15T11:04:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gianlucafiore.it/tags/napoli/</loc>
     <lastmod>2016-02-15T11:04:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gianlucafiore.it/tags/travel/</loc>
     <lastmod>2016-02-15T11:04:03+02:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gianlucafiore.it/blog/a-brief-guide-to-duckduckgo/</loc>
+    <lastmod>2015-03-07T14:34:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gianlucafiore.it/tags/guide/</loc>
+    <lastmod>2015-03-07T14:34:02+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gianlucafiore.it/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
