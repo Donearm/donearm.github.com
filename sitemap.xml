@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.gianlucafiore.it/cv/</loc>
+    <lastmod>2019-08-26T10:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gianlucafiore.it/</loc>
+    <lastmod>2019-08-26T10:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.gianlucafiore.it/tags/configurations/</loc>
     <lastmod>2019-07-29T10:54:03+02:00</lastmod>
   </url>
@@ -14,11 +24,6 @@
   
   <url>
     <loc>https://www.gianlucafiore.it/tags/devops/</loc>
-    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gianlucafiore.it/</loc>
     <lastmod>2019-07-29T10:54:03+02:00</lastmod>
   </url>
   
@@ -65,11 +70,6 @@
   <url>
     <loc>https://www.gianlucafiore.it/tags/your-first-year-in-code/</loc>
     <lastmod>2019-07-22T11:24:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gianlucafiore.it/cv/</loc>
-    <lastmod>2019-03-11T10:14:03+02:00</lastmod>
   </url>
   
   <url>
