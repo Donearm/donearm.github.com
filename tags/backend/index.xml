@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>backend on Gianluca Fiore</title>
+    <link>https://www.gianlucafiore.it/tags/backend/</link>
+    <description>Recent content in backend on Gianluca Fiore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Wed, 19 Dec 2018 18:11:03 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.gianlucafiore.it/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Things I Know as of 2018</title>
+      <link>https://www.gianlucafiore.it/blog/things-i-know-as-of-2018/</link>
+      <pubDate>Wed, 19 Dec 2018 18:11:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/blog/things-i-know-as-of-2018/</guid>
+      <description>It honestly came as a surprise a post on Overreacted by Dan Abramov. He lists all the things he doesn&amp;rsquo;t know as of 2018, in an attempt to &amp;ldquo;devalue&amp;rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I&amp;rsquo;m far from being the only one surprised.</description>
+    </item>
+    
+  </channel>
+</rss>

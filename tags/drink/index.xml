@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drink on Gianluca Fiore</title>
+    <link>https://www.gianlucafiore.it/tags/drink/</link>
+    <description>Recent content in drink on Gianluca Fiore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Fri, 01 Jul 2016 11:33:03 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.gianlucafiore.it/tags/drink/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Classic Cocktails Cheat Sheet</title>
+      <link>https://www.gianlucafiore.it/blog/classic-cocktails-cheat-sheet/</link>
+      <pubDate>Fri, 01 Jul 2016 11:33:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/blog/classic-cocktails-cheat-sheet/</guid>
+      <description>A few days ago I&amp;rsquo;ve become the maintainer, and main contributor, of this DuckDuckGo&amp;rsquo;s Instant answer. It has been deployed on beta.duckduckgo.com only so far, as it is clearly just a beta.
+My passion for cocktails and carefully mixed drinks is no mistery and thus it was only natural to write such an IA for DuckDuckGo, my main search engine since a few years. It is incomplete, I only wanted to add classic cocktails, not all, and there are a few doubts on the format of the recipes among the community (see the pull request).</description>
+    </item>
+    
+  </channel>
+</rss>

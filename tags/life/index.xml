@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life on Gianluca Fiore</title>
+    <link>https://www.gianlucafiore.it/tags/life/</link>
+    <description>Recent content in life on Gianluca Fiore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Thu, 04 Oct 2018 15:44:03 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.gianlucafiore.it/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Freecodecamp: There and Back Again</title>
+      <link>https://www.gianlucafiore.it/blog/freecodecamp-there-and-back-again/</link>
+      <pubDate>Thu, 04 Oct 2018 15:44:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/blog/freecodecamp-there-and-back-again/</guid>
+      <description>Well, first of all, sorry for not updating about my progresses on Frontend development through Freecodecamp curriculum but there were basically none since last May. Why? Work got in the way, with a larger role and more duties taking over little by little the energy I had to focus on coding after work. First reason.
+Second reason, health issues. I&amp;rsquo;ve been battling with the most pernicious kind of backpain since spring and it intensified around June, when it became a routine to wake up in the middle of the night due to the pain, spend half an hour trying to get back to sleep, get up much earlier than due (like 6-6:30) and spending the rest of the day in a perennial tired state.</description>
+    </item>
+    
+    <item>
+      <title>Appreciation</title>
+      <link>https://www.gianlucafiore.it/blog/appreciation/</link>
+      <pubDate>Sat, 19 May 2018 11:44:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/blog/appreciation/</guid>
+      <description>I&amp;rsquo;ve ever been surprised, even amused, by the show of affection friends show in myself. Caring about myself has never been a high priority for me, I admit, so I emotionally recoil whenever an external being cares about my wellbeing more than me. I cannot comprehend it, on an emotional level of course as logically it is natural for friends to care about each other.
+What surprises me the most is the long-lasting effect I may have on people who I have barely crossed their paths during my life.</description>
+    </item>
+    
+    <item>
+      <title>Back To Naples</title>
+      <link>https://www.gianlucafiore.it/blog/backtonaples/</link>
+      <pubDate>Mon, 15 Feb 2016 11:04:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/blog/backtonaples/</guid>
+      <description>Last month I went back to my hometown, Naples, for New Year&amp;rsquo;s Eve. Meeting with family and showing the city to girlfriend. A very enjoyable week, I have to say, fun, drinks, good food, visiting as a tourist your old home and rejoining with 2 lovely cats at home :)
+The trip reinforced my love-hate relationship with Naples. The food is outstanding, it is really, really hard to find another city with same quality food as Naples, no doubts.</description>
+    </item>
+    
+  </channel>
+</rss>

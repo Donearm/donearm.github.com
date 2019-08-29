@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>developers on Gianluca Fiore</title>
+    <link>https://www.gianlucafiore.it/tags/developers/</link>
+    <description>Recent content in developers on Gianluca Fiore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 29 Jul 2019 10:54:03 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.gianlucafiore.it/tags/developers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scripts and Configuration files</title>
+      <link>https://www.gianlucafiore.it/scripts-and-configs/</link>
+      <pubDate>Mon, 29 Jul 2019 10:54:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/scripts-and-configs/</guid>
+      <description>Over many, many years (nearly 2 decades now) of working with computers, experimenting, breaking down stuff and rebuilding it, I&amp;rsquo;ve developed a large amount of scripts to help myself and in general of utilities that could make my life easier. At the same time, trying countless different piece of software, configuring them and testing new operating systems (way more than I can count today) resulted in dozens of configuration files from all the tests done, which I felt would be a waste to delete after I were done testing its relative software.</description>
+    </item>
+    
+    <item>
+      <title>Your First Year In Code</title>
+      <link>https://www.gianlucafiore.it/your-first-year-in-code/</link>
+      <pubDate>Mon, 22 Jul 2019 11:24:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/your-first-year-in-code/</guid>
+      <description>I&amp;rsquo;ve ever been surprised, even amused, by the show of affection friends show in myself. Caring about myself has never been a high priority for me, I admit, so I emotionally recoil whenever an external being cares about my wellbeing more than me. I cannot comprehend it, on an emotional level of course as logically it is natural for friends to care about each other.
+What surprises me the most is the long-lasting effect I may have on people who I have barely crossed their paths during my life.</description>
+    </item>
+    
+  </channel>
+</rss>
