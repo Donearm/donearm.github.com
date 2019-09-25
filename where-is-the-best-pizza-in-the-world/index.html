@@ -1,0 +1,219 @@
+<!DOCTYPE HTML>
+<html>
+
+    <head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="description" content="Mixologist of Code and Words. Developer, Blogger and Customer Care Specialist">
+	<meta name="author" content="Gianluca Fiore">
+    <meta name="google-site-verification" content="V6VRun_E3vi3JFledcS1YZ0_VsGC1-S6fL4MqOtWMSY" />
+	<meta name="generator" content="Hugo 0.58.3" />
+	<title>Where Is The Best Pizza In The World? &middot; Gianluca Fiore</title>
+	<!-- Stylesheets -->
+	
+	<link rel="stylesheet" href="https://www.gianlucafiore.it/css/main.css"/>
+	
+	
+
+	
+
+	<!-- Custom Fonts -->
+	<link href="https://www.gianlucafiore.it/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	
+	<link rel="shortcut icon" type="image/x-icon" href="https://www.gianlucafiore.it/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="https://www.gianlucafiore.it/favicon.ico">
+	
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="js/ie/html5shiv.js"></script>
+	<script src="js/ie/html5shiv.jsrespond.min.js"></script>
+	<![endif]-->
+</head>
+
+    <body>
+
+    <!-- Wrapper -->
+        <div id="wrapper">
+
+            <!-- Header -->
+    <header id="header" class="alt">
+        <a href="https://www.gianlucafiore.it" class="logo"><strong>Gianlucafiore.it</strong> <span></span></a>
+        <nav>
+        <ul id="linksinnav">
+            
+                <li><a href="https://www.gianlucafiore.it/blog">Blog</a></li>
+            
+                <li><a href="https://www.gianlucafiore.it/cv">CV</a></li>
+            
+                <li><a href="https://www.gianlucafiore.it/coffee">Coffee</a></li>
+            
+
+        </ul>
+            <a href="#menu">Menu</a>
+        </nav>
+    </header>
+
+<!-- Menu -->
+    <nav id="menu">
+        <ul class="links">
+            
+                <li><a href="https://www.gianlucafiore.it">Home</a></li>
+            
+                <li><a href="https://www.gianlucafiore.it/blog">Blog</a></li>
+            
+                <li><a href="https://www.gianlucafiore.it/cv">CV</a></li>
+            
+                <li><a href="https://www.gianlucafiore.it/coffee">Coffee</a></li>
+            
+
+        </ul>
+        <ul class="actions vertical">
+            
+            
+        </ul>
+    </nav>
+
+
+        <!-- Main -->
+            <div id="main" class="alt">
+
+                
+                    <section id="one">
+                        <div class="inner">
+                            <header class="major">
+                                <h1>Where Is The Best Pizza In The World?</h1>
+                            </header>
+                            <h4 id="date">Published on 25 Sep 2019 10:54AM
+                            
+                              </h4>
+                            
+                            
+                                <span class="image main"><img src="/img//pizza-screenshot.jpg" alt="" /></span>
+                            
+                            <p>A few months ago I found the <a href="https://github.com/stevekinney/pizza">pizza repository</a> of <a href="http://www.stevekinney.net/">Steve Kinney</a>, a project to list all the best pizzerias around the world. As a fan of pizza and being born in the hometown of it (Naples for those unaware), I started contributing to it pizzerias in Italy and Poland mostly that I knew by first-hand experience were very good.</p>
+
+<p>To make a longer story short, slowly the contributions piled up and I wasn&rsquo;t satisfied with a few technical solutions adopted, mainly the use of Ruby and implementing the list of pizzerias in Markdown in the Readme file. My fork of the original project grew distant enough that I agreed with Steve to make it a separate project and adding to it a UI, moving  it at the same time to a Go codebase.</p>
+
+<p>Therefore now the project is feature-complete for the time being. The pizzerias&rsquo; list is no more just in markdown but it is implemented as a struct in Go which I wrote a script to convert it into GeoJson, a much more apt format to handle geographical locations as the pizzerias are. From there, it is easy to load it from the frontend and visualize it with an <a href="https://www.openstreetmap.org">OSM Map</a> through the <a href="https://leafletjs.com">Leaflet</a> library. A few touches of CSS and the UI is done, supporting visualizing, searching and zooming automatically to the user&rsquo;s location thanks to the Geolocation API of modern browsers.</p>
+
+<p>The repo is on <a href="https://github.com/Donearm/pizza">Github</a>. To see it in action go <a href="https://www.gianlucafiore.it/pizza">here</a>. The tech stack used is:</p>
+
+<ul>
+<li>Golang (backend)</li>
+<li>Pizzeria&rsquo;s data are kept in GeoJson</li>
+<li>Javascript (frontend)</li>
+<li>Handling of the GeoJson data is done through jQuery and Leaflet.js</li>
+</ul>
+
+                            
+                            <h4>Tags</h4>
+                              
+                              <ul id="tags">
+                                
+                                <li><a href="https://www.gianlucafiore.it/tags/pizza">pizza</a></li>
+                                
+                                <li><a href="https://www.gianlucafiore.it/tags/restaurant">restaurant</a></li>
+                                
+                                <li><a href="https://www.gianlucafiore.it/tags/map">map</a></li>
+                                
+                                <li><a href="https://www.gianlucafiore.it/tags/javascript">javascript</a></li>
+                                
+                                <li><a href="https://www.gianlucafiore.it/tags/go">go</a></li>
+                                
+                              </ul>
+                              
+                            
+                            
+                        </div>
+                    </section>
+            <!-- Disqus Inject -->
+                
+                  <section>
+    <div class="inner" id="disqus_thread"></div>
+    <script type="text/javascript">
+
+    (function() {
+          
+          
+          if (window.location.hostname == "localhost")
+                return;
+
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          var disqus_shortname = 'Donearm';
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <div class="inner"><a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a></div>
+</section>
+                
+            </div>
+            
+        <!-- Footer -->
+            
+                <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <ul class="icons">
+                
+                    <li><a href="https://www.twitter.com/gianlucadfiore" class="icon alt fab fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                
+                    <li><a href="https://www.facebook.com/profile.php?id=100005405778031" class="icon alt fab fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+                
+                    <li><a href="https://www.instagram.com/gianlucadfiore" class="icon alt fab fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+                
+                    <li><a href="https://www.github.com/Donearm" class="icon alt fab fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+                
+                    <li><a href="https://www.linkedin.com/in/gianluca-fiore-a70913b6" class="icon alt fab fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+                
+            </ul>
+            <ul class="copyright">
+                <li>&copy; Gianluca Fiore</li>
+                
+                <li>Design:  <a href="https://www.html5up.net">HTML5 UP</a></li>
+                
+                <li>Icons:  <a href="https://fontawesome.com">Font Awesome</a></li>
+                
+            </ul>
+        </div>
+    </footer>
+
+            
+        </div>
+
+    <!-- Scripts -->
+        <!-- Scripts -->
+    <!-- jQuery -->
+    <script src="https://www.gianlucafiore.it/js/jquery.min.js"></script>
+    <script src="https://www.gianlucafiore.it/js/jquery.scrolly.min.js"></script>
+    <script src="https://www.gianlucafiore.it/js/jquery.scrollex.min.js"></script>
+    <script src="https://www.gianlucafiore.it/js/skel.min.js"></script>
+    <script src="https://www.gianlucafiore.it/js/util.js"></script>
+
+    
+
+    <!-- Main JS -->
+    <script src="https://www.gianlucafiore.it/js/main.js"></script>
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-35067383-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+    
+
+    </body>
+</html>
