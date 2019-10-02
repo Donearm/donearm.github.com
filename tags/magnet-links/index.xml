@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>magnet links on Gianluca Fiore</title>
+    <link>https://www.gianlucafiore.it/tags/magnet-links/</link>
+    <description>Recent content in magnet links on Gianluca Fiore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Fri, 31 May 2019 10:54:03 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.gianlucafiore.it/tags/magnet-links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>M2T</title>
+      <link>https://www.gianlucafiore.it/m2t/</link>
+      <pubDate>Fri, 31 May 2019 10:54:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/m2t/</guid>
+      <description>In case you don&amp;rsquo;t know, magnet URIs are a standard scheme for identifying files by their content, and widespreadly used to distribute them by softwares supporting it (most of Bittorrent clients nowadays). Only legal files, of course.
+Quite a lot of those clients support a &amp;ldquo;watch directory&amp;rdquo; in which you can drop a torrent file and start its download, immediately and automatically. For magnet URIs that is not possible though. This script I wrote transform such a URI into a file, saving it into those watch directories and allowing to automatically start downloading.</description>
+    </item>
+    
+  </channel>
+</rss>
