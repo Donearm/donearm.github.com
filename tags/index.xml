@@ -147,51 +147,6 @@
     </item>
     
     <item>
-      <title>book</title>
-      <link>https://www.gianlucafiore.it/tags/book/</link>
-      <pubDate>Mon, 22 Jul 2019 11:24:03 +0200</pubDate>
-      
-      <guid>https://www.gianlucafiore.it/tags/book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://www.gianlucafiore.it/tags/development/</link>
-      <pubDate>Mon, 22 Jul 2019 11:24:03 +0200</pubDate>
-      
-      <guid>https://www.gianlucafiore.it/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>https://www.gianlucafiore.it/tags/programming/</link>
-      <pubDate>Mon, 22 Jul 2019 11:24:03 +0200</pubDate>
-      
-      <guid>https://www.gianlucafiore.it/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>writing</title>
-      <link>https://www.gianlucafiore.it/tags/writing/</link>
-      <pubDate>Mon, 22 Jul 2019 11:24:03 +0200</pubDate>
-      
-      <guid>https://www.gianlucafiore.it/tags/writing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>your first year in code</title>
-      <link>https://www.gianlucafiore.it/tags/your-first-year-in-code/</link>
-      <pubDate>Mon, 22 Jul 2019 11:24:03 +0200</pubDate>
-      
-      <guid>https://www.gianlucafiore.it/tags/your-first-year-in-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>magnet links</title>
       <link>https://www.gianlucafiore.it/tags/magnet-links/</link>
       <pubDate>Fri, 31 May 2019 10:54:03 +0200</pubDate>
@@ -228,11 +183,29 @@
     </item>
     
     <item>
+      <title>development</title>
+      <link>https://www.gianlucafiore.it/tags/development/</link>
+      <pubDate>Wed, 19 Dec 2018 18:11:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>frontend</title>
       <link>https://www.gianlucafiore.it/tags/frontend/</link>
       <pubDate>Wed, 19 Dec 2018 18:11:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/tags/frontend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://www.gianlucafiore.it/tags/programming/</link>
+      <pubDate>Wed, 19 Dec 2018 18:11:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/tags/programming/</guid>
       <description></description>
     </item>
     
