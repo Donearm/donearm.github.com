@@ -6,10 +6,20 @@
     <description>Recent content in frontend on Gianluca Fiore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 19 Dec 2018 18:11:03 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2019 10:54:03 +0200</lastBuildDate>
     
 	<atom:link href="https://www.gianlucafiore.it/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Where Is The Best Pizza In The World?</title>
+      <link>https://www.gianlucafiore.it/where-is-the-best-pizza-in-the-world/</link>
+      <pubDate>Wed, 25 Sep 2019 10:54:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/where-is-the-best-pizza-in-the-world/</guid>
+      <description>A few months ago I found the pizza repository of Steve Kinney, a project to list all the best pizzerias around the world. As a fan of pizza and being born in the hometown of it (Naples for those unaware), I started contributing to it pizzerias in Italy and Poland mostly that I knew by first-hand experience were very good.
+To make a longer story short, slowly the contributions piled up and I wasn&amp;rsquo;t satisfied with a few technical solutions adopted, mainly the use of Ruby and implementing the list of pizzerias in Markdown in the Readme file.</description>
+    </item>
     
     <item>
       <title>Things I Know as of 2018</title>
