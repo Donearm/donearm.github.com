@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nespresso on Gianluca Fiore</title>
+    <link>https://www.gianlucafiore.it/tags/nespresso/</link>
+    <description>Recent content in nespresso on Gianluca Fiore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Fri, 19 May 2017 09:47:03 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.gianlucafiore.it/tags/nespresso/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Buy Gianluca Coffee</title>
+      <link>https://www.gianlucafiore.it/coffee/</link>
+      <pubDate>Fri, 19 May 2017 09:47:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/coffee/</guid>
+      <description>Why I love coffee:  It clearly tastes good It is a source of energy No start of the day is right without a proper coffee I love my Nespresso machine but the capsules are expensive Fuels my projects (quite literally) It&#39;s like a donation to a friend (well, sort of)  I love it that much that I keep a blog with a few friends about it (pod-specific coffee only though).</description>
+    </item>
+    
+  </channel>
+</rss>
