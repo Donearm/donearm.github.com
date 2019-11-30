@@ -27,8 +27,7 @@ This one much more personal, about my passion for traveling and in particular to
       <pubDate>Mon, 04 Nov 2019 10:14:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/cv/</guid>
-      <description>Download a PDF copy of my resume here
-Experience Customer Support Specialist at Revolut January 2019 - April 2019  Supporting customers via chat channel. Resolved 105% of the weekly target over multiple months  Senior Online Product Specialist, Workflow Lead and Assistant Team Leader at Accenture Services November 2017 - September 2018  Optimizing clients&amp;rsquo; Google Ads campaigns to achieve best results for the client Supporting customers via chat, email and phone channels.</description>
+      <description>Download a PDF copy of my resume hereExperience Customer Support Specialist at Revolut January 2019 - April 2019  Supporting customers via chat channel. Resolved 105% of the weekly target over multiple months  Senior Online Product Specialist, Workflow Lead and Assistant Team Leader at Accenture Services November 2017 - September 2018  Optimizing clients&amp;rsquo; Google Ads campaigns to achieve best results for the client Supporting customers via chat, email and phone channels.</description>
     </item>
     
     <item>
@@ -37,7 +36,7 @@ Experience Customer Support Specialist at Revolut January 2019 - April 2019  Sup
       <pubDate>Sun, 29 Sep 2019 16:34:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/when-is-my-team-playing-presentation/</guid>
-      <description>As a football fan, I&amp;rsquo;m always on the lookout for informations about my favourite teams. I have more than one so the search is not immediate. Most of the time, using multiple websites, I have to click multiple times to see the league standings&amp;rsquo; and where is my team is at the moment. Worse, a lot of sport newspapers on the internet don&amp;rsquo;t immediately give you info about the next match of your team, nor you are sure if the time given is accurate to your timezone.</description>
+      <description>As a football fan, I&#39;m always on the lookout for informations about my favourite teams. I have more than one so the search is not immediate. Most of the time, using multiple websites, I have to click multiple times to see the league standings&amp;rsquo; and where is my team is at the moment. Worse, a lot of sport newspapers on the internet don&#39;t immediately give you info about the next match of your team, nor you are sure if the time given is accurate to your timezone.</description>
     </item>
     
     <item>
@@ -47,7 +46,7 @@ Experience Customer Support Specialist at Revolut January 2019 - April 2019  Sup
       
       <guid>https://www.gianlucafiore.it/where-is-the-best-pizza-in-the-world/</guid>
       <description>A few months ago I found the pizza repository of Steve Kinney, a project to list all the best pizzerias around the world. As a fan of pizza and being born in the hometown of it (Naples for those unaware), I started contributing to it pizzerias in Italy and Poland mostly that I knew by first-hand experience were very good.
-To make a longer story short, slowly the contributions piled up and I wasn&amp;rsquo;t satisfied with a few technical solutions adopted, mainly the use of Ruby and implementing the list of pizzerias in Markdown in the Readme file.</description>
+To make a longer story short, slowly the contributions piled up and I wasn&#39;t satisfied with a few technical solutions adopted, mainly the use of Ruby and implementing the list of pizzerias in Markdown in the Readme file.</description>
     </item>
     
     <item>
@@ -56,7 +55,7 @@ To make a longer story short, slowly the contributions piled up and I wasn&amp;r
       <pubDate>Mon, 29 Jul 2019 10:54:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/scripts-and-configs/</guid>
-      <description>Over many, many years (nearly 2 decades now) of working with computers, experimenting, breaking down stuff and rebuilding it, I&amp;rsquo;ve developed a large amount of scripts to help myself and in general of utilities that could make my life easier. At the same time, trying countless different piece of software, configuring them and testing new operating systems (way more than I can count today) resulted in dozens of configuration files from all the tests done, which I felt would be a waste to delete after I were done testing its relative software.</description>
+      <description>Over many, many years (nearly 2 decades now) of working with computers, experimenting, breaking down stuff and rebuilding it, I&#39;ve developed a large amount of scripts to help myself and in general of utilities that could make my life easier. At the same time, trying countless different piece of software, configuring them and testing new operating systems (way more than I can count today) resulted in dozens of configuration files from all the tests done, which I felt would be a waste to delete after I were done testing its relative software.</description>
     </item>
     
     <item>
@@ -65,7 +64,7 @@ To make a longer story short, slowly the contributions piled up and I wasn&amp;r
       <pubDate>Mon, 22 Jul 2019 11:24:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/your-first-year-in-code/</guid>
-      <description>With my extreme surprise, but also extreme happiness, I published a book! I say surprise because I didn&amp;rsquo;t plan to but heard about the awesome Isaac Lyman and his idea of writing a guide book for new and aspiring developers, not too techincal but instead full of advices and knowledge that is geared towards those who are approaching the profession, or recently started it. The main goal of Isaac&amp;rsquo;s idea was to write a book that would teach you a few non technical things that we learnt in our first 1-2 years as developers and we truly wished we knew from the beginning instead.</description>
+      <description>With my extreme surprise, but also extreme happiness, I published a book! I say surprise because I didn&#39;t plan to but heard about the awesome Isaac Lyman and his idea of writing a guide book for new and aspiring developers, not too techincal but instead full of advices and knowledge that is geared towards those who are approaching the profession, or recently started it. The main goal of Isaac&#39;s idea was to write a book that would teach you a few non technical things that we learnt in our first 1-2 years as developers and we truly wished we knew from the beginning instead.</description>
     </item>
     
     <item>
@@ -74,7 +73,7 @@ To make a longer story short, slowly the contributions piled up and I wasn&amp;r
       <pubDate>Fri, 31 May 2019 10:54:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/m2t/</guid>
-      <description>In case you don&amp;rsquo;t know, magnet URIs are a standard scheme for identifying files by their content, and widespreadly used to distribute them by softwares supporting it (most of Bittorrent clients nowadays). Only legal files, of course.
+      <description>In case you don&#39;t know, magnet URIs are a standard scheme for identifying files by their content, and widespreadly used to distribute them by softwares supporting it (most of Bittorrent clients nowadays). Only legal files, of course.
 Quite a lot of those clients support a &amp;ldquo;watch directory&amp;rdquo; in which you can drop a torrent file and start its download, immediately and automatically. For magnet URIs that is not possible though. This script I wrote transform such a URI into a file, saving it into those watch directories and allowing to automatically start downloading.</description>
     </item>
     
@@ -84,7 +83,7 @@ Quite a lot of those clients support a &amp;ldquo;watch directory&amp;rdquo; in 
       <pubDate>Wed, 19 Dec 2018 18:11:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/blog/things-i-know-as-of-2018/</guid>
-      <description>It honestly came as a surprise a post on Overreacted by Dan Abramov. He lists all the things he doesn&amp;rsquo;t know as of 2018, in an attempt to &amp;ldquo;devalue&amp;rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I&amp;rsquo;m far from being the only one surprised.</description>
+      <description>It honestly came as a surprise a post on Overreacted by Dan Abramov. He lists all the things he doesn&#39;t know as of 2018, in an attempt to &amp;ldquo;devalue&amp;rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I&#39;m far from being the only one surprised.</description>
     </item>
     
     <item>
@@ -94,7 +93,7 @@ Quite a lot of those clients support a &amp;ldquo;watch directory&amp;rdquo; in 
       
       <guid>https://www.gianlucafiore.it/blog/freecodecamp-there-and-back-again/</guid>
       <description>Well, first of all, sorry for not updating about my progresses on Frontend development through Freecodecamp curriculum but there were basically none since last May. Why? Work got in the way, with a larger role and more duties taking over little by little the energy I had to focus on coding after work. First reason.
-Second reason, health issues. I&amp;rsquo;ve been battling with the most pernicious kind of backpain since spring and it intensified around June, when it became a routine to wake up in the middle of the night due to the pain, spend half an hour trying to get back to sleep, get up much earlier than due (like 6-6:30) and spending the rest of the day in a perennial tired state.</description>
+Second reason, health issues. I&#39;ve been battling with the most pernicious kind of backpain since spring and it intensified around June, when it became a routine to wake up in the middle of the night due to the pain, spend half an hour trying to get back to sleep, get up much earlier than due (like 6-6:30) and spending the rest of the day in a perennial tired state.</description>
     </item>
     
     <item>
@@ -103,7 +102,7 @@ Second reason, health issues. I&amp;rsquo;ve been battling with the most pernici
       <pubDate>Sat, 19 May 2018 11:44:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/blog/appreciation/</guid>
-      <description>I&amp;rsquo;ve ever been surprised, even amused, by the show of affection friends show in myself. Caring about myself has never been a high priority for me, I admit, so I emotionally recoil whenever an external being cares about my wellbeing more than me. I cannot comprehend it, on an emotional level of course as logically it is natural for friends to care about each other.
+      <description>I&#39;ve ever been surprised, even amused, by the show of affection friends show in myself. Caring about myself has never been a high priority for me, I admit, so I emotionally recoil whenever an external being cares about my wellbeing more than me. I cannot comprehend it, on an emotional level of course as logically it is natural for friends to care about each other.
 What surprises me the most is the long-lasting effect I may have on people who I have barely crossed their paths during my life.</description>
     </item>
     
@@ -113,8 +112,8 @@ What surprises me the most is the long-lasting effect I may have on people who I
       <pubDate>Sat, 05 May 2018 21:44:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/blog/freecodecamp/</guid>
-      <description>Frontend development was never my area. I&amp;rsquo;ve always been more of a Backend/System Administrator. I&amp;rsquo;ve never truly grokked the idea of events, DOM, making requests elsewhere and things running outside my machine, without me giving precise instruction when to run and what arguments to accept.
-Yet it&amp;rsquo;s 2018 and Javascript permeates the programming world, whether we like it or not. Thus I was looking for a new challenge to keep me motivated to learn throughout the year.</description>
+      <description>Frontend development was never my area. I&#39;ve always been more of a Backend/System Administrator. I&#39;ve never truly grokked the idea of events, DOM, making requests elsewhere and things running outside my machine, without me giving precise instruction when to run and what arguments to accept.
+Yet it&#39;s 2018 and Javascript permeates the programming world, whether we like it or not. Thus I was looking for a new challenge to keep me motivated to learn throughout the year.</description>
     </item>
     
     <item>
@@ -123,7 +122,7 @@ Yet it&amp;rsquo;s 2018 and Javascript permeates the programming world, whether 
       <pubDate>Fri, 19 May 2017 09:47:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/coffee/</guid>
-      <description>Why I love coffee:  It clearly tastes good It is a source of energy No start of the day is right without a proper coffee I love my Nespresso machine but the capsules are expensive Fuels my projects (quite literally) It&amp;rsquo;s like a donation to a friend (well, sort of)  I love it that much that I keep a blog with a few friends about it (pod-specific coffee only though).</description>
+      <description>Why I love coffee:  It clearly tastes good It is a source of energy No start of the day is right without a proper coffee I love my Nespresso machine but the capsules are expensive Fuels my projects (quite literally) It&#39;s like a donation to a friend (well, sort of)  I love it that much that I keep a blog with a few friends about it (pod-specific coffee only though).</description>
     </item>
     
     <item>
@@ -132,8 +131,8 @@ Yet it&amp;rsquo;s 2018 and Javascript permeates the programming world, whether 
       <pubDate>Mon, 04 Jul 2016 14:44:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/blog/programming-isnt-easy/</guid>
-      <description>I was reading, as usual, Scott Hanselman&amp;rsquo;s blog and couldn&amp;rsquo;t agree more on his complaining on the recent WWDC keynote asserting that programming is easy. From his post:
- When we tell folks - kids or otherwise - that programming is easy, what will they think when it gets difficult? And it will get difficult. That&amp;rsquo;s where people find themselves saying &amp;ldquo;well, I guess I&amp;rsquo;m not wired for coding. It&amp;rsquo;s just not for me.</description>
+      <description>I was reading, as usual, Scott Hanselman&#39;s blog and couldn&#39;t agree more on his complaining on the recent WWDC keynote asserting that programming is easy. From his post:
+ When we tell folks - kids or otherwise - that programming is easy, what will they think when it gets difficult? And it will get difficult. That&#39;s where people find themselves saying &amp;ldquo;well, I guess I&#39;m not wired for coding. It&#39;s just not for me.</description>
     </item>
     
     <item>
@@ -142,7 +141,7 @@ Yet it&amp;rsquo;s 2018 and Javascript permeates the programming world, whether 
       <pubDate>Fri, 01 Jul 2016 11:33:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/blog/classic-cocktails-cheat-sheet/</guid>
-      <description>A few days ago I&amp;rsquo;ve become the maintainer, and main contributor, of this DuckDuckGo&amp;rsquo;s Instant answer. It has been deployed on beta.duckduckgo.com only so far, as it is clearly just a beta.
+      <description>A few days ago I&#39;ve become the maintainer, and main contributor, of this DuckDuckGo&#39;s Instant answer. It has been deployed on beta.duckduckgo.com only so far, as it is clearly just a beta.
 My passion for cocktails and carefully mixed drinks is no mistery and thus it was only natural to write such an IA for DuckDuckGo, my main search engine since a few years. It is incomplete, I only wanted to add classic cocktails, not all, and there are a few doubts on the format of the recipes among the community (see the pull request).</description>
     </item>
     
@@ -152,7 +151,7 @@ My passion for cocktails and carefully mixed drinks is no mistery and thus it wa
       <pubDate>Mon, 15 Feb 2016 11:04:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/blog/backtonaples/</guid>
-      <description>Last month I went back to my hometown, Naples, for New Year&amp;rsquo;s Eve. Meeting with family and showing the city to girlfriend. A very enjoyable week, I have to say, fun, drinks, good food, visiting as a tourist your old home and rejoining with 2 lovely cats at home :)
+      <description>Last month I went back to my hometown, Naples, for New Year&#39;s Eve. Meeting with family and showing the city to girlfriend. A very enjoyable week, I have to say, fun, drinks, good food, visiting as a tourist your old home and rejoining with 2 lovely cats at home :)
 The trip reinforced my love-hate relationship with Naples. The food is outstanding, it is really, really hard to find another city with same quality food as Naples, no doubts.</description>
     </item>
     
@@ -162,9 +161,9 @@ The trip reinforced my love-hate relationship with Naples. The food is outstandi
       <pubDate>Sat, 07 Mar 2015 14:34:02 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/blog/a-brief-guide-to-duckduckgo/</guid>
-      <description>Or why you should be using it even if you don&amp;rsquo;t care about privacy or don&amp;rsquo;t know what a search engine bubble may be.
-It&amp;rsquo;s in no way a comprehensive guide nor &amp;ldquo;the best of&amp;rdquo; of what DuckDuckGo offers. Just what I find more useful and have been using so far.
-Time  days between today and 02/28/2013 = 16 days. Unfortunately, this uses the US month/day/year format 18:30 to 19:25 = 55 minutes february calendar = print the calendar for this year&amp;rsquo;s february calendar next month = print next month&amp;rsquo;s calendar  Travel  weather = weather for your current location 80100 = search for the map of your postal code.</description>
+      <description>Or why you should be using it even if you don&#39;t care about privacy or don&#39;t know what a search engine bubble may be.
+It&#39;s in no way a comprehensive guide nor &amp;ldquo;the best of&amp;rdquo; of what DuckDuckGo offers. Just what I find more useful and have been using so far.
+Time  days between today and 02/28/2013 = 16 days. Unfortunately, this uses the US month/day/year format 18:30 to 19:25 = 55 minutes february calendar = print the calendar for this year&#39;s february calendar next month = print next month&#39;s calendar  Travel  weather = weather for your current location 80100 = search for the map of your postal code.</description>
     </item>
     
   </channel>

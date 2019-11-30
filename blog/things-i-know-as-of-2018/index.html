@@ -8,7 +8,7 @@
 	<meta name="description" content="Mixologist of Code and Words. Developer, Blogger and Customer Care Specialist">
 	<meta name="author" content="Gianluca Fiore">
     <meta name="google-site-verification" content="V6VRun_E3vi3JFledcS1YZ0_VsGC1-S6fL4MqOtWMSY" />
-	<meta name="generator" content="Hugo 0.59.1" />
+	<meta name="generator" content="Hugo 0.60.1" />
 	<title>Things I Know as of 2018 &middot; Gianluca Fiore</title>
 	<!-- Stylesheets -->
 	
@@ -94,71 +94,92 @@
                             
                                 <span class="image main"><img src="/img/blog/man-silhouette.jpg" alt="" /></span>
                             
-                            <p>It honestly came as a surprise a <a href="https://overreacted.io/things-i-dont-know-as-of-2018/">post</a> on Overreacted by <a href="https://mobile.twitter.com/dan_abramov">Dan Abramov</a>. He lists all the things he doesn&rsquo;t know as of 2018, in an attempt to &ldquo;devalue&rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I&rsquo;m far from being the only one surprised.</p>
-
+                            <p>It honestly came as a surprise a <a href="https://overreacted.io/things-i-dont-know-as-of-2018/">post</a> on Overreacted by <a href="https://mobile.twitter.com/dan_abramov">Dan Abramov</a>. He lists all the things he doesn't know as of 2018, in an attempt to &ldquo;devalue&rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I'm far from being the only one surprised.</p>
 <p>Dan is proficient in React at Facebook, and I did assume he would be strong in fundamentals, frontend (obviously), and somewhat good/very good in devops. My imposter syndrome is a constant struggle, an everyday one I admit, and I was taken back by the quantity of concepts I thought a programmer of the experience level of Dan would know that he admit not knowing while I do. Truly way beyond what I would have hoped.</p>
-
-<p>Therefore, as a symbolic pat on my back, for once, I would like to go through his list of technologies and programming concepts and write what I know as of 2018. I promise to be fully honest, of course. Thus, in the same order as Dan&rsquo;s:</p>
-
+<p>Therefore, as a symbolic pat on my back, for once, I would like to go through his list of technologies and programming concepts and write what I know as of 2018. I promise to be fully honest, of course. Thus, in the same order as Dan's:</p>
 <ul>
-<li><p><strong>Unix commands and Bash</strong>. I have been using Linux as my main system for nearly 2 decades. I can tar/untar by heart and even rsync into another computer without checking the syntax. After around one hundred Bash scripts written, considering those I since deleted as not useful anymore, I&rsquo;m fairly confident in Bash (4.0 and after included) syntax, redirections and other moderately advanced topics. I do have difficulties in finding topics I need to deepen my knowledge often here.</p></li>
-
-<li><p><strong>Low-level languages</strong>. I did my tiny share of Assembly back in the time. C was mostly at high school, I have kept of it the concept of pointers and a vague understanding of manual memory allocation but that&rsquo;s about it. A few years back I wrote and interface for checking MPD status and pass it to a Lua interpreter (<a href="https://github.com/Donearm/Mpd-Info/blob/master/mpdinfo.c">here</a>) and it was a good refresher of C. But that&rsquo;s about it. I know nothing about Rust.</p></li>
-
-<li><p><strong>Networking stack</strong>. In high school I was fairly proficient in how IP, TCP/IP and even more esoteric protocols worked (ICMP, ARP and a few others). I keep a general understanding of what each does what and how they interact between themselves but never actually used this knowledge in practice. Some details as remembering there&rsquo;s a payload, a checksum, Ipv4 and Ipv6 differences are in my memory though. I would be able to keep a discussion on the Networking stack with experts. Perhaps.</p></li>
-
-<li><p><strong>Containers</strong>. I have played with Docker in the past. Somewhere in my external hd I still have a Docker file for a barebone Archlinux development installation but I have never actually used it. I am aware I&rsquo;ll be using Docker in the future but not eager to. Kubernetes are unknown to me.</p></li>
-
-<li><p><strong>Serverless</strong>. I like the idea. I never implemented anything of this model.</p></li>
-
-<li><p><strong>Microservices</strong>. Not sure what they actually are. It may be I actually wrote something similar to a microservice without knowing. It&rsquo;s a vague concept still.</p></li>
-
-<li><p><strong>Python</strong>. Python used to be the first and only language I considered proficient in. It is the one I started true programming, outside school and Bash. I do use it from time to time when I need to try something quickly and don&rsquo;t plan to mantain it. Concept-wise, list comprehensions, Python3vs2 differences and the difference between a list, a tuple and a dictionary are what I am confident I know very well. More advanced topics I have probably used once and now forgot. Could easily relearn everything in a week if I wanted.</p></li>
-
-<li><p><strong>Node backends</strong>. I&rsquo;ve only recently started working with Node so I&rsquo;m a junior, at most. I am implementing a backend for a Bootstrap/jQuery project of mine. I wrote a couple of scripts, thus using it instead of Bash/Python, and it was fine. Currently learning to work with MongoDB from Node and it is not hard at all. Plan for 2019 is to fully learn it to a job-ready level.</p></li>
-
-<li><p><strong>Native platforms</strong>. I tried Java a decade ago, not a fan of it. Thought about learning it again for job reasons. Other languages as Swift and Objective C I know what they are used for and that&rsquo;s about it.</p></li>
-
-<li><p><strong>Algorithms</strong>. I used to implement a couple of algorithms for each language I was going to learn. That included even Common Lisp, for instance. I could write a quick bubble sort after looking up some pseudocode on Wikipedia but other algorithms are lost to me today. I can surmise the wrong approaches to loops by looking at the code but couldn&rsquo;t translate it to Big O(n) notation.</p></li>
-
-<li><p><strong>Functional languages</strong>. Haskell, Common Lisp, functional concepts in Python and Javascript and even a tiny bit of OCaml are as far as my knowledge of functional languages go. Or actually were as I couldn&rsquo;t write anything useful in a purely functional language but I do know the basic fundamentals of the aforementioned ones. In my career I&rsquo;ve always tried to keep my functions &ldquo;pure&rdquo; or at the very least to break down in smaller ones, doing a single action, as per the functional programming paradigm. Sort of keeping the muscle memory of it strong. I would rather work with a fully functional language than an OOP one.</p></li>
-
-<li><p><strong>Functional terminology</strong>. As with Dan&rsquo;s post, Map, filter and reduce are fine; monoids, functors, monads are quite fuzzy instead.</p></li>
-
-<li><p><strong>Modern CSS</strong>. I&rsquo;ve been playing with Flexbox and Grid. I like both. Not an expert, obviously. I used to write my simple html files with floats and I approached the &ldquo;I&rsquo;ve mastered it&rdquo; level.</p></li>
-
-<li><p><strong>SCSS / Sass</strong>. Never used them and never understood their usefulness.</p></li>
-
-<li><p><strong>CORS</strong>. CORS are still that thing that complains in my Firefox Web Console but the site works fine :) No, really, I know the meaning of those errors and have implemented at least one project changing the HTTP headers to avoid CORS errors but nothing more than this.</p></li>
-
-<li><p><strong>HTTPS / SSL</strong>. Theoretically I&rsquo;ve a good understanding of how the protocol works but I&rsquo;ve never implemented anything with it. Looks like something easier to write than thought at first.</p></li>
-
-<li><p><strong>GraphQL</strong>. On my to learn list for 2019.</p></li>
-
-<li><p><strong>Sockets</strong>. Never truly understood how they work. I&rsquo;ve used Unix domain sockets with Go a couple of years back and knew enough to make them work without knowing the details. I wouldn&rsquo;t be able to write anything using them today without extensive research.</p></li>
-
-<li><p><strong>Streams</strong>. I stumbled upon them in Node nowadays. Very little I know of how they work.</p></li>
-
-<li><p><strong>Electron</strong>. I know zero about it.</p></li>
-
-<li><p><strong>TypeScript</strong>. Understand its concepts and can read it, but never used it myself. Not even tried it so I don&rsquo;t know how hard would it be.</p></li>
-
-<li><p><strong>Deployment and devops</strong>. Probably I&rsquo;ve SIGTERMed and SIGKILLed far more processes than I like to admit as a Linux user. Sometimes I like to fg and bg a process, successfully. I can easily install/reinstall any Linux distro and have been partitioning my hard drives with cfdisk since time immemorial. Not truly sure what all the devops skills should be but probably I know more of them than I realize.</p></li>
-
-<li><p><strong>Graphics</strong>. I know what SVG, canvas and WebGL are and have used the former, at least. Not really needed to know more than the very basics so far.</p></li>
-
-<li><p><strong>Go</strong>. That&rsquo;s the second language I&rsquo;m the most proficient at the moment, after Python. I love how it is barebone but also &ldquo;ordered&rdquo;. Not missing generics. Probably I am at an intermediate level in it but never used it for a job.</p></li>
-
-<li><p><strong>Lua</strong>. I used to play with it a lot, even more than with Python for a couple of years. As with Go, I like how it is very barebone and its interoperability with C. I have a fair share of scripts in Lua that I have been converting to Go or Javascript (with Node) in the last years. Not keen on using it much in the future as it is not in request where I live. Nice language though.</p></li>
-
-<li><p><strong>Javascript</strong>. Been learning it in the last 2 years. I am writing it nearly everyday now, vanilla or in frameworks and libraries. Liking it more than I&rsquo;d like to admit. ES6 syntax is nice and have been learning more and more of the new possibilities it gives with Freecodecamp exercises. I am probably a junior Javascript developer at the moment. Just don&rsquo;t ask me to write anything too complicated yet.</p></li>
+<li>
+<p><strong>Unix commands and Bash</strong>. I have been using Linux as my main system for nearly 2 decades. I can tar/untar by heart and even rsync into another computer without checking the syntax. After around one hundred Bash scripts written, considering those I since deleted as not useful anymore, I'm fairly confident in Bash (4.0 and after included) syntax, redirections and other moderately advanced topics. I do have difficulties in finding topics I need to deepen my knowledge often here.</p>
+</li>
+<li>
+<p><strong>Low-level languages</strong>. I did my tiny share of Assembly back in the time. C was mostly at high school, I have kept of it the concept of pointers and a vague understanding of manual memory allocation but that's about it. A few years back I wrote and interface for checking MPD status and pass it to a Lua interpreter (<a href="https://github.com/Donearm/Mpd-Info/blob/master/mpdinfo.c">here</a>) and it was a good refresher of C. But that's about it. I know nothing about Rust.</p>
+</li>
+<li>
+<p><strong>Networking stack</strong>. In high school I was fairly proficient in how IP, TCP/IP and even more esoteric protocols worked (ICMP, ARP and a few others). I keep a general understanding of what each does what and how they interact between themselves but never actually used this knowledge in practice. Some details as remembering there's a payload, a checksum, Ipv4 and Ipv6 differences are in my memory though. I would be able to keep a discussion on the Networking stack with experts. Perhaps.</p>
+</li>
+<li>
+<p><strong>Containers</strong>. I have played with Docker in the past. Somewhere in my external hd I still have a Docker file for a barebone Archlinux development installation but I have never actually used it. I am aware I'll be using Docker in the future but not eager to. Kubernetes are unknown to me.</p>
+</li>
+<li>
+<p><strong>Serverless</strong>. I like the idea. I never implemented anything of this model.</p>
+</li>
+<li>
+<p><strong>Microservices</strong>. Not sure what they actually are. It may be I actually wrote something similar to a microservice without knowing. It's a vague concept still.</p>
+</li>
+<li>
+<p><strong>Python</strong>. Python used to be the first and only language I considered proficient in. It is the one I started true programming, outside school and Bash. I do use it from time to time when I need to try something quickly and don't plan to mantain it. Concept-wise, list comprehensions, Python3vs2 differences and the difference between a list, a tuple and a dictionary are what I am confident I know very well. More advanced topics I have probably used once and now forgot. Could easily relearn everything in a week if I wanted.</p>
+</li>
+<li>
+<p><strong>Node backends</strong>. I've only recently started working with Node so I'm a junior, at most. I am implementing a backend for a Bootstrap/jQuery project of mine. I wrote a couple of scripts, thus using it instead of Bash/Python, and it was fine. Currently learning to work with MongoDB from Node and it is not hard at all. Plan for 2019 is to fully learn it to a job-ready level.</p>
+</li>
+<li>
+<p><strong>Native platforms</strong>. I tried Java a decade ago, not a fan of it. Thought about learning it again for job reasons. Other languages as Swift and Objective C I know what they are used for and that's about it.</p>
+</li>
+<li>
+<p><strong>Algorithms</strong>. I used to implement a couple of algorithms for each language I was going to learn. That included even Common Lisp, for instance. I could write a quick bubble sort after looking up some pseudocode on Wikipedia but other algorithms are lost to me today. I can surmise the wrong approaches to loops by looking at the code but couldn't translate it to Big O(n) notation.</p>
+</li>
+<li>
+<p><strong>Functional languages</strong>. Haskell, Common Lisp, functional concepts in Python and Javascript and even a tiny bit of OCaml are as far as my knowledge of functional languages go. Or actually were as I couldn't write anything useful in a purely functional language but I do know the basic fundamentals of the aforementioned ones. In my career I've always tried to keep my functions &ldquo;pure&rdquo; or at the very least to break down in smaller ones, doing a single action, as per the functional programming paradigm. Sort of keeping the muscle memory of it strong. I would rather work with a fully functional language than an OOP one.</p>
+</li>
+<li>
+<p><strong>Functional terminology</strong>. As with Dan's post, Map, filter and reduce are fine; monoids, functors, monads are quite fuzzy instead.</p>
+</li>
+<li>
+<p><strong>Modern CSS</strong>. I've been playing with Flexbox and Grid. I like both. Not an expert, obviously. I used to write my simple html files with floats and I approached the &ldquo;I've mastered it&rdquo; level.</p>
+</li>
+<li>
+<p><strong>SCSS / Sass</strong>. Never used them and never understood their usefulness.</p>
+</li>
+<li>
+<p><strong>CORS</strong>. CORS are still that thing that complains in my Firefox Web Console but the site works fine :) No, really, I know the meaning of those errors and have implemented at least one project changing the HTTP headers to avoid CORS errors but nothing more than this.</p>
+</li>
+<li>
+<p><strong>HTTPS / SSL</strong>. Theoretically I've a good understanding of how the protocol works but I've never implemented anything with it. Looks like something easier to write than thought at first.</p>
+</li>
+<li>
+<p><strong>GraphQL</strong>. On my to learn list for 2019.</p>
+</li>
+<li>
+<p><strong>Sockets</strong>. Never truly understood how they work. I've used Unix domain sockets with Go a couple of years back and knew enough to make them work without knowing the details. I wouldn't be able to write anything using them today without extensive research.</p>
+</li>
+<li>
+<p><strong>Streams</strong>. I stumbled upon them in Node nowadays. Very little I know of how they work.</p>
+</li>
+<li>
+<p><strong>Electron</strong>. I know zero about it.</p>
+</li>
+<li>
+<p><strong>TypeScript</strong>. Understand its concepts and can read it, but never used it myself. Not even tried it so I don't know how hard would it be.</p>
+</li>
+<li>
+<p><strong>Deployment and devops</strong>. Probably I've SIGTERMed and SIGKILLed far more processes than I like to admit as a Linux user. Sometimes I like to fg and bg a process, successfully. I can easily install/reinstall any Linux distro and have been partitioning my hard drives with cfdisk since time immemorial. Not truly sure what all the devops skills should be but probably I know more of them than I realize.</p>
+</li>
+<li>
+<p><strong>Graphics</strong>. I know what SVG, canvas and WebGL are and have used the former, at least. Not really needed to know more than the very basics so far.</p>
+</li>
+<li>
+<p><strong>Go</strong>. That's the second language I'm the most proficient at the moment, after Python. I love how it is barebone but also &ldquo;ordered&rdquo;. Not missing generics. Probably I am at an intermediate level in it but never used it for a job.</p>
+</li>
+<li>
+<p><strong>Lua</strong>. I used to play with it a lot, even more than with Python for a couple of years. As with Go, I like how it is very barebone and its interoperability with C. I have a fair share of scripts in Lua that I have been converting to Go or Javascript (with Node) in the last years. Not keen on using it much in the future as it is not in request where I live. Nice language though.</p>
+</li>
+<li>
+<p><strong>Javascript</strong>. Been learning it in the last 2 years. I am writing it nearly everyday now, vanilla or in frameworks and libraries. Liking it more than I'd like to admit. ES6 syntax is nice and have been learning more and more of the new possibilities it gives with Freecodecamp exercises. I am probably a junior Javascript developer at the moment. Just don't ask me to write anything too complicated yet.</p>
+</li>
 </ul>
-
-<hr />
-
-<p>And that&rsquo;s it. That&rsquo;s all I know about computers as of 2018. It will be nice to rewrite the same list at the end of 2019 and notice the differences.</p>
-
-<p>Ah, I was forgetting about SEO and writing. I&rsquo;ve been honing my skills of both with my non-technical blog of <a href="https://papersounds.eu">Paper Sounds</a> and can hold my opinion in a SEO discussion between experts. Long tail and short tail keywords, CPC, CPM, CTR and researching keywords were concepts I didn&rsquo;t know at the beginning of 2018 but have been using it daily for the past few months. I like SEO and I like writing even more.</p>
+<hr>
+<p>And that's it. That's all I know about computers as of 2018. It will be nice to rewrite the same list at the end of 2019 and notice the differences.</p>
+<p>Ah, I was forgetting about SEO and writing. I've been honing my skills of both with my non-technical blog of <a href="https://papersounds.eu">Paper Sounds</a> and can hold my opinion in a SEO discussion between experts. Long tail and short tail keywords, CPC, CPM, CTR and researching keywords were concepts I didn't know at the beginning of 2018 but have been using it daily for the past few months. I like SEO and I like writing even more.</p>
 
                             
                             <h4>Tags</h4>
