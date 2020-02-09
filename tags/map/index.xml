@@ -18,7 +18,7 @@
       
       <guid>https://www.gianlucafiore.it/where-is-the-best-pizza-in-the-world/</guid>
       <description>A few months ago I found the pizza repository of Steve Kinney, a project to list all the best pizzerias around the world. As a fan of pizza and being born in the hometown of it (Naples for those unaware), I started contributing to it pizzerias in Italy and Poland mostly that I knew by first-hand experience were very good.
-To make a longer story short, slowly the contributions piled up and I wasn&#39;t satisfied with a few technical solutions adopted, mainly the use of Ruby and implementing the list of pizzerias in Markdown in the Readme file.</description>
+To make a longer story short, slowly the contributions piled up and I wasn&amp;rsquo;t satisfied with a few technical solutions adopted, mainly the use of Ruby and implementing the list of pizzerias in Markdown in the Readme file.</description>
     </item>
     
   </channel>

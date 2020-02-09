@@ -17,7 +17,7 @@
       <pubDate>Mon, 29 Jul 2019 10:54:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/scripts-and-configs/</guid>
-      <description>Over many, many years (nearly 2 decades now) of working with computers, experimenting, breaking down stuff and rebuilding it, I&#39;ve developed a large amount of scripts to help myself and in general of utilities that could make my life easier. At the same time, trying countless different piece of software, configuring them and testing new operating systems (way more than I can count today) resulted in dozens of configuration files from all the tests done, which I felt would be a waste to delete after I were done testing its relative software.</description>
+      <description>Over many, many years (nearly 2 decades now) of working with computers, experimenting, breaking down stuff and rebuilding it, I&amp;rsquo;ve developed a large amount of scripts to help myself and in general of utilities that could make my life easier. At the same time, trying countless different piece of software, configuring them and testing new operating systems (way more than I can count today) resulted in dozens of configuration files from all the tests done, which I felt would be a waste to delete after I were done testing its relative software.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 31 May 2019 10:54:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/m2t/</guid>
-      <description>In case you don&#39;t know, magnet URIs are a standard scheme for identifying files by their content, and widespreadly used to distribute them by softwares supporting it (most of Bittorrent clients nowadays). Only legal files, of course.
+      <description>In case you don&amp;rsquo;t know, magnet URIs are a standard scheme for identifying files by their content, and widespreadly used to distribute them by softwares supporting it (most of Bittorrent clients nowadays). Only legal files, of course.
 Quite a lot of those clients support a &amp;ldquo;watch directory&amp;rdquo; in which you can drop a torrent file and start its download, immediately and automatically. For magnet URIs that is not possible though. This script I wrote transform such a URI into a file, saving it into those watch directories and allowing to automatically start downloading.</description>
     </item>
     

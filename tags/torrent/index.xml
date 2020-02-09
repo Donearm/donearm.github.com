@@ -17,7 +17,7 @@
       <pubDate>Fri, 31 May 2019 10:54:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/m2t/</guid>
-      <description>In case you don&#39;t know, magnet URIs are a standard scheme for identifying files by their content, and widespreadly used to distribute them by softwares supporting it (most of Bittorrent clients nowadays). Only legal files, of course.
+      <description>In case you don&amp;rsquo;t know, magnet URIs are a standard scheme for identifying files by their content, and widespreadly used to distribute them by softwares supporting it (most of Bittorrent clients nowadays). Only legal files, of course.
 Quite a lot of those clients support a &amp;ldquo;watch directory&amp;rdquo; in which you can drop a torrent file and start its download, immediately and automatically. For magnet URIs that is not possible though. This script I wrote transform such a URI into a file, saving it into those watch directories and allowing to automatically start downloading.</description>
     </item>
     
