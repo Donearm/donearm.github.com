@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Gianluca Fiore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Fri, 22 Nov 2019 11:24:03 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2020 10:59:46 +0100</lastBuildDate>
     
 	<atom:link href="https://www.gianlucafiore.it/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>me</title>
+      <link>https://www.gianlucafiore.it/tags/me/</link>
+      <pubDate>Sun, 09 Feb 2020 10:59:46 +0100</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/tags/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naples</title>
+      <link>https://www.gianlucafiore.it/tags/naples/</link>
+      <pubDate>Sun, 09 Feb 2020 10:59:46 +0100</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/tags/naples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://www.gianlucafiore.it/tags/story/</link>
+      <pubDate>Sun, 09 Feb 2020 10:59:46 +0100</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/tags/story/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>book</title>
@@ -404,15 +431,6 @@
       <pubDate>Mon, 15 Feb 2016 11:04:03 +0200</pubDate>
       
       <guid>https://www.gianlucafiore.it/tags/italy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>naples</title>
-      <link>https://www.gianlucafiore.it/tags/naples/</link>
-      <pubDate>Mon, 15 Feb 2016 11:04:03 +0200</pubDate>
-      
-      <guid>https://www.gianlucafiore.it/tags/naples/</guid>
       <description></description>
     </item>
     
