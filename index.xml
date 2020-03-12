@@ -6,10 +6,19 @@
     <description>Recent content on Gianluca Fiore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sun, 09 Feb 2020 10:59:46 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 10:14:03 +0200</lastBuildDate>
     
 	<atom:link href="https://www.gianlucafiore.it/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cv</title>
+      <link>https://www.gianlucafiore.it/cv/</link>
+      <pubDate>Thu, 12 Mar 2020 10:14:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/cv/</guid>
+      <description>Download a PDF copy of my resume here Experience Freelance Content Writer October 2018 - Present  Technical, travel and entertainment content writer  Customer Support Specialist at Revolut January 2019 - April 2019  Supporting customers via chat channel. Resolved 105% of the weekly target over multiple months  Senior Online Product Specialist, Workflow Lead and Assistant Team Leader at Accenture Services November 2017 - September 2018  Optimizing clients&amp;rsquo; Google Ads campaigns to achieve best results for the client Supporting customers via chat, email and phone channels.</description>
+    </item>
     
     <item>
       <title>My Story</title>
@@ -29,15 +38,6 @@ It is not a place of science and perhaps my fascination with computers came as a
       <guid>https://www.gianlucafiore.it/how-to-travel-solo/</guid>
       <description>After the first book, of which I was no more than a contributor, Your First Year In Code, I decided that was fine and actually great fun to write and publish books so I wrote another one :)
 This one much more personal, about my passion for traveling and in particular to travel alone, something that I have been doing for more than 20 years, nearly each year: How To Travel Solo.</description>
-    </item>
-    
-    <item>
-      <title>Cv</title>
-      <link>https://www.gianlucafiore.it/cv/</link>
-      <pubDate>Mon, 04 Nov 2019 10:14:03 +0200</pubDate>
-      
-      <guid>https://www.gianlucafiore.it/cv/</guid>
-      <description>Download a PDF copy of my resume here Experience Customer Support Specialist at Revolut January 2019 - April 2019  Supporting customers via chat channel. Resolved 105% of the weekly target over multiple months  Senior Online Product Specialist, Workflow Lead and Assistant Team Leader at Accenture Services November 2017 - September 2018  Optimizing clients&amp;rsquo; Google Ads campaigns to achieve best results for the client Supporting customers via chat, email and phone channels.</description>
     </item>
     
     <item>
