@@ -1,1 +1,1 @@
-Sitemap: www.gianlucafiore.it/sitemap.xml
+Sitemap: https://www.gianlucafiore.it/sitemap.xml
