@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogging on Gianluca Fiore</title>
+    <link>https://www.gianlucafiore.it/tags/blogging/</link>
+    <description>Recent content in blogging on Gianluca Fiore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Tue, 06 Oct 2020 12:54:50 +0200</lastBuildDate><atom:link href="https://www.gianlucafiore.it/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fountain Pen Creator</title>
+      <link>https://www.gianlucafiore.it/blog/fountain-pen-creator/</link>
+      <pubDate>Tue, 06 Oct 2020 12:54:50 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/blog/fountain-pen-creator/</guid>
+      <description>It’s easy to see how this blog has been neglected for a long time. My fault, obviously. Also my choice.
+Point being, I’ve been barely thinking and working with my coding projects since about a year. Why? I got disillusioned. I lost interest in modern coding practices.
+Let me be clear: I do like coding and I will be coding in my spare time, occasionally, forever, probably. I am going to use my coding knowledge in my future career(s) as an advantage point and to automate my work.</description>
+    </item>
+    
+  </channel>
+</rss>
