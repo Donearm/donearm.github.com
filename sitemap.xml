@@ -59,6 +59,9 @@
     <loc>https://www.gianlucafiore.it/cv/</loc>
     <lastmod>2020-03-26T10:14:03+02:00</lastmod>
   </url><url>
+    <loc>https://www.gianlucafiore.it/tags/development/</loc>
+    <lastmod>2020-02-09T10:59:46+01:00</lastmod>
+  </url><url>
     <loc>https://www.gianlucafiore.it/tags/me/</loc>
     <lastmod>2020-02-09T10:59:46+01:00</lastmod>
   </url><url>
@@ -69,6 +72,15 @@
     <lastmod>2020-02-09T10:59:46+01:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/story/</loc>
+    <lastmod>2020-02-09T10:59:46+01:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/system-administration/</loc>
+    <lastmod>2020-02-09T10:59:46+01:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/technical-writing/</loc>
+    <lastmod>2020-02-09T10:59:46+01:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/writing/</loc>
     <lastmod>2020-02-09T10:59:46+01:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/book/</loc>
@@ -87,9 +99,6 @@
     <lastmod>2019-11-22T11:24:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/traveling/</loc>
-    <lastmod>2019-11-22T11:24:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/writing/</loc>
     <lastmod>2019-11-22T11:24:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/bootstrap/</loc>
@@ -148,9 +157,6 @@
   </url><url>
     <loc>https://www.gianlucafiore.it/scripts-and-configs/</loc>
     <lastmod>2019-07-29T10:54:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/development/</loc>
-    <lastmod>2019-07-22T11:24:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/your-first-year-in-code/</loc>
     <lastmod>2019-07-22T11:24:03+02:00</lastmod>

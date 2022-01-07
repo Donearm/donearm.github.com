@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technical writing on Gianluca Fiore</title>
+    <link>https://www.gianlucafiore.it/tags/technical-writing/</link>
+    <description>Recent content in technical writing on Gianluca Fiore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Sun, 09 Feb 2020 10:59:46 +0100</lastBuildDate><atom:link href="https://www.gianlucafiore.it/tags/technical-writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Story</title>
+      <link>https://www.gianlucafiore.it/my-story/</link>
+      <pubDate>Sun, 09 Feb 2020 10:59:46 +0100</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/my-story/</guid>
+      <description>I was born in Naples, Italy. For those who don&amp;rsquo;t know it, it&amp;rsquo;s a place where art, criminality, religiousity, awesome food, the best pizza in the world, strong coffee, the sea, 2 volcanos and greek+roman+christian civilitazions meet and thrive(d) for thousands of years. Not an easy place to be born, nor one that won&amp;rsquo;t leave you with marks, positive and negatives, for all your life.
+It is not a place of science and perhaps my fascination with computers came as a response to the lack of interest in them when I was a child.</description>
+    </item>
+    
+  </channel>
+</rss>
