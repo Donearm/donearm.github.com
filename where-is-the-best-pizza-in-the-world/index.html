@@ -9,7 +9,7 @@
 	<meta name="description" content="Mixologist of Code and Words. Developer, System Administrator and Technical Writer">
 	<meta name="author" content="Gianluca Fiore">
     <meta name="google-site-verification" content="V6VRun_E3vi3JFledcS1YZ0_VsGC1-S6fL4MqOtWMSY" />
-	<meta name="generator" content="Hugo 0.92.2" />
+	<meta name="generator" content="Hugo 0.93.1" />
 	<title>Where Is The Best Pizza In The World? &middot; Gianluca Fiore</title>
 	<!-- Stylesheets -->
 	
@@ -101,7 +101,7 @@
                             
                             <p>A few months ago I found the <a href="https://github.com/stevekinney/pizza">pizza repository</a> of <a href="http://www.stevekinney.net/">Steve Kinney</a>, a project to list all the best pizzerias around the world. As a fan of pizza and being born in the hometown of it (Naples for those unaware), I started contributing to it pizzerias in Italy and Poland mostly that I knew by first-hand experience were very good.</p>
 <p>To make a longer story short, slowly the contributions piled up and I wasn&rsquo;t satisfied with a few technical solutions adopted, mainly the use of Ruby and implementing the list of pizzerias in Markdown in the Readme file. My fork of the original project grew distant enough that I agreed with Steve to make it a separate project and adding to it a UI, moving  it at the same time to a Go codebase.</p>
-<p>Therefore now the project is feature-complete for the time being. The pizzerias' list is no more just in markdown but it is implemented as a struct in Go which I wrote a script to convert it into GeoJson, a much more apt format to handle geographical locations as the pizzerias are. From there, it is easy to load it from the frontend and visualize it with an <a href="https://www.openstreetmap.org">OSM Map</a> through the <a href="https://leafletjs.com">Leaflet</a> library. A few touches of CSS and the UI is done, supporting visualizing, searching and zooming automatically to the user&rsquo;s location thanks to the Geolocation API of modern browsers.</p>
+<p>Therefore now the project is feature-complete for the time being. The pizzerias&rsquo; list is no more just in markdown but it is implemented as a struct in Go which I wrote a script to convert it into GeoJson, a much more apt format to handle geographical locations as the pizzerias are. From there, it is easy to load it from the frontend and visualize it with an <a href="https://www.openstreetmap.org">OSM Map</a> through the <a href="https://leafletjs.com">Leaflet</a> library. A few touches of CSS and the UI is done, supporting visualizing, searching and zooming automatically to the user&rsquo;s location thanks to the Geolocation API of modern browsers.</p>
 <p>The repo is on <a href="https://github.com/Donearm/pizza">Github</a>. To see it in action go <a href="https://www.gianlucafiore.it/pizza">here</a>. The tech stack used is:</p>
 <ul>
 <li>Golang (backend)</li>
