@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.gianlucafiore.it/blog/</loc>
-    <lastmod>2022-01-17T14:44:03+02:00</lastmod>
+    <loc>https://www.gianlucafiore.it/tags/content-authoring/</loc>
+    <lastmod>2022-03-01T10:54:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/</loc>
+    <lastmod>2022-03-01T10:54:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/hca-florida/</loc>
+    <lastmod>2022-03-01T10:54:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/healthcare/</loc>
+    <lastmod>2022-03-01T10:54:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/sitecore/</loc>
+    <lastmod>2022-03-01T10:54:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/</loc>
+    <lastmod>2022-03-01T10:54:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/technical-writing/</loc>
+    <lastmod>2022-03-01T10:54:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/website-designing/</loc>
+    <lastmod>2022-03-01T10:54:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/writing/</loc>
+    <lastmod>2022-03-01T10:54:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/blog/</loc>
     <lastmod>2022-01-17T14:44:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/hardware/</loc>
@@ -21,9 +45,6 @@
     <lastmod>2022-01-17T14:44:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/blog/pulse-15-update-after-one-year/</loc>
-    <lastmod>2022-01-17T14:44:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/</loc>
     <lastmod>2022-01-17T14:44:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/tuxedocomputers/</loc>
@@ -81,12 +102,6 @@
     <lastmod>2020-02-09T10:59:46+01:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/system-administration/</loc>
-    <lastmod>2020-02-09T10:59:46+01:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/technical-writing/</loc>
-    <lastmod>2020-02-09T10:59:46+01:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/writing/</loc>
     <lastmod>2020-02-09T10:59:46+01:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/book/</loc>
