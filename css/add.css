@@ -13,3 +13,13 @@
 		/* from https://fonts.gstatic.com/s/sourcesanspro/v13/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7l.woff2 */
 		url('../webfonts/Source_Sans_Pro.woff2') format('woff2');
 }
+
+figure > img {
+	display: block;
+	margin: 0 auto;
+}
+
+figcaption p {
+	text-align: center;
+	font-style: italic;
+}
