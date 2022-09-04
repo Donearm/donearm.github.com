@@ -8,6 +8,15 @@
     <language>en-GB</language>
     <lastBuildDate>Mon, 18 Apr 2022 11:44:03 +0200</lastBuildDate><atom:link href="https://www.gianlucafiore.it/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cv</title>
+      <link>https://www.gianlucafiore.it/cv/</link>
+      <pubDate>Sun, 04 Sep 2022 10:14:03 +0200</pubDate>
+      
+      <guid>https://www.gianlucafiore.it/cv/</guid>
+      <description>Experience Technical Content Writer at tribe29 July 2022 - Present Technical writer for the checkmk.com website. Creating new blog posts, editing existing ones and optimizing their online presence through keywords&amp;rsquo; researching Creating marketing content (flyers, user guides) Writing white papers and in-depth guides Technical Writer at Epam Systems April 2021 - June 2022 Technical writer for various clients&amp;rsquo; projects involving wiki documentation, CMS, howtos, short papers SEO optimization of client&amp;rsquo;s websites Creating and editing technical documentation in Sitecore CMS and Confluence Ideating and desiging infrastructure&amp;rsquo;s diagrams in draw.</description>
+    </item>
+    
+    <item>
       <title>Most Meetings Are Useless</title>
       <link>https://www.gianlucafiore.it/blog/most-meetings-are-useless/</link>
       <pubDate>Mon, 18 Apr 2022 11:44:03 +0200</pubDate>
@@ -58,15 +67,6 @@ More info: the CMS is Sitecore. I was assigned a few mock-ups of the final pages
       <description>It’s easy to see how this blog has been neglected for a long time. My fault, obviously. Also my choice.
 Point being, I’ve been barely thinking and working with my coding projects since about a year. Why? I got disillusioned. I lost interest in modern coding practices.
 Let me be clear: I do like coding and I will be coding in my spare time, occasionally, forever, probably. I am going to use my coding knowledge in my future career(s) as an advantage point and to automate my work.</description>
-    </item>
-    
-    <item>
-      <title>Cv</title>
-      <link>https://www.gianlucafiore.it/cv/</link>
-      <pubDate>Thu, 26 Mar 2020 10:14:03 +0200</pubDate>
-      
-      <guid>https://www.gianlucafiore.it/cv/</guid>
-      <description>Experience Technical Content Writer at tribe29 July 2022 - Present Technical writer for the checkmk.com website. Creating new blog posts, editing existing ones and optimizing their online presence through keywords&amp;rsquo; researching Creating marketing content (flyers, user guides) Writing white papers and in-depth guides Technical Writer at Epam Systems April 2021 - June 2022 Technical writer for various clients&amp;rsquo; projects involving wiki documentation, CMS, howtos, short papers SEO optimization of client&amp;rsquo;s websites Creating and editing technical documentation in Sitecore CMS and Confluence Ideating and desiging infrastructure&amp;rsquo;s diagrams in draw.</description>
     </item>
     
     <item>

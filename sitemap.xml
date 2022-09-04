@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gianlucafiore.it/cv/</loc>
+    <lastmod>2022-09-04T10:14:03+02:00</lastmod>
+  </url><url>
     <loc>https://www.gianlucafiore.it/tags/agile/</loc>
     <lastmod>2022-04-18T11:44:03+02:00</lastmod>
   </url><url>
@@ -100,9 +103,6 @@
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/seo-consultant/</loc>
     <lastmod>2020-10-06T12:54:50+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/cv/</loc>
-    <lastmod>2020-03-26T10:14:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/development/</loc>
     <lastmod>2020-02-09T10:59:46+01:00</lastmod>
