@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gianlucafiore.it/blog/</loc>
+    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/football/</loc>
+    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/</loc>
+    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/life/</loc>
+    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/maradona/</loc>
+    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/blog/onpele/</loc>
+    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/pele/</loc>
+    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/sport/</loc>
+    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/</loc>
+    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
+  </url><url>
     <loc>https://www.gianlucafiore.it/cv/</loc>
     <lastmod>2022-09-04T10:14:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/agile/</loc>
-    <lastmod>2022-04-18T11:44:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/blog/</loc>
-    <lastmod>2022-04-18T11:44:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/</loc>
     <lastmod>2022-04-18T11:44:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/management/</loc>
@@ -24,9 +45,6 @@
     <lastmod>2022-04-18T11:44:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/scrum/</loc>
-    <lastmod>2022-04-18T11:44:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/</loc>
     <lastmod>2022-04-18T11:44:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/work-methodology/</loc>
@@ -92,9 +110,6 @@
     <loc>https://www.gianlucafiore.it/blog/fountain-pen-creator/</loc>
     <lastmod>2020-10-06T12:54:50+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/tags/life/</loc>
-    <lastmod>2020-10-06T12:54:50+02:00</lastmod>
-  </url><url>
     <loc>https://www.gianlucafiore.it/tags/marketing-writer/</loc>
     <lastmod>2020-10-06T12:54:50+02:00</lastmod>
   </url><url>
@@ -143,9 +158,6 @@
     <loc>https://www.gianlucafiore.it/tags/bootstrap/</loc>
     <lastmod>2019-09-29T16:34:03+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/tags/football/</loc>
-    <lastmod>2019-09-29T16:34:03+02:00</lastmod>
-  </url><url>
     <loc>https://www.gianlucafiore.it/tags/html/</loc>
     <lastmod>2019-09-29T16:34:03+02:00</lastmod>
   </url><url>
@@ -153,9 +165,6 @@
     <lastmod>2019-09-29T16:34:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/jquery/</loc>
-    <lastmod>2019-09-29T16:34:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/sport/</loc>
     <lastmod>2019-09-29T16:34:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/teams/</loc>
