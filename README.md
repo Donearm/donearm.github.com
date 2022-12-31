@@ -1,7 +1,7 @@
 donearm.github.com
 ==================
 
-Personal blog
+Personal blog for technical and personal articles
 
 License
 =======
