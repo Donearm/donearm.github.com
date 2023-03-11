@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.gianlucafiore.it/blog/</loc>
-    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
+    <loc>https://www.gianlucafiore.it/tags/bali/</loc>
+    <lastmod>2023-03-11T14:11:03+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/tags/football/</loc>
-    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
+    <loc>https://www.gianlucafiore.it/blog/bali/</loc>
+    <lastmod>2023-03-11T14:11:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/blog/</loc>
+    <lastmod>2023-03-11T14:11:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/</loc>
-    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
+    <lastmod>2023-03-11T14:11:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/indonesia/</loc>
+    <lastmod>2023-03-11T14:11:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/life/</loc>
+    <lastmod>2023-03-11T14:11:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/</loc>
+    <lastmod>2023-03-11T14:11:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/traveling/</loc>
+    <lastmod>2023-03-11T14:11:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/tags/football/</loc>
     <lastmod>2022-12-30T11:04:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/maradona/</loc>
@@ -24,9 +39,6 @@
     <lastmod>2022-12-30T11:04:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/sport/</loc>
-    <lastmod>2022-12-30T11:04:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/</loc>
     <lastmod>2022-12-30T11:04:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/cv/</loc>
@@ -150,9 +162,6 @@
     <lastmod>2019-11-22T11:24:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/solo-traveling/</loc>
-    <lastmod>2019-11-22T11:24:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/traveling/</loc>
     <lastmod>2019-11-22T11:24:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/bootstrap/</loc>
