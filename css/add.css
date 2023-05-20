@@ -2,6 +2,11 @@
 	text-align: center;
 	text-decoration: none;
 }
+/*
+body {
+	background: #33303b !important;
+}
+*/
 
 @font-face {
 	font-family: 'Source Sans Pro';
@@ -23,3 +28,13 @@ figcaption p {
 	text-align: center;
 	font-style: italic;
 }
+
+/*
+a:hover {
+	border-bottom-color: transparent;                                                                         
+■   color: #e5ab65 !important;                                                                                
+}
+a:active {
+	color: #e5ab65 !important;                                                                                
+}
+*/
