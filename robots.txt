@@ -4,6 +4,9 @@ Disallow: /
 User-agent: OpenAI
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
 User-agent: *
 Allow: /
 
