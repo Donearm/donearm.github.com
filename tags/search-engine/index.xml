@@ -6,27 +6,21 @@
     <description>Recent content in search engine on Gianluca Fiore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Fri, 01 Jul 2016 11:33:03 +0200</lastBuildDate><atom:link href="https://www.gianlucafiore.it/tags/search-engine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2016 11:33:03 +0200</lastBuildDate>
+    <atom:link href="https://www.gianlucafiore.it/tags/search-engine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classic Cocktails Cheat Sheet</title>
       <link>https://www.gianlucafiore.it/blog/classic-cocktails-cheat-sheet/</link>
       <pubDate>Fri, 01 Jul 2016 11:33:03 +0200</pubDate>
-      
       <guid>https://www.gianlucafiore.it/blog/classic-cocktails-cheat-sheet/</guid>
-      <description>A few days ago I&amp;rsquo;ve become the maintainer, and main contributor, of this DuckDuckGo&amp;rsquo;s Instant answer. It has been deployed on beta.duckduckgo.com only so far, as it is clearly just a beta.
-My passion for cocktails and carefully mixed drinks is no mistery and thus it was only natural to write such an IA for DuckDuckGo, my main search engine since a few years. It is incomplete, I only wanted to add classic cocktails, not all, and there are a few doubts on the format of the recipes among the community (see the pull request).</description>
+      <description>A few days ago I&amp;rsquo;ve become the maintainer, and main contributor, of this DuckDuckGo&amp;rsquo;s Instant answer. It has been deployed on beta.duckduckgo.com only so far, as it is clearly just a beta.&#xA;My passion for cocktails and carefully mixed drinks is no mistery and thus it was only natural to write such an IA for DuckDuckGo, my main search engine since a few years. It is incomplete, I only wanted to add classic cocktails, not all, and there are a few doubts on the format of the recipes among the community (see the pull request).</description>
     </item>
-    
     <item>
       <title>A Brief Guide To DuckDuckGo</title>
       <link>https://www.gianlucafiore.it/blog/a-brief-guide-to-duckduckgo/</link>
       <pubDate>Sat, 07 Mar 2015 14:34:02 +0200</pubDate>
-      
       <guid>https://www.gianlucafiore.it/blog/a-brief-guide-to-duckduckgo/</guid>
-      <description>Or why you should be using it even if you don&amp;rsquo;t care about privacy or don&amp;rsquo;t know what a search engine bubble may be.
-It&amp;rsquo;s in no way a comprehensive guide nor &amp;ldquo;the best of&amp;rdquo; of what DuckDuckGo offers. Just what I find more useful and have been using so far.
-Time days between today and 02/28/2013 = 16 days. Unfortunately, this uses the US month/day/year format 18:30 to 19:25 = 55 minutes february calendar = print the calendar for this year&amp;rsquo;s february calendar next month = print next month&amp;rsquo;s calendar Travel weather = weather for your current location 80100 = search for the map of your postal code.</description>
+      <description>Or why you should be using it even if you don&amp;rsquo;t care about privacy or don&amp;rsquo;t know what a search engine bubble may be.&#xA;It&amp;rsquo;s in no way a comprehensive guide nor &amp;ldquo;the best of&amp;rdquo; of what DuckDuckGo offers. Just what I find more useful and have been using so far.&#xA;Time days between today and 02/28/2013 = 16 days. Unfortunately, this uses the US month/day/year format 18:30 to 19:25 = 55 minutes february calendar = print the calendar for this year&amp;rsquo;s february calendar next month = print next month&amp;rsquo;s calendar Travel weather = weather for your current location 80100 = search for the map of your postal code.</description>
     </item>
-    
   </channel>
 </rss>

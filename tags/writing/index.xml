@@ -6,48 +6,35 @@
     <description>Recent content in writing on Gianluca Fiore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Tue, 01 Mar 2022 10:54:03 +0200</lastBuildDate><atom:link href="https://www.gianlucafiore.it/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 10:54:03 +0200</lastBuildDate>
+    <atom:link href="https://www.gianlucafiore.it/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HCA Florida</title>
       <link>https://www.gianlucafiore.it/hca-florida/</link>
       <pubDate>Tue, 01 Mar 2022 10:54:03 +0200</pubDate>
-      
       <guid>https://www.gianlucafiore.it/hca-florida/</guid>
-      <description>Client: HCA Florida
-Job: content authoring, technical writing, website designing
-Overview: redesigning and refreshing content of the HCA Florida hospitals and doctors websites
-Sample link: HCA Florida Healthcare
-Audience: general public and patients
-More info: the CMS is Sitecore. I was assigned a few mock-ups of the final pages and had to build the blocks of each page, as widgets, into the Sitecore system. Content was provided in form of images, links to videos, and plain text.</description>
+      <description>Client: HCA Florida&#xA;Job: content authoring, technical writing, website designing&#xA;Overview: redesigning and refreshing content of the HCA Florida hospitals and doctors websites&#xA;Sample link: HCA Florida Healthcare&#xA;Audience: general public and patients&#xA;More info: the CMS is Sitecore. I was assigned a few mock-ups of the final pages and had to build the blocks of each page, as widgets, into the Sitecore system. Content was provided in form of images, links to videos, and plain text.</description>
     </item>
-    
     <item>
       <title>My Story</title>
       <link>https://www.gianlucafiore.it/my-story/</link>
       <pubDate>Sun, 09 Feb 2020 10:59:46 +0100</pubDate>
-      
       <guid>https://www.gianlucafiore.it/my-story/</guid>
       <description>I was born in Naples, Italy. For those who don&amp;rsquo;t know it, it&amp;rsquo;s a place where art, criminality, religiousity, awesome food, the best pizza in the world, strong coffee, the sea, 2 volcanos and greek+roman+christian civilitazions meet and thrive(d) for thousands of years. Not an easy place to be born, nor one that won&amp;rsquo;t leave you with marks, positive and negatives, for all your life. It certainly did not leave me without an indelible impression.</description>
     </item>
-    
     <item>
       <title>How To Travel Solo</title>
       <link>https://www.gianlucafiore.it/how-to-travel-solo/</link>
       <pubDate>Fri, 22 Nov 2019 11:24:03 +0200</pubDate>
-      
       <guid>https://www.gianlucafiore.it/how-to-travel-solo/</guid>
-      <description>After the first book, of which I was no more than a contributor, Your First Year In Code, I decided that was fine and actually great fun to write and publish books so I wrote another one :)
-This one much more personal, about my passion for traveling and in particular to travel alone, something that I have been doing for more than 20 years, nearly each year: How To Travel Solo.</description>
+      <description>After the first book, of which I was no more than a contributor, Your First Year In Code, I decided that was fine and actually great fun to write and publish books so I wrote another one :)&#xA;This one much more personal, about my passion for traveling and in particular to travel alone, something that I have been doing for more than 20 years, nearly each year: How To Travel Solo.</description>
     </item>
-    
     <item>
       <title>Your First Year In Code</title>
       <link>https://www.gianlucafiore.it/your-first-year-in-code/</link>
       <pubDate>Mon, 22 Jul 2019 11:24:03 +0200</pubDate>
-      
       <guid>https://www.gianlucafiore.it/your-first-year-in-code/</guid>
       <description>With my extreme surprise, but also extreme happiness, I published a book! I say surprise because I didn&amp;rsquo;t plan to but heard about the awesome Isaac Lyman and his idea of writing a guide book for new and aspiring developers, not too techincal but instead full of advices and knowledge that is geared towards those who are approaching the profession, or recently started it. The main goal of Isaac&amp;rsquo;s idea was to write a book that would teach you a few non technical things that we learnt in our first 1-2 years as developers and we truly wished we knew from the beginning instead.</description>
     </item>
-    
   </channel>
 </rss>
