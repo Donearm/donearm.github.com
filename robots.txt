@@ -43,6 +43,10 @@ Disallow: /
 User-agent: omgili
 Disallow: /
 
+# A web crawler operated by ByteDance, the Chinese owner of TikTok
+User-agent: Bytespider
+Disallow: /
+
 User-agent: *
 Allow: /
 
