@@ -4,8 +4,8 @@
     <title>Map on Gianluca Fiore</title>
     <link>https://www.gianlucafiore.it/tags/map/</link>
     <description>Recent content in Map on Gianluca Fiore</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
     <lastBuildDate>Wed, 25 Sep 2019 10:54:03 +0200</lastBuildDate>
     <atom:link href="https://www.gianlucafiore.it/tags/map/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       <link>https://www.gianlucafiore.it/where-is-the-best-pizza-in-the-world/</link>
       <pubDate>Wed, 25 Sep 2019 10:54:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/where-is-the-best-pizza-in-the-world/</guid>
-      <description>A few months ago I found the pizza repository of Steve Kinney, a project to list all the best pizzerias around the world. As a fan of pizza and being born in the hometown of it (Naples for those unaware), I started contributing to it pizzerias in Italy and Poland mostly that I knew by first-hand experience were very good.&#xA;To make a longer story short, slowly the contributions piled up and I wasn&amp;rsquo;t satisfied with a few technical solutions adopted, mainly the use of Ruby and implementing the list of pizzerias in Markdown in the Readme file.</description>
+      <description>&lt;p&gt;A few months ago I found the &lt;a href=&#34;https://github.com/stevekinney/pizza&#34;&gt;pizza repository&lt;/a&gt; of &lt;a href=&#34;http://www.stevekinney.net/&#34;&gt;Steve Kinney&lt;/a&gt;, a project to list all the best pizzerias around the world. As a fan of pizza and being born in the hometown of it (Naples for those unaware), I started contributing to it pizzerias in Italy and Poland mostly that I knew by first-hand experience were very good.&lt;/p&gt;&#xA;&lt;p&gt;To make a longer story short, slowly the contributions piled up and I wasn&amp;rsquo;t satisfied with a few technical solutions adopted, mainly the use of Ruby and implementing the list of pizzerias in Markdown in the Readme file. My fork of the original project grew distant enough that I agreed with Steve to make it a separate project and adding to it a UI, moving  it at the same time to a Go codebase.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

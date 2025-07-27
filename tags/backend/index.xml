@@ -4,8 +4,8 @@
     <title>Backend on Gianluca Fiore</title>
     <link>https://www.gianlucafiore.it/tags/backend/</link>
     <description>Recent content in Backend on Gianluca Fiore</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
     <lastBuildDate>Wed, 19 Dec 2018 18:11:03 +0200</lastBuildDate>
     <atom:link href="https://www.gianlucafiore.it/tags/backend/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       <link>https://www.gianlucafiore.it/blog/things-i-know-as-of-2018/</link>
       <pubDate>Wed, 19 Dec 2018 18:11:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/things-i-know-as-of-2018/</guid>
-      <description>It honestly came as a surprise a post on Overreacted by Dan Abramov. He lists all the things he doesn&amp;rsquo;t know as of 2018, in an attempt to &amp;ldquo;devalue&amp;rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I&amp;rsquo;m far from being the only one surprised.</description>
+      <description>&lt;p&gt;It honestly came as a surprise a &lt;a href=&#34;https://overreacted.io/things-i-dont-know-as-of-2018/&#34;&gt;post&lt;/a&gt; on Overreacted by &lt;a href=&#34;https://mobile.twitter.com/dan_abramov&#34;&gt;Dan Abramov&lt;/a&gt;. He lists all the things he doesn&amp;rsquo;t know as of 2018, in an attempt to &amp;ldquo;devalue&amp;rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I&amp;rsquo;m far from being the only one surprised.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

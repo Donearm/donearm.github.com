@@ -4,23 +4,16 @@
     <title>Developers on Gianluca Fiore</title>
     <link>https://www.gianlucafiore.it/tags/developers/</link>
     <description>Recent content in Developers on Gianluca Fiore</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
-    <lastBuildDate>Mon, 29 Jul 2019 10:54:03 +0200</lastBuildDate>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 22 Jul 2019 11:24:03 +0200</lastBuildDate>
     <atom:link href="https://www.gianlucafiore.it/tags/developers/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Scripts and Configuration files</title>
-      <link>https://www.gianlucafiore.it/scripts-and-configs/</link>
-      <pubDate>Mon, 29 Jul 2019 10:54:03 +0200</pubDate>
-      <guid>https://www.gianlucafiore.it/scripts-and-configs/</guid>
-      <description>Over many, many years (nearly 2 decades now) of working with computers, experimenting, breaking down stuff and rebuilding it, I&amp;rsquo;ve developed a large amount of scripts to help myself and in general of utilities that could make my life easier. At the same time, trying countless different piece of software, configuring them and testing new operating systems (way more than I can count today) resulted in dozens of configuration files from all the tests done, which I felt would be a waste to delete after I were done testing its relative software.</description>
-    </item>
     <item>
       <title>Your First Year In Code</title>
       <link>https://www.gianlucafiore.it/your-first-year-in-code/</link>
       <pubDate>Mon, 22 Jul 2019 11:24:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/your-first-year-in-code/</guid>
-      <description>With my extreme surprise, but also extreme happiness, I published a book! I say surprise because I didn&amp;rsquo;t plan to but heard about the awesome Isaac Lyman and his idea of writing a guide book for new and aspiring developers, not too techincal but instead full of advices and knowledge that is geared towards those who are approaching the profession, or recently started it. The main goal of Isaac&amp;rsquo;s idea was to write a book that would teach you a few non technical things that we learnt in our first 1-2 years as developers and we truly wished we knew from the beginning instead.</description>
+      <description>&lt;p&gt;With my extreme surprise, but also extreme happiness, I published a book! I say&#xA;surprise because I didn&amp;rsquo;t plan to but heard about the awesome &lt;a href=&#34;https://isaaclyman.com/&#34;&gt;Isaac&#xA;Lyman&lt;/a&gt; and his idea of writing a guide book for new&#xA;and aspiring developers, not too techincal but instead full of advices and&#xA;knowledge that is geared towards those who are approaching the profession, or&#xA;recently started it. The main goal of Isaac&amp;rsquo;s idea was to write a book that&#xA;would teach you a few non technical things that we learnt in our first 1-2&#xA;years as developers and we truly wished we knew from the beginning instead.&#xA;Sort of jumpstarting your career.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

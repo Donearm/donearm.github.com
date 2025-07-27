@@ -4,8 +4,8 @@
     <title>Programming on Gianluca Fiore</title>
     <link>https://www.gianlucafiore.it/tags/programming/</link>
     <description>Recent content in Programming on Gianluca Fiore</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
     <lastBuildDate>Tue, 06 Oct 2020 12:54:50 +0200</lastBuildDate>
     <atom:link href="https://www.gianlucafiore.it/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,42 +13,42 @@
       <link>https://www.gianlucafiore.it/blog/fountain-pen-creator/</link>
       <pubDate>Tue, 06 Oct 2020 12:54:50 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/fountain-pen-creator/</guid>
-      <description>It’s easy to see how this blog has been neglected for a long time. My fault, obviously. Also my choice.&#xA;Point being, I’ve been barely thinking and working with my coding projects since about a year. Why? I got disillusioned. I lost interest in modern coding practices.&#xA;Let me be clear: I do like coding and I will be coding in my spare time, occasionally, forever, probably. I am going to use my coding knowledge in my future career(s) as an advantage point and to automate my work.</description>
+      <description>&lt;p&gt;It’s easy to see how this blog has been &lt;strong&gt;neglected&lt;/strong&gt; for a long time. My fault, obviously. Also &lt;strong&gt;my choice&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Point being, I’ve been barely thinking and working with my coding projects&#xA;since about a year. Why? I got &lt;strong&gt;disillusioned&lt;/strong&gt;. I lost interest in modern&#xA;coding practices.&lt;/p&gt;&#xA;&lt;p&gt;Let me be clear: I do &lt;strong&gt;like coding&lt;/strong&gt; and I will be coding in my spare time,&#xA;occasionally, forever, probably. I am going to use my coding knowledge in my&#xA;future career(s) as an advantage point and to automate my work. Coding isn’t&#xA;going to disappear from my life.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Your First Year In Code</title>
       <link>https://www.gianlucafiore.it/your-first-year-in-code/</link>
       <pubDate>Mon, 22 Jul 2019 11:24:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/your-first-year-in-code/</guid>
-      <description>With my extreme surprise, but also extreme happiness, I published a book! I say surprise because I didn&amp;rsquo;t plan to but heard about the awesome Isaac Lyman and his idea of writing a guide book for new and aspiring developers, not too techincal but instead full of advices and knowledge that is geared towards those who are approaching the profession, or recently started it. The main goal of Isaac&amp;rsquo;s idea was to write a book that would teach you a few non technical things that we learnt in our first 1-2 years as developers and we truly wished we knew from the beginning instead.</description>
+      <description>&lt;p&gt;With my extreme surprise, but also extreme happiness, I published a book! I say&#xA;surprise because I didn&amp;rsquo;t plan to but heard about the awesome &lt;a href=&#34;https://isaaclyman.com/&#34;&gt;Isaac&#xA;Lyman&lt;/a&gt; and his idea of writing a guide book for new&#xA;and aspiring developers, not too techincal but instead full of advices and&#xA;knowledge that is geared towards those who are approaching the profession, or&#xA;recently started it. The main goal of Isaac&amp;rsquo;s idea was to write a book that&#xA;would teach you a few non technical things that we learnt in our first 1-2&#xA;years as developers and we truly wished we knew from the beginning instead.&#xA;Sort of jumpstarting your career.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Things I Know as of 2018</title>
       <link>https://www.gianlucafiore.it/blog/things-i-know-as-of-2018/</link>
       <pubDate>Wed, 19 Dec 2018 18:11:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/things-i-know-as-of-2018/</guid>
-      <description>It honestly came as a surprise a post on Overreacted by Dan Abramov. He lists all the things he doesn&amp;rsquo;t know as of 2018, in an attempt to &amp;ldquo;devalue&amp;rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I&amp;rsquo;m far from being the only one surprised.</description>
+      <description>&lt;p&gt;It honestly came as a surprise a &lt;a href=&#34;https://overreacted.io/things-i-dont-know-as-of-2018/&#34;&gt;post&lt;/a&gt; on Overreacted by &lt;a href=&#34;https://mobile.twitter.com/dan_abramov&#34;&gt;Dan Abramov&lt;/a&gt;. He lists all the things he doesn&amp;rsquo;t know as of 2018, in an attempt to &amp;ldquo;devalue&amp;rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I&amp;rsquo;m far from being the only one surprised.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freecodecamp: There and Back Again</title>
       <link>https://www.gianlucafiore.it/blog/freecodecamp-there-and-back-again/</link>
       <pubDate>Thu, 04 Oct 2018 15:44:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/freecodecamp-there-and-back-again/</guid>
-      <description>Well, first of all, sorry for not updating about my progresses on Frontend development through Freecodecamp curriculum but there were basically none since last May. Why? Work got in the way, with a larger role and more duties taking over little by little the energy I had to focus on coding after work. First reason.&#xA;Second reason, health issues. I&amp;rsquo;ve been battling with the most pernicious kind of backpain since spring and it intensified around June, when it became a routine to wake up in the middle of the night due to the pain, spend half an hour trying to get back to sleep, get up much earlier than due (like 6-6:30) and spending the rest of the day in a perennial tired state.</description>
+      <description>&lt;p&gt;Well, first of all, sorry for not updating about my progresses on Frontend development through Freecodecamp curriculum but there were basically none since last May. Why? Work got in the way, with a larger role and more duties taking over little by little the energy I had to focus on coding after work. First reason.&lt;/p&gt;&#xA;&lt;p&gt;Second reason, health issues. I&amp;rsquo;ve been battling with the most pernicious kind of backpain since spring and it intensified around June, when it became a routine to wake up in the middle of the night due to the pain, spend half an hour trying to get back to sleep, get up much earlier than due (like 6-6:30) and spending the rest of the day in a perennial tired state. Rinse and repeat the day after. For weeks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freecodecamp</title>
       <link>https://www.gianlucafiore.it/blog/freecodecamp/</link>
       <pubDate>Sat, 05 May 2018 21:44:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/freecodecamp/</guid>
-      <description>Frontend development was never my area. I&amp;rsquo;ve always been more of a Backend/System Administrator. I&amp;rsquo;ve never truly grokked the idea of events, DOM, making requests elsewhere and things running outside my machine, without me giving precise instruction when to run and what arguments to accept.&#xA;Yet it&amp;rsquo;s 2018 and Javascript permeates the programming world, whether we like it or not. Thus I was looking for a new challenge to keep me motivated to learn throughout the year.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Frontend development&lt;/strong&gt; was never my area. I&amp;rsquo;ve always been more of a Backend/System Administrator. I&amp;rsquo;ve never truly grokked the idea of events, DOM, making requests elsewhere and things running outside my machine, without me giving precise instruction when to run and what arguments to accept.&lt;/p&gt;&#xA;&lt;p&gt;Yet it&amp;rsquo;s 2018 and Javascript permeates the programming world, whether we like it or not. Thus I was looking for a new challenge to keep me motivated to learn throughout the year.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programming Isn&#39;t Easy</title>
       <link>https://www.gianlucafiore.it/blog/programming-isnt-easy/</link>
       <pubDate>Mon, 04 Jul 2016 14:44:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/programming-isnt-easy/</guid>
-      <description>I was reading, as usual, Scott Hanselman&amp;rsquo;s blog and couldn&amp;rsquo;t agree more on his complaining on the recent WWDC keynote asserting that programming is easy. From his post:&#xA;When we tell folks - kids or otherwise - that programming is easy, what will they think when it gets difficult? And it will get difficult. That&amp;rsquo;s where people find themselves saying &amp;ldquo;well, I guess I&amp;rsquo;m not wired for coding. It&amp;rsquo;s just not for me.</description>
+      <description>&lt;p&gt;I was reading, as usual, &lt;a href=&#34;http://www.hanselman.com&#34;&gt;Scott Hanselman&amp;rsquo;s blog&lt;/a&gt; and couldn&amp;rsquo;t agree more on his complaining on the recent WWDC keynote asserting that programming is easy. From his &lt;a href=&#34;http://www.hanselman.com/blog/StopSayingLearningToCodeIsEasy.aspx&#34;&gt;post&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;When we tell folks - kids or otherwise - that programming is easy, what will they think when it gets difficult? And it will get difficult. That&amp;rsquo;s where people find themselves saying &amp;ldquo;well, I guess I&amp;rsquo;m not wired for coding. It&amp;rsquo;s just not for me.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

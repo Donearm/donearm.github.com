@@ -4,8 +4,8 @@
     <title>Drink on Gianluca Fiore</title>
     <link>https://www.gianlucafiore.it/tags/drink/</link>
     <description>Recent content in Drink on Gianluca Fiore</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
     <lastBuildDate>Fri, 01 Jul 2016 11:33:03 +0200</lastBuildDate>
     <atom:link href="https://www.gianlucafiore.it/tags/drink/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       <link>https://www.gianlucafiore.it/blog/classic-cocktails-cheat-sheet/</link>
       <pubDate>Fri, 01 Jul 2016 11:33:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/classic-cocktails-cheat-sheet/</guid>
-      <description>A few days ago I&amp;rsquo;ve become the maintainer, and main contributor, of this DuckDuckGo&amp;rsquo;s Instant answer. It has been deployed on beta.duckduckgo.com only so far, as it is clearly just a beta.&#xA;My passion for cocktails and carefully mixed drinks is no mistery and thus it was only natural to write such an IA for DuckDuckGo, my main search engine since a few years. It is incomplete, I only wanted to add classic cocktails, not all, and there are a few doubts on the format of the recipes among the community (see the pull request).</description>
+      <description>&lt;p&gt;A few days ago I&amp;rsquo;ve become the maintainer, and main contributor, of &lt;a href=&#34;https://duck.co/ia/view/classic_cocktails_cheat_sheet&#34;&gt;this&lt;/a&gt; DuckDuckGo&amp;rsquo;s Instant answer. It has been deployed on &lt;a href=&#34;https://beta.duckduckgo.com&#34;&gt;beta.duckduckgo.com&lt;/a&gt; only so far, as it is clearly just a beta.&lt;/p&gt;&#xA;&lt;p&gt;My passion for cocktails and carefully mixed drinks is no mistery and thus it was only natural to write such an IA for DuckDuckGo, my main search engine since a few years. It is incomplete, I only wanted to add &lt;em&gt;classic&lt;/em&gt; cocktails, not all, and there are a few doubts on the format of the recipes among the community (see the &lt;a href=&#34;https://github.com/duckduckgo/zeroclickinfo-goodies/pull/2796&#34;&gt;pull request&lt;/a&gt;). Namely, the sempiternal question about ounces, millilitres and parts. I side with the parts team but I&amp;rsquo;m writing this post also to call for anyone interested to express his/her opinions and submit new or better recipes. Any improvement or suggestion is appreciated, let&amp;rsquo;s get this IA out of beta!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

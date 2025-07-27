@@ -4,8 +4,8 @@
     <title>Book on Gianluca Fiore</title>
     <link>https://www.gianlucafiore.it/tags/book/</link>
     <description>Recent content in Book on Gianluca Fiore</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
     <lastBuildDate>Fri, 22 Nov 2019 11:24:03 +0200</lastBuildDate>
     <atom:link href="https://www.gianlucafiore.it/tags/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,14 +13,14 @@
       <link>https://www.gianlucafiore.it/how-to-travel-solo/</link>
       <pubDate>Fri, 22 Nov 2019 11:24:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/how-to-travel-solo/</guid>
-      <description>After the first book, of which I was no more than a contributor, Your First Year In Code, I decided that was fine and actually great fun to write and publish books so I wrote another one :)&#xA;This one much more personal, about my passion for traveling and in particular to travel alone, something that I have been doing for more than 20 years, nearly each year: How To Travel Solo.</description>
+      <description>&lt;p&gt;After the first book, of which I was no more than a contributor, &lt;a href=&#34;../your-first-year-in-code&#34;&gt;Your First Year In Code&lt;/a&gt;, I decided that was fine and actually great fun to write and publish books so I wrote another one :)&lt;/p&gt;&#xA;&lt;p&gt;This one much more personal, about my passion for traveling and in particular to travel alone, something that I have been doing for more than 20 years, nearly each year: How To Travel Solo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Your First Year In Code</title>
       <link>https://www.gianlucafiore.it/your-first-year-in-code/</link>
       <pubDate>Mon, 22 Jul 2019 11:24:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/your-first-year-in-code/</guid>
-      <description>With my extreme surprise, but also extreme happiness, I published a book! I say surprise because I didn&amp;rsquo;t plan to but heard about the awesome Isaac Lyman and his idea of writing a guide book for new and aspiring developers, not too techincal but instead full of advices and knowledge that is geared towards those who are approaching the profession, or recently started it. The main goal of Isaac&amp;rsquo;s idea was to write a book that would teach you a few non technical things that we learnt in our first 1-2 years as developers and we truly wished we knew from the beginning instead.</description>
+      <description>&lt;p&gt;With my extreme surprise, but also extreme happiness, I published a book! I say&#xA;surprise because I didn&amp;rsquo;t plan to but heard about the awesome &lt;a href=&#34;https://isaaclyman.com/&#34;&gt;Isaac&#xA;Lyman&lt;/a&gt; and his idea of writing a guide book for new&#xA;and aspiring developers, not too techincal but instead full of advices and&#xA;knowledge that is geared towards those who are approaching the profession, or&#xA;recently started it. The main goal of Isaac&amp;rsquo;s idea was to write a book that&#xA;would teach you a few non technical things that we learnt in our first 1-2&#xA;years as developers and we truly wished we knew from the beginning instead.&#xA;Sort of jumpstarting your career.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

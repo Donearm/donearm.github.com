@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.gianlucafiore.it/blog/</loc>
-    <lastmod>2023-05-20T11:04:03+02:00</lastmod>
+    <lastmod>2024-05-07T11:04:03+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gianlucafiore.it/</loc>
+    <lastmod>2024-05-07T11:04:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/flying/</loc>
     <lastmod>2023-05-20T11:04:03+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/blog/flying_is_terrible/</loc>
-    <lastmod>2023-05-20T11:04:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/</loc>
+    <loc>https://www.gianlucafiore.it/blog/flying-is-terrible/</loc>
     <lastmod>2023-05-20T11:04:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/life/</loc>
@@ -26,10 +26,10 @@
     <loc>https://www.gianlucafiore.it/tags/travel/</loc>
     <lastmod>2023-05-20T11:04:03+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/tags/bali/</loc>
+    <loc>https://www.gianlucafiore.it/blog/bali/</loc>
     <lastmod>2023-03-11T14:11:03+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/blog/bali/</loc>
+    <loc>https://www.gianlucafiore.it/tags/bali/</loc>
     <lastmod>2023-03-11T14:11:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/indonesia/</loc>
@@ -44,7 +44,7 @@
     <loc>https://www.gianlucafiore.it/tags/maradona/</loc>
     <lastmod>2022-12-30T11:04:03+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/blog/on_pele/</loc>
+    <loc>https://www.gianlucafiore.it/blog/on-pele/</loc>
     <lastmod>2022-12-30T11:04:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/pele/</loc>
@@ -125,10 +125,10 @@
     <loc>https://www.gianlucafiore.it/tags/content-writing/</loc>
     <lastmod>2020-10-06T12:54:50+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/tags/fountain-pen-creator/</loc>
+    <loc>https://www.gianlucafiore.it/blog/fountain-pen-creator/</loc>
     <lastmod>2020-10-06T12:54:50+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/blog/fountain-pen-creator/</loc>
+    <loc>https://www.gianlucafiore.it/tags/fountain-pen-creator/</loc>
     <lastmod>2020-10-06T12:54:50+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/marketing-writer/</loc>
@@ -188,7 +188,7 @@
     <loc>https://www.gianlucafiore.it/tags/teams/</loc>
     <lastmod>2019-09-29T16:34:03+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/when-is-my-team-playing-presentation/</loc>
+    <loc>https://www.gianlucafiore.it/when-is-my-team-playing/</loc>
     <lastmod>2019-09-29T16:34:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/frontend/</loc>
@@ -209,38 +209,14 @@
     <loc>https://www.gianlucafiore.it/where-is-the-best-pizza-in-the-world/</loc>
     <lastmod>2019-09-25T10:54:03+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/tags/configurations/</loc>
-    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
-  </url><url>
     <loc>https://www.gianlucafiore.it/tags/developers/</loc>
-    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/devops/</loc>
-    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/script/</loc>
-    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/scripts-and-configs/</loc>
-    <lastmod>2019-07-29T10:54:03+02:00</lastmod>
+    <lastmod>2019-07-22T11:24:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/your-first-year-in-code/</loc>
     <lastmod>2019-07-22T11:24:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/your-first-year-in-code/</loc>
     <lastmod>2019-07-22T11:24:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/m2t/</loc>
-    <lastmod>2019-05-31T10:54:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/magnet-links/</loc>
-    <lastmod>2019-05-31T10:54:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/rtorrent/</loc>
-    <lastmod>2019-05-31T10:54:03+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gianlucafiore.it/tags/torrent/</loc>
-    <lastmod>2019-05-31T10:54:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/backend/</loc>
     <lastmod>2018-12-19T18:11:03+02:00</lastmod>
@@ -257,10 +233,10 @@
     <loc>https://www.gianlucafiore.it/blog/freecodecamp-there-and-back-again/</loc>
     <lastmod>2018-10-04T15:44:03+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/tags/appreciation/</loc>
+    <loc>https://www.gianlucafiore.it/blog/appreciation/</loc>
     <lastmod>2018-05-19T11:44:03+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/blog/appreciation/</loc>
+    <loc>https://www.gianlucafiore.it/tags/appreciation/</loc>
     <lastmod>2018-05-19T11:44:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/friends/</loc>
@@ -305,7 +281,7 @@
     <loc>https://www.gianlucafiore.it/tags/search-engine/</loc>
     <lastmod>2016-07-01T11:33:03+02:00</lastmod>
   </url><url>
-    <loc>https://www.gianlucafiore.it/blog/backtonaples/</loc>
+    <loc>https://www.gianlucafiore.it/blog/back-to-naples/</loc>
     <lastmod>2016-02-15T11:04:03+02:00</lastmod>
   </url><url>
     <loc>https://www.gianlucafiore.it/tags/italy/</loc>

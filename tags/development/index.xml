@@ -4,8 +4,8 @@
     <title>Development on Gianluca Fiore</title>
     <link>https://www.gianlucafiore.it/tags/development/</link>
     <description>Recent content in Development on Gianluca Fiore</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
     <lastBuildDate>Sun, 09 Feb 2020 10:59:46 +0100</lastBuildDate>
     <atom:link href="https://www.gianlucafiore.it/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,35 +13,35 @@
       <link>https://www.gianlucafiore.it/my-story/</link>
       <pubDate>Sun, 09 Feb 2020 10:59:46 +0100</pubDate>
       <guid>https://www.gianlucafiore.it/my-story/</guid>
-      <description>I was born in Naples, Italy. For those who don&amp;rsquo;t know it, it&amp;rsquo;s a place where art, criminality, religiousity, awesome food, the best pizza in the world, strong coffee, the sea, 2 volcanos and greek+roman+christian civilitazions meet and thrive(d) for thousands of years. Not an easy place to be born, nor one that won&amp;rsquo;t leave you with marks, positive and negatives, for all your life. It certainly did not leave me without an indelible impression.</description>
+      <description>&lt;p&gt;I was born in Naples, Italy. For those who don&amp;rsquo;t know it, it&amp;rsquo;s a place where art, criminality, religiousity, awesome food, the best pizza in the world, strong coffee, the sea, 2 volcanos and greek+roman+christian civilitazions meet and thrive(d) for thousands of years. Not an easy place to be born, nor one that won&amp;rsquo;t leave you with marks, positive and negatives, for all your life. It certainly did not leave me without an indelible impression.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Your First Year In Code</title>
       <link>https://www.gianlucafiore.it/your-first-year-in-code/</link>
       <pubDate>Mon, 22 Jul 2019 11:24:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/your-first-year-in-code/</guid>
-      <description>With my extreme surprise, but also extreme happiness, I published a book! I say surprise because I didn&amp;rsquo;t plan to but heard about the awesome Isaac Lyman and his idea of writing a guide book for new and aspiring developers, not too techincal but instead full of advices and knowledge that is geared towards those who are approaching the profession, or recently started it. The main goal of Isaac&amp;rsquo;s idea was to write a book that would teach you a few non technical things that we learnt in our first 1-2 years as developers and we truly wished we knew from the beginning instead.</description>
+      <description>&lt;p&gt;With my extreme surprise, but also extreme happiness, I published a book! I say&#xA;surprise because I didn&amp;rsquo;t plan to but heard about the awesome &lt;a href=&#34;https://isaaclyman.com/&#34;&gt;Isaac&#xA;Lyman&lt;/a&gt; and his idea of writing a guide book for new&#xA;and aspiring developers, not too techincal but instead full of advices and&#xA;knowledge that is geared towards those who are approaching the profession, or&#xA;recently started it. The main goal of Isaac&amp;rsquo;s idea was to write a book that&#xA;would teach you a few non technical things that we learnt in our first 1-2&#xA;years as developers and we truly wished we knew from the beginning instead.&#xA;Sort of jumpstarting your career.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Things I Know as of 2018</title>
       <link>https://www.gianlucafiore.it/blog/things-i-know-as-of-2018/</link>
       <pubDate>Wed, 19 Dec 2018 18:11:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/things-i-know-as-of-2018/</guid>
-      <description>It honestly came as a surprise a post on Overreacted by Dan Abramov. He lists all the things he doesn&amp;rsquo;t know as of 2018, in an attempt to &amp;ldquo;devalue&amp;rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I&amp;rsquo;m far from being the only one surprised.</description>
+      <description>&lt;p&gt;It honestly came as a surprise a &lt;a href=&#34;https://overreacted.io/things-i-dont-know-as-of-2018/&#34;&gt;post&lt;/a&gt; on Overreacted by &lt;a href=&#34;https://mobile.twitter.com/dan_abramov&#34;&gt;Dan Abramov&lt;/a&gt;. He lists all the things he doesn&amp;rsquo;t know as of 2018, in an attempt to &amp;ldquo;devalue&amp;rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I&amp;rsquo;m far from being the only one surprised.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freecodecamp</title>
       <link>https://www.gianlucafiore.it/blog/freecodecamp/</link>
       <pubDate>Sat, 05 May 2018 21:44:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/freecodecamp/</guid>
-      <description>Frontend development was never my area. I&amp;rsquo;ve always been more of a Backend/System Administrator. I&amp;rsquo;ve never truly grokked the idea of events, DOM, making requests elsewhere and things running outside my machine, without me giving precise instruction when to run and what arguments to accept.&#xA;Yet it&amp;rsquo;s 2018 and Javascript permeates the programming world, whether we like it or not. Thus I was looking for a new challenge to keep me motivated to learn throughout the year.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Frontend development&lt;/strong&gt; was never my area. I&amp;rsquo;ve always been more of a Backend/System Administrator. I&amp;rsquo;ve never truly grokked the idea of events, DOM, making requests elsewhere and things running outside my machine, without me giving precise instruction when to run and what arguments to accept.&lt;/p&gt;&#xA;&lt;p&gt;Yet it&amp;rsquo;s 2018 and Javascript permeates the programming world, whether we like it or not. Thus I was looking for a new challenge to keep me motivated to learn throughout the year.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programming Isn&#39;t Easy</title>
       <link>https://www.gianlucafiore.it/blog/programming-isnt-easy/</link>
       <pubDate>Mon, 04 Jul 2016 14:44:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/programming-isnt-easy/</guid>
-      <description>I was reading, as usual, Scott Hanselman&amp;rsquo;s blog and couldn&amp;rsquo;t agree more on his complaining on the recent WWDC keynote asserting that programming is easy. From his post:&#xA;When we tell folks - kids or otherwise - that programming is easy, what will they think when it gets difficult? And it will get difficult. That&amp;rsquo;s where people find themselves saying &amp;ldquo;well, I guess I&amp;rsquo;m not wired for coding. It&amp;rsquo;s just not for me.</description>
+      <description>&lt;p&gt;I was reading, as usual, &lt;a href=&#34;http://www.hanselman.com&#34;&gt;Scott Hanselman&amp;rsquo;s blog&lt;/a&gt; and couldn&amp;rsquo;t agree more on his complaining on the recent WWDC keynote asserting that programming is easy. From his &lt;a href=&#34;http://www.hanselman.com/blog/StopSayingLearningToCodeIsEasy.aspx&#34;&gt;post&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;When we tell folks - kids or otherwise - that programming is easy, what will they think when it gets difficult? And it will get difficult. That&amp;rsquo;s where people find themselves saying &amp;ldquo;well, I guess I&amp;rsquo;m not wired for coding. It&amp;rsquo;s just not for me.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

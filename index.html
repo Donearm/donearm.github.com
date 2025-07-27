@@ -1,338 +1,1201 @@
-<!DOCTYPE HTML>
-<html lang="en-GB">
+<!DOCTYPE html>
+<html lang="en">
 
-	<head>
-	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <meta http-equiv="Permissions-Policy" content="interest-cohort=()" />
-	<meta name="description" content="Mixologist of Code and Words. Developer, System Administrator and Technical Writer">
-	<meta name="author" content="Gianluca Fiore">
-    <meta name="google-site-verification" content="V6VRun_E3vi3JFledcS1YZ0_VsGC1-S6fL4MqOtWMSY" />
-	<meta name="generator" content="Hugo 0.124.1">
-	<title>Gianluca Fiore</title>
-	<!-- Stylesheets -->
-	
-	<link rel="stylesheet" href="https://www.gianlucafiore.it/css/main.css"/>
-	
-	
+<head>
+	<meta name="generator" content="Hugo 0.148.1"><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
+<link rel="icon" href=/img/favicon.png type="image/gif">
 
-	
 
-	<!-- Custom Fonts -->
-	<link href="https://www.gianlucafiore.it/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload"
+      as="style"
+      href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+>
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      media="print" onload="this.media='all'" />
+<noscript>
+  <link
+          href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+          rel="stylesheet">
+</noscript>
 
-	
-	<link rel="shortcut icon" type="image/x-icon" href="https://www.gianlucafiore.it/favicon.ico">
-	<link rel="icon" type="image/x-icon" href="https://www.gianlucafiore.it/favicon.ico">
-	
 
-    <link rel="alternate" type="application/rss+xml" href="https://www.gianlucafiore.it/index.xml" title="Gianluca Fiore RSS Feed" />
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-	<!--[if lt IE 9]>
-	<script src="js/ie/html5shiv.js"></script>
-	<script src="js/ie/html5shiv.jsrespond.min.js"></script>
-	<![endif]-->
-    <link rel="me" href="https://metalhead.club/@gianlucafiore">
+<link rel="stylesheet" href="/css/font.css" media="all">
 
-    
-    <meta name=”robots” content=”noai, noimageai”>
+
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZNT699MLE3"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-ZNT699MLE3');
+        }
+      </script>
+<meta property="og:url" content="https://www.gianlucafiore.it/">
+  <meta property="og:site_name" content="Gianluca Fiore">
+  <meta property="og:title" content="Gianluca Fiore">
+  <meta property="og:description" content="I love exploring technologies and documenting them. I have been programming and writing since the early 2000s, finding my true passion in technical writing.">
+  <meta property="og:locale" content="en_gb">
+  <meta property="og:type" content="website">
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Gianluca Fiore">
+  <meta name="twitter:description" content="I love exploring technologies and documenting them. I have been programming and writing since the early 2000s, finding my true passion in technical writing.">
+
+
+<link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
+<link rel="stylesheet" href="/css/footer.css" media="all">
+
+
+<link rel="stylesheet" href="/css/theme.css" media="all">
+
+<style>
+    :root {
+        --text-color: #343a40;
+        --text-secondary-color: #6c757d;
+        --text-link-color: #8f5438;
+        --background-color: #eaedf0;
+        --secondary-background-color: #64ffda1a;
+        --primary-color: #8f5438;
+        --secondary-color: #f8f9fa;
+
+         
+        --text-color-dark: #F5F5F5;
+        --text-secondary-color-dark: #F5F5F5;
+        --text-link-color-dark: #8f5438;
+        --background-color-dark: #142309;
+        --secondary-background-color-dark: #212529;
+        --primary-color-dark: #8f5438;
+        --secondary-color-dark: #2c3520;
+    }
+    body {
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        text-align: left;
+    }
+
+    html {
+        background-color: var(--background-color) !important;
+    }
+
+    body::-webkit-scrollbar {
+        height: 0px;
+        width: 8px;
+        background-color: var(--background-color);
+    }
+
+    ::-webkit-scrollbar-track {
+        border-radius: 1rem;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        border-radius: 1rem;
+        background: #b0b0b0;
+        outline: 1px solid var(--background-color);
+    }
+
+    #search-content::-webkit-scrollbar {
+        width: .5em;
+        height: .1em;
+        background-color: var(--background-color);
+    }
+</style>
+
+
+
+<meta name="description" content=I&#32;love&#32;exploring&#32;technologies&#32;and&#32;documenting&#32;them.&#32;I&#32;have&#32;been&#32;programming&#32;and&#32;writing&#32;since&#32;the&#32;early&#32;2000s,&#32;finding&#32;my&#32;true&#32;passion&#32;in&#32;technical&#32;writing.>
+<link rel="stylesheet" href="/css/index.css" media="all">
+<link rel="stylesheet" href="/css/projects.css" media="all">
+
+
+<script defer src="/fontawesome-6/all-6.4.2.js"></script>
+
+
+  
+  
+    <link rel="stylesheet" href="/style.css">
+  
+
+  <title>
+Gianluca Fiore
+
+  </title>
 </head>
 
-	<body>
+<body class="light">
+  
+  
+<script>
+    let localStorageValue = localStorage.getItem("pref-theme");
+    let mediaQuery = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
-	<!-- Wrapper -->
-		<div id="wrapper">
-
-			<!-- Header -->
-    <header id="header" class="alt">
-        <a href="https://www.gianlucafiore.it/" class="logo"><strong>Gianlucafiore.it</strong> <span></span></a>
-        <nav>
-        <ul id="linksinnav">
-            
-                <li><a href="https://www.gianlucafiore.it/">Home</a></li>
-            
-                <li><a href="https://www.gianlucafiore.it/my-story">My Story</a></li>
-            
-                <li><a href="https://www.gianlucafiore.it/blog">Blog</a></li>
-            
-                <li><a href="https://www.gianlucafiore.it/coffee">Coffee</a></li>
-            
-
-        </ul>
-            <a href="#menu">Menu</a>
-        </nav>
-    </header>
-
-<!-- Menu -->
-    <nav id="menu">
-        <ul class="links">
-            
-                <li><a href="https://www.gianlucafiore.it/">Home</a></li>
-            
-                <li><a href="https://www.gianlucafiore.it/my-story">My Story</a></li>
-            
-                <li><a href="https://www.gianlucafiore.it/blog">Blog</a></li>
-            
-                <li><a href="https://www.gianlucafiore.it/coffee">Coffee</a></li>
-            
-
-        </ul>
-        <ul class="actions vertical">
-            
-            
-        </ul>
-    </nav>
+    switch (localStorageValue) {
+        case "dark":
+            document.body.classList.add('dark');
+            break;
+        case "light":
+            document.body.classList.remove('dark');
+            break;
+        default:
+            if (mediaQuery) {
+                document.body.classList.add('dark');
+            }
+            break;
+    }
+</script>
 
 
-			<!-- Banner -->
-    <section id="banner" class="major">
-        <div class="inner">
-            <header class="major">
-                <h1>Hi, I&#39;m Gianluca, Technical/Content Writer</h1>
-            </header>
-            <div class="content">
-                <p>I love exploring technologies and documenting them. I have been programming and writing since the early 2000s,  finding my true passion in technical writing.</p>
-                <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get To Know Me and What I Do</a></li>
+
+
+<script>
+    var prevScrollPos = window.pageYOffset;
+    window.addEventListener("scroll", function showHeaderOnScroll() {
+        let profileHeaderElem = document.getElementById("profileHeader");
+        let currentScrollPos = window.pageYOffset;
+        let resetHeaderStyle = false;
+        let showNavBarOnScrollUp =  true ;
+        let showNavBar = showNavBarOnScrollUp ? prevScrollPos > currentScrollPos : currentScrollPos > 0;
+        if (showNavBar) {
+            profileHeaderElem.classList.add("showHeaderOnTop");
+        } else {
+            resetHeaderStyle = true;
+        }
+        if(currentScrollPos === 0) {
+            resetHeaderStyle = true;
+        }
+        if(resetHeaderStyle) {
+            profileHeaderElem.classList.remove("showHeaderOnTop");
+        }
+        prevScrollPos = currentScrollPos;
+    });
+</script>
+
+
+
+<header id="profileHeader">
+    <nav class="pt-3 navbar navbar-expand-lg animate">
+        <div class="container-fluid mx-xs-2 mx-sm-5 mx-md-5 mx-lg-5">
+            
+            <a class="navbar-brand primary-font text-wrap" href="/">
+                
+                <img src="/img/favicon.png" width="30" height="30"
+                    class="d-inline-block align-top">
+                Gianlucafiore.it
+                
+            </a>
+
+            
+                <div>
+                    <input id="search" autocomplete="off" class="form-control mr-sm-2 d-none d-md-block" placeholder='Ctrl &#43; k to Search...'
+                        aria-label="Search" oninput="searchOnChange(event)">
+                </div>
+            
+
+            
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
+                aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+                <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true">
+                    <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
+                </svg>
+            </button>
+
+            
+            <div class="collapse navbar-collapse text-wrap primary-font" id="navbarContent">
+                <ul class="navbar-nav me-auto text-center">
+                    
+                        <li class="nav-item navbar-text d-block d-md-none">
+                            <div class="nav-link">
+                                <input id="search" autocomplete="off" class="form-control mr-sm-2" placeholder='Ctrl &#43; k to Search...' aria-label="Search" oninput="searchOnChange(event)">
+                            </div>
+                        </li>
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/#about" aria-label="about">
+                            About Me
+                        </a>
+                    </li>
+                    
+
+                    
+
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/#projects"
+                            aria-label="projects">
+                            Projects
+                        </a>
+                    </li>
+                    
+
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/#contact"
+                            aria-label="contact">
+                            Contact
+                        </a>
+                    </li>
+                    
+
+                    
+
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/blog" title="Blog posts">
+                            
+                            Blog
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/my-story" title="My Story">
+                            
+                            My Story
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/coffee" title="Coffee">
+                            
+                            Coffee
+                        </a>
+                    </li>
+                    
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        
+                        <div class="text-center">
+                            <button id="theme-toggle">
+                                <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                                </svg>
+                                <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="5"></circle>
+                                    <line x1="12" y1="1" x2="12" y2="3"></line>
+                                    <line x1="12" y1="21" x2="12" y2="23"></line>
+                                    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                                    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                                    <line x1="1" y1="12" x2="3" y2="12"></line>
+                                    <line x1="21" y1="12" x2="23" y2="12"></line>
+                                    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                                    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                                </svg>
+                            </button>
+                        </div>
+                    </li>
+                    
+
                 </ul>
+
             </div>
         </div>
-    </section>
+    </nav>
+</header>
+<div id="content">
+<section id="hero" class="py-5 align-middle">
+    <div class="container px-3 px-sm-5 px-md-5 px-lg-5 pt-lg-3">
+        <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-8 content animate" id="primary-font">
+                <span class="subtitle">
+                    Hi, my name is
+                </span>
+                <h1>
+                    Gianluca.
+                </h1>
+                <h2>
+                    I write. I used to code, now I prefer to document it.
+                </h2>
+                <p class="hero-content">
+                    I love exploring technologies and documenting them. I have been programming and writing since the early 2000s, finding my true passion in technical writing.
+                </p>
+                <div class="row">
+                    <div class="col-auto h-100">
+                        
+                    </div>
+                    <div class="col-auto px-0 h-100"><span>
+    
+    <span class="px-1">
+        <a href="https://github.com/Donearm"
+             target="_blank" 
+            class="btn social-icon"
+        >
+            <i class="fab fa-github"></i>
+        </a>
+    </span>
+    
+    <span class="px-1">
+        <a href="https://www.linkedin.com/in/gianluca-fiore-a70913b6"
+             target="_blank" 
+            class="btn social-icon"
+        >
+            <i class="fab fa-linkedin"></i>
+        </a>
+    </span>
+    
+    <span class="px-1">
+        <a href="https://www.instagram.com/gianlucadfiore"
+             target="_blank" 
+            class="btn social-icon"
+        >
+            <i class="fab fa-instagram"></i>
+        </a>
+    </span>
+    
 
-		<!-- Main -->
-			<div id="main">
-
-				
-					<!-- Header -->
-    <section id="one" class="tiles">
-        
-        <article>
-            <span class="image">
-                <img src="img/hcaflorida-background.jpg" alt="" />
-            </span>
-            <header class="major">
-                <h3><a href="https://www.gianlucafiore.it/hca-florida" class="link">HCA Florida project</a></h3>
-                <p>A redesign of the HCA Florida website</p>
-            </header>
-        </article>
-        
-        <article>
-            <span class="image">
-                <img src="img/howtotravelsolo-background.webp" alt="" />
-            </span>
-            <header class="major">
-                <h3><a href="https://www.gianlucafiore.it/how-to-travel-solo" class="link">How To Travel Solo</a></h3>
-                <p>A book for solo travelers, new or old</p>
-            </header>
-        </article>
-        
-        <article>
-            <span class="image">
-                <img src="img/yourfirstyearincode.jpg" alt="" />
-            </span>
-            <header class="major">
-                <h3><a href="https://www.gianlucafiore.it/your-first-year-in-code" class="link">Your First Year In Code</a></h3>
-                <p>A complete guide for new &amp; aspiring developers</p>
-            </header>
-        </article>
-        
-        <article>
-            <span class="image">
-                <img src="img/when-is-my-team-playing.jpg" alt="" />
-            </span>
-            <header class="major">
-                <h3><a href="https://www.gianlucafiore.it/when-is-my-team-playing-presentation" class="link">When Is My Team Playing?</a></h3>
-                <p>A solution to find a favourite team&#39;s matches and standings with a click</p>
-            </header>
-        </article>
-        
-        <article>
-            <span class="image">
-                <img src="img/pizza-project.jpg" alt="" />
-            </span>
-            <header class="major">
-                <h3><a href="https://www.gianlucafiore.it/where-is-the-best-pizza-in-the-world" class="link">Where Is the Best Pizza in the World?</a></h3>
-                <p>A project to list all the best pizzerias in the world</p>
-            </header>
-        </article>
-        
-        <article>
-            <span class="image">
-                <img src="img/motherboard.jpg" alt="" />
-            </span>
-            <header class="major">
-                <h3><a href="https://www.gianlucafiore.it/scripts-and-configs" class="link">Scripts and configurations</a></h3>
-                <p>A compendium of script and configuration files</p>
-            </header>
-        </article>
-        
-        <article>
-            <span class="image">
-                <img src="img/torrent.jpg" alt="" />
-            </span>
-            <header class="major">
-                <h3><a href="https://www.gianlucafiore.it/m2t" class="link">M2T</a></h3>
-                <p>A magnet URI handler script</p>
-            </header>
-        </article>
-        
-    </section>
-				
-
-				
-					<!-- Two -->
-    <section id="two">
-        <div class="inner">
-            <header class="major">
-                <h2>About Me</h2>
-            </header>
-            <p>I was a sysadmin before a developer. Today I would have started as DevOps Engineer.
-	I built and rebuilt hundreds of computers, for learning, and tried 
-	an insane amount of different OSes (Linux has always been the 
-    favourite one). Then I fell in love with Python and started my 
-    coding journey. Until I turned to my original, childhood&#39;s passion, 
-    writing, and merged knowledge with passion in becoming a technical 
-    writer.  Computer-related stuff aside, I enjoy reading, 
-	primarily fantasy and historical books, inventing new recipes, 
-	mixing drinks, reviewing coffee and being interested in anything that&#39;s art. I cannot 
-	live without music and a trip to the beach in the summer. Nor without my laptop.</p>
-            <ul class="actions">
-                <li><a href="https://www.gianlucafiore.it/my-story" class="button next">My story</a></li>
-            </ul>
+    
+</span>
+</div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-12 col-lg-4">
+                <div class="row justify-content-center">
+                    <div class="col-sm-12 col-md-9 pt-5 image animate px-5 px-md-5 px-lg-0 text-center">
+                        <img src="/images/hero.svg"
+                            class="img-thumbnail mx-auto"
+                            alt=""
+                        >
+                    </div>
+                </div>
+            </div>
         </div>
-    </section>
-				
+    </div>
+    
+    <div class="hero-bottom-svg d-md-block d-lg-block d-none">
+        <svg xmlns="http://www.w3.org/2000/svg" width="201" height="201" viewBox="0 0 201 201">
+            <g id="Group_1168" data-name="Group 1168" transform="translate(-384 -1392)">
+                <rect id="Rectangle_2206" data-name="Rectangle 2206" width="12" height="2" rx="1"
+                    transform="translate(391 1392) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2271" data-name="Rectangle 2271" width="12" height="2" rx="1"
+                    transform="translate(391 1500) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2238" data-name="Rectangle 2238" width="12" height="2" rx="1"
+                    transform="translate(391 1446) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2278" data-name="Rectangle 2278" width="12" height="2" rx="1"
+                    transform="translate(391 1554) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2222" data-name="Rectangle 2222" width="12" height="2" rx="1"
+                    transform="translate(391 1419) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2272" data-name="Rectangle 2272" width="12" height="2" rx="1"
+                    transform="translate(391 1527) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2241" data-name="Rectangle 2241" width="12" height="2" rx="1"
+                    transform="translate(391 1473) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2288" data-name="Rectangle 2288" width="12" height="2" rx="1"
+                    transform="translate(391 1581) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2214" data-name="Rectangle 2214" width="12" height="2" rx="1"
+                    transform="translate(499 1392) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2289" data-name="Rectangle 2289" width="12" height="2" rx="1"
+                    transform="translate(499 1500) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2256" data-name="Rectangle 2256" width="12" height="2" rx="1"
+                    transform="translate(499 1446) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2290" data-name="Rectangle 2290" width="12" height="2" rx="1"
+                    transform="translate(499 1554) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2231" data-name="Rectangle 2231" width="12" height="2" rx="1"
+                    transform="translate(499 1419) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2291" data-name="Rectangle 2291" width="12" height="2" rx="1"
+                    transform="translate(499 1527) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2257" data-name="Rectangle 2257" width="12" height="2" rx="1"
+                    transform="translate(499 1473) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2292" data-name="Rectangle 2292" width="12" height="2" rx="1"
+                    transform="translate(499 1581) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2210" data-name="Rectangle 2210" width="12" height="2" rx="1"
+                    transform="translate(445 1392) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2279" data-name="Rectangle 2279" width="12" height="2" rx="1"
+                    transform="translate(445 1500) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2248" data-name="Rectangle 2248" width="12" height="2" rx="1"
+                    transform="translate(445 1446) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2280" data-name="Rectangle 2280" width="12" height="2" rx="1"
+                    transform="translate(445 1554) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2226" data-name="Rectangle 2226" width="12" height="2" rx="1"
+                    transform="translate(445 1419) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2281" data-name="Rectangle 2281" width="12" height="2" rx="1"
+                    transform="translate(445 1527) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2249" data-name="Rectangle 2249" width="12" height="2" rx="1"
+                    transform="translate(445 1473) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2293" data-name="Rectangle 2293" width="12" height="2" rx="1"
+                    transform="translate(445 1581) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2219" data-name="Rectangle 2219" width="12" height="2" rx="1"
+                    transform="translate(553 1392) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2310" data-name="Rectangle 2310" width="12" height="2" rx="1"
+                    transform="translate(553 1500) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2262" data-name="Rectangle 2262" width="12" height="2" rx="1"
+                    transform="translate(553 1446) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2311" data-name="Rectangle 2311" width="12" height="2" rx="1"
+                    transform="translate(553 1554) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2232" data-name="Rectangle 2232" width="12" height="2" rx="1"
+                    transform="translate(553 1419) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2312" data-name="Rectangle 2312" width="12" height="2" rx="1"
+                    transform="translate(553 1527) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2263" data-name="Rectangle 2263" width="12" height="2" rx="1"
+                    transform="translate(553 1473) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2313" data-name="Rectangle 2313" width="12" height="2" rx="1"
+                    transform="translate(553 1581) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2209" data-name="Rectangle 2209" width="12" height="2" rx="1"
+                    transform="translate(418 1392) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2273" data-name="Rectangle 2273" width="12" height="2" rx="1"
+                    transform="translate(418 1500) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2242" data-name="Rectangle 2242" width="12" height="2" rx="1"
+                    transform="translate(418 1446) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2282" data-name="Rectangle 2282" width="12" height="2" rx="1"
+                    transform="translate(418 1554) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2223" data-name="Rectangle 2223" width="12" height="2" rx="1"
+                    transform="translate(418 1419) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2274" data-name="Rectangle 2274" width="12" height="2" rx="1"
+                    transform="translate(418 1527) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2243" data-name="Rectangle 2243" width="12" height="2" rx="1"
+                    transform="translate(418 1473) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2294" data-name="Rectangle 2294" width="12" height="2" rx="1"
+                    transform="translate(418 1581) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2217" data-name="Rectangle 2217" width="12" height="2" rx="1"
+                    transform="translate(526 1392) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2314" data-name="Rectangle 2314" width="12" height="2" rx="1"
+                    transform="translate(526 1500) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2258" data-name="Rectangle 2258" width="12" height="2" rx="1"
+                    transform="translate(526 1446) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2315" data-name="Rectangle 2315" width="12" height="2" rx="1"
+                    transform="translate(526 1554) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2233" data-name="Rectangle 2233" width="12" height="2" rx="1"
+                    transform="translate(526 1419) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2316" data-name="Rectangle 2316" width="12" height="2" rx="1"
+                    transform="translate(526 1527) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2259" data-name="Rectangle 2259" width="12" height="2" rx="1"
+                    transform="translate(526 1473) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2317" data-name="Rectangle 2317" width="12" height="2" rx="1"
+                    transform="translate(526 1581) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2211" data-name="Rectangle 2211" width="12" height="2" rx="1"
+                    transform="translate(472 1392) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2295" data-name="Rectangle 2295" width="12" height="2" rx="1"
+                    transform="translate(472 1500) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2250" data-name="Rectangle 2250" width="12" height="2" rx="1"
+                    transform="translate(472 1446) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2296" data-name="Rectangle 2296" width="12" height="2" rx="1"
+                    transform="translate(472 1554) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2227" data-name="Rectangle 2227" width="12" height="2" rx="1"
+                    transform="translate(472 1419) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2297" data-name="Rectangle 2297" width="12" height="2" rx="1"
+                    transform="translate(472 1527) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2251" data-name="Rectangle 2251" width="12" height="2" rx="1"
+                    transform="translate(472 1473) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2298" data-name="Rectangle 2298" width="12" height="2" rx="1"
+                    transform="translate(472 1581) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2221" data-name="Rectangle 2221" width="12" height="2" rx="1"
+                    transform="translate(580 1392) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2318" data-name="Rectangle 2318" width="12" height="2" rx="1"
+                    transform="translate(580 1500) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2264" data-name="Rectangle 2264" width="12" height="2" rx="1"
+                    transform="translate(580 1446) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2319" data-name="Rectangle 2319" width="12" height="2" rx="1"
+                    transform="translate(580 1554) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2236" data-name="Rectangle 2236" width="12" height="2" rx="1"
+                    transform="translate(580 1419) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2320" data-name="Rectangle 2320" width="12" height="2" rx="1"
+                    transform="translate(580 1527) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2265" data-name="Rectangle 2265" width="12" height="2" rx="1"
+                    transform="translate(580 1473) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2321" data-name="Rectangle 2321" width="12" height="2" rx="1"
+                    transform="translate(580 1581) rotate(90)" fill="#282f49" />
+                <rect id="Rectangle_2207" data-name="Rectangle 2207" width="12" height="2" rx="1"
+                    transform="translate(396 1399) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2270" data-name="Rectangle 2270" width="12" height="2" rx="1"
+                    transform="translate(396 1507) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2239" data-name="Rectangle 2239" width="12" height="2" rx="1"
+                    transform="translate(396 1453) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2283" data-name="Rectangle 2283" width="12" height="2" rx="1"
+                    transform="translate(396 1561) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2224" data-name="Rectangle 2224" width="12" height="2" rx="1"
+                    transform="translate(396 1426) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2275" data-name="Rectangle 2275" width="12" height="2" rx="1"
+                    transform="translate(396 1534) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2244" data-name="Rectangle 2244" width="12" height="2" rx="1"
+                    transform="translate(396 1480) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2299" data-name="Rectangle 2299" width="12" height="2" rx="1"
+                    transform="translate(396 1588) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2215" data-name="Rectangle 2215" width="12" height="2" rx="1"
+                    transform="translate(504 1399) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2300" data-name="Rectangle 2300" width="12" height="2" rx="1"
+                    transform="translate(504 1507) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2252" data-name="Rectangle 2252" width="12" height="2" rx="1"
+                    transform="translate(504 1453) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2301" data-name="Rectangle 2301" width="12" height="2" rx="1"
+                    transform="translate(504 1561) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2228" data-name="Rectangle 2228" width="12" height="2" rx="1"
+                    transform="translate(504 1426) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2302" data-name="Rectangle 2302" width="12" height="2" rx="1"
+                    transform="translate(504 1534) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2253" data-name="Rectangle 2253" width="12" height="2" rx="1"
+                    transform="translate(504 1480) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2303" data-name="Rectangle 2303" width="12" height="2" rx="1"
+                    transform="translate(504 1588) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2212" data-name="Rectangle 2212" width="12" height="2" rx="1"
+                    transform="translate(450 1399) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2284" data-name="Rectangle 2284" width="12" height="2" rx="1"
+                    transform="translate(450 1507) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2245" data-name="Rectangle 2245" width="12" height="2" rx="1"
+                    transform="translate(450 1453) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2285" data-name="Rectangle 2285" width="12" height="2" rx="1"
+                    transform="translate(450 1561) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2229" data-name="Rectangle 2229" width="12" height="2" rx="1"
+                    transform="translate(450 1426) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2286" data-name="Rectangle 2286" width="12" height="2" rx="1"
+                    transform="translate(450 1534) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2246" data-name="Rectangle 2246" width="12" height="2" rx="1"
+                    transform="translate(450 1480) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2304" data-name="Rectangle 2304" width="12" height="2" rx="1"
+                    transform="translate(450 1588) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2218" data-name="Rectangle 2218" width="12" height="2" rx="1"
+                    transform="translate(558 1399) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2322" data-name="Rectangle 2322" width="12" height="2" rx="1"
+                    transform="translate(558 1507) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2266" data-name="Rectangle 2266" width="12" height="2" rx="1"
+                    transform="translate(558 1453) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2323" data-name="Rectangle 2323" width="12" height="2" rx="1"
+                    transform="translate(558 1561) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2234" data-name="Rectangle 2234" width="12" height="2" rx="1"
+                    transform="translate(558 1426) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2324" data-name="Rectangle 2324" width="12" height="2" rx="1"
+                    transform="translate(558 1534) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2267" data-name="Rectangle 2267" width="12" height="2" rx="1"
+                    transform="translate(558 1480) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2325" data-name="Rectangle 2325" width="12" height="2" rx="1"
+                    transform="translate(558 1588) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2208" data-name="Rectangle 2208" width="12" height="2" rx="1"
+                    transform="translate(423 1399) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2276" data-name="Rectangle 2276" width="12" height="2" rx="1"
+                    transform="translate(423 1507) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2240" data-name="Rectangle 2240" width="12" height="2" rx="1"
+                    transform="translate(423 1453) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2287" data-name="Rectangle 2287" width="12" height="2" rx="1"
+                    transform="translate(423 1561) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2225" data-name="Rectangle 2225" width="12" height="2" rx="1"
+                    transform="translate(423 1426) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2277" data-name="Rectangle 2277" width="12" height="2" rx="1"
+                    transform="translate(423 1534) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2247" data-name="Rectangle 2247" width="12" height="2" rx="1"
+                    transform="translate(423 1480) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2305" data-name="Rectangle 2305" width="12" height="2" rx="1"
+                    transform="translate(423 1588) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2216" data-name="Rectangle 2216" width="12" height="2" rx="1"
+                    transform="translate(531 1399) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2326" data-name="Rectangle 2326" width="12" height="2" rx="1"
+                    transform="translate(531 1507) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2260" data-name="Rectangle 2260" width="12" height="2" rx="1"
+                    transform="translate(531 1453) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2327" data-name="Rectangle 2327" width="12" height="2" rx="1"
+                    transform="translate(531 1561) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2235" data-name="Rectangle 2235" width="12" height="2" rx="1"
+                    transform="translate(531 1426) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2328" data-name="Rectangle 2328" width="12" height="2" rx="1"
+                    transform="translate(531 1534) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2261" data-name="Rectangle 2261" width="12" height="2" rx="1"
+                    transform="translate(531 1480) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2329" data-name="Rectangle 2329" width="12" height="2" rx="1"
+                    transform="translate(531 1588) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2213" data-name="Rectangle 2213" width="12" height="2" rx="1"
+                    transform="translate(477 1399) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2306" data-name="Rectangle 2306" width="12" height="2" rx="1"
+                    transform="translate(477 1507) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2254" data-name="Rectangle 2254" width="12" height="2" rx="1"
+                    transform="translate(477 1453) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2307" data-name="Rectangle 2307" width="12" height="2" rx="1"
+                    transform="translate(477 1561) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2230" data-name="Rectangle 2230" width="12" height="2" rx="1"
+                    transform="translate(477 1426) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2308" data-name="Rectangle 2308" width="12" height="2" rx="1"
+                    transform="translate(477 1534) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2255" data-name="Rectangle 2255" width="12" height="2" rx="1"
+                    transform="translate(477 1480) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2309" data-name="Rectangle 2309" width="12" height="2" rx="1"
+                    transform="translate(477 1588) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2220" data-name="Rectangle 2220" width="12" height="2" rx="1"
+                    transform="translate(585 1399) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2330" data-name="Rectangle 2330" width="12" height="2" rx="1"
+                    transform="translate(585 1507) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2268" data-name="Rectangle 2268" width="12" height="2" rx="1"
+                    transform="translate(585 1453) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2331" data-name="Rectangle 2331" width="12" height="2" rx="1"
+                    transform="translate(585 1561) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2237" data-name="Rectangle 2237" width="12" height="2" rx="1"
+                    transform="translate(585 1426) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2332" data-name="Rectangle 2332" width="12" height="2" rx="1"
+                    transform="translate(585 1534) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2269" data-name="Rectangle 2269" width="12" height="2" rx="1"
+                    transform="translate(585 1480) rotate(-180)" fill="#282f49" />
+                <rect id="Rectangle_2333" data-name="Rectangle 2333" width="12" height="2" rx="1"
+                    transform="translate(585 1588) rotate(-180)" fill="#282f49" />
+            </g>
+        </svg>
+    </div>
+    
+</section>
 
-			</div>
+<section id="about" class="py-0 py-sm-5">
+    <div class="container bg-transparent">
+        <h3 class="text-center bg-transparent">About Me</h3>
+        <div class="bg-transparent row justify-content-center px-3 py-5">
+            
+            <div class="col-sm-12 col-md-8 col-lg-4 mb-5 mb-sm-0 mb-md-5 mb-lg-0 d-none d-sm-none d-md-block">
+                <div class="image d-flex px-5">
+                    <img src="/images/me.png" class="img-thumbnail mx-auto rounded-circle" alt="">
+                </div>
+            </div>
+            
+            <div class="col-sm-12 col-md-12 col-lg-8 content">
+                <p>I was a sysadmin before a developer. Today I would have started as DevOps Engineer. I built and rebuilt hundreds of computers, for learning, and tried an insane amount of different OSes (Linux has always been the favourite one). Then I fell in love with Python and started my coding journey. Until I turned to my original, childhood&rsquo;s passion, writing, and merged knowledge with passion in becoming a technical writer. Nowadays I mostly write, documentation, technical articles, some copywriting and aim to continue to do so for the foreseeable future.</p>
+<p>Computer-related stuff aside, I enjoy reading, primarily fantasy and historical books, inventing new recipes, mixing drinks, reviewing coffee and being interested in anything that&rsquo;s art. I cannot live without music and a trip to the beach in the summer. Nor without my laptop.</p>
 
-		<!-- Contact -->
-			
-				<!-- Contact -->
-    <section id="contact">
-        <div class="inner">
-            <section>
-                <form method="post" action="https://formspree.io/fioregianluca@gmail.com">
-                    <div class="field half first">
-                        <label for="name">Name</label>
-                        <input type="text" name="name" id="name" />
+
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section id="projects" class="py-5">
+    <div class="container">
+        <h3 class="text-center">Projects</h3>
+        <div class="row justify-content-center px-3 px-md-5">
+            
+            <div class="col-lg-4 col-md-6 my-3">
+                <div class="card my-3 h-100" title="How To Travel Solo book">
+                    <div class="card-head">
+                        <img class="card-img-top" src="how-to-travel-solo/howtotravelsolo-mockup.webp" alt="How To Travel Solo book">
                     </div>
-                    <div class="field half">
-                        <label for="email">Email</label>
-                        <input type="text" name="email" id="email" />
+                    <div class="card-body bg-transparent p-3">
+                        <div class="pb-2 bg-transparent">
+                            
+                            <span class="badge badge-secondary">Figma</span>
+                            
+                            <span class="badge badge-secondary">Adobe InDesign</span>
+                            
+                        </div>
+                        <h5 class="card-title bg-transparent mt-1">How To Travel Solo book</h5>
+                        <div class="card-text bg-transparent secondary-font">
+                            A book for solo travellers, new and old.
+                        </div>
                     </div>
-                    <div class="field">
-                        <label for="message">Message</label>
-                        <textarea name="message" id="message" rows="6"></textarea>
-                    </div>
-                    <ul class="actions">
-                        <li><input type="submit" value="Send me a message" class="special" /></li>
-                        <li><input type="reset" value="Clear" /></li>
-                    </ul>
-                </form>
-            </section>
-            <section class="split">
-                <section>
-                    <div class="contact-method">
-                        <span class="icon alt fas fa-envelope"></span>
+                    
+                    <div class="card-footer py-3">
                         
-                        <h3>Email</h3>
-                        <a href="mailto:fioregianluca@gmail.com">fioregianluca@gmail.com</a>
-                        
-                    </div>
-                </section>
-                <section>
-                    <div class="contact-method">
-                        <span class="icon alt fas fa-phone"></span>
-                        
-                        <h3>Phone</h3>
-                        <span>*********</span>
-                        
-                    </div>
-                </section>
-                <section>
-                    <div class="contact-method">
-                        <span class="icon alt fas fa-home"></span>
-                        
-                        <h3></h3>
-                        <span>
+                        <span class="m-1 mx-2">
+                            <a href="how-to-travel-solo/" target="_blank">
+                                <i class="fa-solid fa-book-open"></i>
+                            </a>
+                        </span>
                         
                         
-                        
-                        Naples
-                        
-                        
-                         <br /> Italy 
+                        <span class="float-end">
+                            <a class="btn btn-sm" href="https://www.amazon.co.uk/dp/1708647392?ref_=pe_3052080_397514860" target="_blank">
+                                Buy the book
+                            </a>
                         </span>
                         
                     </div>
-                </section>
-            </section>
+                    
+                </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 my-3">
+                <div class="card my-3 h-100" title="Your First Year In Code">
+                    <div class="card-head">
+                        <img class="card-img-top" src="your-first-year-in-code/yourfirstyearincode-bookcover.jpg" alt="Your First Year In Code">
+                    </div>
+                    <div class="card-body bg-transparent p-3">
+                        <div class="pb-2 bg-transparent">
+                            
+                        </div>
+                        <h5 class="card-title bg-transparent mt-1">Your First Year In Code</h5>
+                        <div class="card-text bg-transparent secondary-font">
+                            A complete guide for new and aspiring developers.
+                        </div>
+                    </div>
+                    
+                    <div class="card-footer py-3">
+                        
+                        <span class="m-1 mx-2">
+                            <a href="your-first-year-in-code/" target="_blank">
+                                <i class="fa-solid fa-book-open"></i>
+                            </a>
+                        </span>
+                        
+                        <span class="m-1 mx-2">
+                            <a href="https://leanpub.com/firstyearincode" target="_blank">
+                                <i class="fab fa-leanpub"></i>
+                            </a>
+                        </span>
+                        
+                        <span class="m-1 mx-2">
+                            <a href="https://bookshop.org/p/books/your-first-year-in-code-a-complete-guide-for-new-aspiring-developers-isaac-lyman/13016365?ean=9780578564999&amp;next=t&amp;source=IndieBound" target="_blank">
+                                <i class="fa-solid fa-cart-shopping"></i>
+                            </a>
+                        </span>
+                        
+                        <span class="m-1 mx-2">
+                            <a href="https://shop.ingramspark.com/b/084?PRHBDb9RfhGswzyo0RhrbCCUVHyITLiFDOgm1YhoQ6Q" target="_blank">
+                                <i class="fa-solid fa-cart-shopping"></i>
+                            </a>
+                        </span>
+                        
+                        
+                        <span class="float-end">
+                            <a class="btn btn-sm" href="https://www.sitepoint.com/premium/books/your-first-year-in-code/" target="_blank">
+                                Buy the book
+                            </a>
+                        </span>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 my-3">
+                <div class="card my-3 h-100" title="Where is the best pizza in the world?">
+                    <div class="card-head">
+                        <img class="card-img-top" src="where-is-the-best-pizza-in-the-world/pizza-project.jpg" alt="Where is the best pizza in the world?">
+                    </div>
+                    <div class="card-body bg-transparent p-3">
+                        <div class="pb-2 bg-transparent">
+                            
+                            <span class="badge badge-secondary">Go</span>
+                            
+                            <span class="badge badge-secondary">jQuery</span>
+                            
+                            <span class="badge badge-secondary">Javascript</span>
+                            
+                            <span class="badge badge-secondary">Leafjet.js</span>
+                            
+                            <span class="badge badge-secondary">GeoJson</span>
+                            
+                        </div>
+                        <h5 class="card-title bg-transparent mt-1">Where is the best pizza in the world?</h5>
+                        <div class="card-text bg-transparent secondary-font">
+                            A project to list all the best pizzerias in the world.
+                        </div>
+                    </div>
+                    
+                    <div class="card-footer py-3">
+                        
+                        <span class="m-1 mx-2">
+                            <a href="https://github.com/Donearm/pizza" target="_blank">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </span>
+                        
+                        <span class="m-1 mx-2">
+                            <a href="where-is-the-best-pizza-in-the-world/" target="_blank">
+                                <i class="fa-solid fa-book-open"></i>
+                            </a>
+                        </span>
+                        
+                        
+                        <span class="float-end">
+                            <a class="btn btn-sm" href="https://www.gianlucafiore.it/pizza/" target="_blank">
+                                Demo
+                            </a>
+                        </span>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 my-3">
+                <div class="card my-3 h-100" title="HCA Florida project">
+                    <div class="card-head">
+                        <img class="card-img-top" src="hca-florida/hca-florida-homepage.jpg" alt="HCA Florida project">
+                    </div>
+                    <div class="card-body bg-transparent p-3">
+                        <div class="pb-2 bg-transparent">
+                            
+                            <span class="badge badge-secondary">Sitecore</span>
+                            
+                        </div>
+                        <h5 class="card-title bg-transparent mt-1">HCA Florida project</h5>
+                        <div class="card-text bg-transparent secondary-font">
+                            A redesign of the HCA Florida website
+                        </div>
+                    </div>
+                    
+                    <div class="card-footer py-3">
+                        
+                        <span class="m-1 mx-2">
+                            <a href="hca-florida/" target="_blank">
+                                <i class="fa-solid fa-book-open"></i>
+                            </a>
+                        </span>
+                        
+                        
+                        <span class="float-end">
+                            <a class="btn btn-sm" href="https://www.hcafloridahealthcare.com/" target="_blank">
+                                Live website
+                            </a>
+                        </span>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 my-3">
+                <div class="card my-3 h-100" title="When Is My Team Playing?">
+                    <div class="card-head">
+                        <img class="card-img-top" src="when-is-my-team-playing/when-is-my-team-playing.jpg" alt="When Is My Team Playing?">
+                    </div>
+                    <div class="card-body bg-transparent p-3">
+                        <div class="pb-2 bg-transparent">
+                            
+                            <span class="badge badge-secondary">jQuery</span>
+                            
+                            <span class="badge badge-secondary">Javascript</span>
+                            
+                            <span class="badge badge-secondary">Bootstrap</span>
+                            
+                            <span class="badge badge-secondary">CSS</span>
+                            
+                        </div>
+                        <h5 class="card-title bg-transparent mt-1">When Is My Team Playing?</h5>
+                        <div class="card-text bg-transparent secondary-font">
+                            A solution to find a favourite team&#39;s next fixtures and current standings with a click
+                        </div>
+                    </div>
+                    
+                    <div class="card-footer py-3">
+                        
+                        <span class="m-1 mx-2">
+                            <a href="https://github.com/Donearm/when-is-my-team-playing" target="_blank">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </span>
+                        
+                        <span class="m-1 mx-2">
+                            <a href="when-is-my-team-playing/" target="_blank">
+                                <i class="fa-solid fa-book-open"></i>
+                            </a>
+                        </span>
+                        
+                        
+                        <span class="float-end">
+                            <a class="btn btn-sm" href="https://www.gianlucafiore.it/when-is-my-team-playing" target="_blank">
+                                Demo
+                            </a>
+                        </span>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            
         </div>
-    </section>
+    </div>
+</section>
 
-			
-
-		<!-- Footer -->
-			
-				<!-- Footer -->
-    <footer id="footer">
-        <div class="inner">
-            <ul class="icons">
-                
-                    <li><a href="https://www.instagram.com/gianlucadfiore" class="icon alt fab fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                
-                    <li><a href="https://metalhead.club/@gianlucafiore" class="icon alt fab fa-mastodon" target="_blank"><span class="label">Mastodon</span></a></li>
-                
-                    <li><a href="https://www.github.com/Donearm" class="icon alt fab fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-                
-                    <li><a href="https://www.linkedin.com/in/gianluca-fiore-a70913b6" class="icon alt fab fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-                
-            </ul>
-            <ul class="copyright">
-                <li>&copy; Gianluca Fiore</li>
-                
-                <li>Design:  <a href="https://www.html5up.net">HTML5 UP</a></li>
-                
-                <li>Icons:  <a href="https://fontawesome.com">Font Awesome</a></li>
-                
-            </ul>
+<section id="contact" class="py-5">
+    <div class="container">
+        <h3 class="text-center">Get in Touch</h3>
+        <div class="px-0 px-md-5 px-lg-5">
+            <div class="row justify-content-center px-md-5">
+                <div class="col-md-8 py-3">
+                    <div class="text-center">
+                        My inbox is always open. Whether you have a question or want to commission a work, or perhaps even just want to say hi, I’ll try my best to get back to you!
+                    </div>
+                    
+                    <div class="text-center pt-3">
+                        <a 
+                            href='
+                                    mailto:gianlucafiore@fountainpencreator.com
+                                  '
+                            target="_blank"
+                            class="btn"
+                        >
+                            Mail me
+                        </a>
+                    </div>
+                    
+                </div>
+            </div>
         </div>
-    </footer>
+    </div>
+    <div id="contact-form-status"></div>
+</section>
 
-			
 
-		</div>
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="check-circle-fill" viewBox="0 0 16 16">
+    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+  </symbol>
+  <symbol id="info-fill" viewBox="0 0 16 16">
+    <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"/>
+  </symbol>
+  <symbol id="exclamation-triangle-fill" viewBox="0 0 16 16">
+    <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+  </symbol>
+</svg>
 
-	<!-- Scripts -->
-		<!-- Scripts -->
-    <!-- jQuery -->
-    <script src="https://www.gianlucafiore.it/js/jquery.min.js"></script>
-    <script src="https://www.gianlucafiore.it/js/jquery.scrolly.min.js"></script>
-    <script src="https://www.gianlucafiore.it/js/jquery.scrollex.min.js"></script>
-    <script src="https://www.gianlucafiore.it/js/skel.min.js"></script>
-    <script src="https://www.gianlucafiore.it/js/util.js"></script>
+  </div><footer>
+    
+ 
+ 
+<div class="container py-3" id="recent-posts">
+    
+    
+    <div class="h3 text-center text-secondary py-3">
+        Recent Posts
+    </div>
+    <div class="row justify-content-center">
+        
+        <div class="col-lg-4 col-md-6 pt-2">
+            <div class="card h-100">
+                
+                <div class="card-header">
+                    <a href="/blog/flying-is-terrible/">
+                        <img src="/blog/flying-is-terrible/flying_over_clouds.jpg" class="card-img-top" alt="Flying is terrible">
+                    </a>
+                </div>
+                
+                <div class="card-body bg-transparent p-3 shadow-sm">
+                    <a href="/blog/flying-is-terrible/" class="primary-font card-title">
+                        <h5 class="card-title bg-transparent" title="Flying is terrible">Flying is terrible</h5>
+                    </a>
+                    <div class="card-text secondary-font">
+                        <p><p>I never loved flying. I tolerated it in the beginning. Then grew fond of it. Until it became the worst possible way of transportation there is. Now I am considering renouncing flying altogether.</p>
+<p>Sounded a bit dramatic, didn&rsquo;t it? Oh well, imagine how strong is my frustration with flying then. …</p></p>
+                    </div>
+                </div>
+                <div class="mt-auto card-footer">
+                    <span class="float-start">20 May 2023</span>
+                    <a href="/blog/flying-is-terrible/" class="float-end btn btn-outline-info btn-sm">Read</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-6 pt-2">
+            <div class="card h-100">
+                
+                <div class="card-header">
+                    <a href="/blog/bali/">
+                        <img src="/blog/bali/bali_tanah_lot_at_sunset.jpg" class="card-img-top" alt="Bali">
+                    </a>
+                </div>
+                
+                <div class="card-body bg-transparent p-3 shadow-sm">
+                    <a href="/blog/bali/" class="primary-font card-title">
+                        <h5 class="card-title bg-transparent" title="Bali">Bali</h5>
+                    </a>
+                    <div class="card-text secondary-font">
+                        <p><h1 id="see-bali-once--and-no-more">See Bali once &hellip; and no more</h1>
+<p>Bali. Just the word evokes lush forests, rice terraces, yoga, coffee houses, dawn treks, and digital nomading. I didn&rsquo;t particularly go for any of those but would be unfair to assert that I wasn&rsquo;t captivated a bit by each. I found them all, but …</p></p>
+                    </div>
+                </div>
+                <div class="mt-auto card-footer">
+                    <span class="float-start">11 Mar 2023</span>
+                    <a href="/blog/bali/" class="float-end btn btn-outline-info btn-sm">Read</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-6 pt-2">
+            <div class="card h-100">
+                
+                <div class="card-header">
+                    <a href="/blog/on-pele/">
+                        <img src="/blog/on-pele/diego_and_pele.jpg" class="card-img-top" alt="On Pelé">
+                    </a>
+                </div>
+                
+                <div class="card-body bg-transparent p-3 shadow-sm">
+                    <a href="/blog/on-pele/" class="primary-font card-title">
+                        <h5 class="card-title bg-transparent" title="On Pelé">On Pelé</h5>
+                    </a>
+                    <div class="card-text secondary-font">
+                        <p><h2 id="the-king-and-the-god-are-gone">The King and the God are gone</h2>
+<p>Pelé was a totem. And a scary one at that. For a kid growing up in Naples during the 80s, Pelé was not a tangible experience but a myth already. Somebody who we would all compare to, as the archetype of the great footballer from South America.</p>
+<p>He was a scary figure. …</p></p>
+                    </div>
+                </div>
+                <div class="mt-auto card-footer">
+                    <span class="float-start">30 Dec 2022</span>
+                    <a href="/blog/on-pele/" class="float-end btn btn-outline-info btn-sm">Read</a>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<div class="text-center pt-2">
+    
+    <span class="px-1">
+        <a href="https://github.com/Donearm" aria-label="github">
+            <svg xmlns="http://www.w3.org/2000/svg" width="2.7em" height="2.7em" viewBox="0 0 1792 1792">
+                <path id="footer-socialNetworks-github-svg-path"
+                    d="M522 1352q-8 9-20-3-13-11-4-19 8-9 20 3 12 11 4 19zm-42-61q9 12 0 19-8 6-17-7t0-18q9-7 17 6zm-61-60q-5 7-13 2-10-5-7-12 3-5 13-2 10 5 7 12zm31 34q-6 7-16-3-9-11-2-16 6-6 16 3 9 11 2 16zm129 112q-4 12-19 6-17-4-13-15t19-7q16 5 13 16zm63 5q0 11-16 11-17 2-17-11 0-11 16-11 17-2 17 11zm58-10q2 10-14 14t-18-8 14-15q16-2 18 9zm964-956v960q0 119-84.5 203.5t-203.5 84.5h-224q-16 0-24.5-1t-19.5-5-16-14.5-5-27.5v-239q0-97-52-142 57-6 102.5-18t94-39 81-66.5 53-105 20.5-150.5q0-121-79-206 37-91-8-204-28-9-81 11t-92 44l-38 24q-93-26-192-26t-192 26q-16-11-42.5-27t-83.5-38.5-86-13.5q-44 113-7 204-79 85-79 206 0 85 20.5 150t52.5 105 80.5 67 94 39 102.5 18q-40 36-49 103-21 10-45 15t-57 5-65.5-21.5-55.5-62.5q-19-32-48.5-52t-49.5-24l-20-3q-21 0-29 4.5t-5 11.5 9 14 13 12l7 5q22 10 43.5 38t31.5 51l10 23q13 38 44 61.5t67 30 69.5 7 55.5-3.5l23-4q0 38 .5 103t.5 68q0 22-11 33.5t-22 13-33 1.5h-224q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" />
+
+                <metadata>
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description about="https://iconscout.com/legal#licenses"
+                            dc:title="Github, Online, Project, Hosting, Square"
+                            dc:description="Github, Online, Project, Hosting, Square" dc:publisher="Iconscout"
+                            dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+                            <dc:creator>
+                                <rdf:Bag>
+                                    <rdf:li>Font Awesome</rdf:li>
+                                </rdf:Bag>
+                            </dc:creator>
+                        </rdf:Description>
+                    </rdf:RDF>
+                </metadata>
+            </svg>
+        </a>
+    </span>
+    
+
+    
+    <span class="px-1">
+        <a href="https://www.linkedin.com/in/gianluca-fiore-a70913b6" aria-label="linkedin">
+            <svg xmlns="http://www.w3.org/2000/svg" width='2.4em' height='2.4em' fill="#fff" aria-label="LinkedIn"
+                viewBox="0 0 512 512">
+                <rect width="512" height="512" fill="#0077b5" rx="15%" />
+                <circle cx="142" cy="138" r="37" />
+                <path stroke="#fff" stroke-width="66" d="M244 194v198M142 194v198" />
+                <path d="M276 282c0-20 13-40 36-40 24 0 33 18 33 45v105h66V279c0-61-32-89-76-89-34 0-51 19-59 32" />
+            </svg>
+        </a>
+    </span>
+    
 
     
 
-    <!-- Main JS -->
-    <script src="https://www.gianlucafiore.it/js/main.js"></script>
+    
+    <a href="https://www.instagram.com/gianlucadfiore" aria-label="instagram">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px">
+            <radialGradient id="yOrnnhliCrdS2gy~4tD8ma" cx="19.38" cy="42.035" r="44.899"
+                gradientUnits="userSpaceOnUse">
+                <stop offset="0" stop-color="#fd5" />
+                <stop offset=".328" stop-color="#ff543f" />
+                <stop offset=".348" stop-color="#fc5245" />
+                <stop offset=".504" stop-color="#e64771" />
+                <stop offset=".643" stop-color="#d53e91" />
+                <stop offset=".761" stop-color="#cc39a4" />
+                <stop offset=".841" stop-color="#c837ab" />
+            </radialGradient>
+            <path fill="url(#yOrnnhliCrdS2gy~4tD8ma)"
+                d="M34.017,41.99l-20,0.019c-4.4,0.004-8.003-3.592-8.008-7.992l-0.019-20	c-0.004-4.4,3.592-8.003,7.992-8.008l20-0.019c4.4-0.004,8.003,3.592,8.008,7.992l0.019,20	C42.014,38.383,38.417,41.986,34.017,41.99z" />
+            <radialGradient id="yOrnnhliCrdS2gy~4tD8mb" cx="11.786" cy="5.54" r="29.813"
+                gradientTransform="matrix(1 0 0 .6663 0 1.849)" gradientUnits="userSpaceOnUse">
+                <stop offset="0" stop-color="#4168c9" />
+                <stop offset=".999" stop-color="#4168c9" stop-opacity="0" />
+            </radialGradient>
+            <path fill="url(#yOrnnhliCrdS2gy~4tD8mb)"
+                d="M34.017,41.99l-20,0.019c-4.4,0.004-8.003-3.592-8.008-7.992l-0.019-20	c-0.004-4.4,3.592-8.003,7.992-8.008l20-0.019c4.4-0.004,8.003,3.592,8.008,7.992l0.019,20	C42.014,38.383,38.417,41.986,34.017,41.99z" />
+            <path fill="#fff"
+                d="M24,31c-3.859,0-7-3.14-7-7s3.141-7,7-7s7,3.14,7,7S27.859,31,24,31z M24,19c-2.757,0-5,2.243-5,5	s2.243,5,5,5s5-2.243,5-5S26.757,19,24,19z" />
+            <circle cx="31.5" cy="16.5" r="1.5" fill="#fff" />
+            <path fill="#fff"
+                d="M30,37H18c-3.859,0-7-3.14-7-7V18c0-3.86,3.141-7,7-7h12c3.859,0,7,3.14,7,7v12	C37,33.86,33.859,37,30,37z M18,13c-2.757,0-5,2.243-5,5v12c0,2.757,2.243,5,5,5h12c2.757,0,5-2.243,5-5V18c0-2.757-2.243-5-5-5H18z" />
+        </svg>
+    </a>
+    
 
     
+</div><div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-4 text-center">
+            
+                <div class="pb-2">
+                    <a href="https://www.gianlucafiore.it/" title="Gianluca Fiore">
+                        <img alt="Footer logo" src="/img/favicon.png"
+                            height="40px" width="40px">
+                    </a>
+                </div>
+            
+            &copy; 2025  © Gianluca Fiore. All rights reserved
+            <div class="text-secondary">
+                Made with
+                <span class="text-danger">
+                    &#10084;
+                </span>
+                and
+                <a href="https://github.com/gurusabarish/hugo-profile" target="_blank"
+                    title="Designed and developed by gurusabarish">
+                    Hugo Profile
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</footer><script src="/bootstrap-5/js/bootstrap.bundle.min.js"></script>
 <script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'G-ZNT699MLE3', 'auto');
-	
-	ga('send', 'pageview');
-}
+    if (document.body.className.includes("dark")) {
+        document.body.classList.remove('dark');
+        localStorage.setItem("pref-theme", 'light');
+    }
 </script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
-    
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
-	</body>
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+    })
+
+</script>
+
+
+    <script src="/js/search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+  <section id="search-content" class="py-2">
+    <div class="container" id="search-results"></div>
+  </section>
+</body>
+
 </html>

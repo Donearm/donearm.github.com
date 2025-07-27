@@ -1,171 +1,623 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
-    <head>
-	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <meta http-equiv="Permissions-Policy" content="interest-cohort=()" />
-	<meta name="description" content="Mixologist of Code and Words. Developer, System Administrator and Technical Writer">
-	<meta name="author" content="Gianluca Fiore">
-    <meta name="google-site-verification" content="V6VRun_E3vi3JFledcS1YZ0_VsGC1-S6fL4MqOtWMSY" />
-	<meta name="generator" content="Hugo 0.124.1">
-	<title>Hardware &middot; Gianluca Fiore</title>
-	<!-- Stylesheets -->
-	
-	<link rel="stylesheet" href="https://www.gianlucafiore.it/css/main.css"/>
-	
-	
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
+<link rel="icon" href=/img/favicon.png type="image/gif">
 
-	
 
-	<!-- Custom Fonts -->
-	<link href="https://www.gianlucafiore.it/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload"
+      as="style"
+      href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+>
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      media="print" onload="this.media='all'" />
+<noscript>
+  <link
+          href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+          rel="stylesheet">
+</noscript>
 
-	
-	<link rel="shortcut icon" type="image/x-icon" href="https://www.gianlucafiore.it/favicon.ico">
-	<link rel="icon" type="image/x-icon" href="https://www.gianlucafiore.it/favicon.ico">
-	
 
-    <link rel="alternate" type="application/rss+xml" href="https://www.gianlucafiore.it/tags/hardware/index.xml" title="Gianluca Fiore RSS Feed" />
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-	<!--[if lt IE 9]>
-	<script src="js/ie/html5shiv.js"></script>
-	<script src="js/ie/html5shiv.jsrespond.min.js"></script>
-	<![endif]-->
-    <link rel="me" href="https://metalhead.club/@gianlucafiore">
+<link rel="stylesheet" href="/css/font.css" media="all">
 
-    
-    <meta name=”robots” content=”noai, noimageai”>
+
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZNT699MLE3"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-ZNT699MLE3');
+        }
+      </script>
+<meta property="og:url" content="https://www.gianlucafiore.it/tags/hardware/">
+  <meta property="og:site_name" content="Gianluca Fiore">
+  <meta property="og:title" content="Hardware">
+  <meta property="og:description" content="I love exploring technologies and documenting them. I have been programming and writing since the early 2000s, finding my true passion in technical writing.">
+  <meta property="og:locale" content="en_gb">
+  <meta property="og:type" content="website">
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Hardware">
+  <meta name="twitter:description" content="I love exploring technologies and documenting them. I have been programming and writing since the early 2000s, finding my true passion in technical writing.">
+
+
+<link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
+<link rel="stylesheet" href="/css/footer.css" media="all">
+
+
+<link rel="stylesheet" href="/css/theme.css" media="all">
+
+<style>
+    :root {
+        --text-color: #343a40;
+        --text-secondary-color: #6c757d;
+        --text-link-color: #8f5438;
+        --background-color: #eaedf0;
+        --secondary-background-color: #64ffda1a;
+        --primary-color: #8f5438;
+        --secondary-color: #f8f9fa;
+
+         
+        --text-color-dark: #F5F5F5;
+        --text-secondary-color-dark: #F5F5F5;
+        --text-link-color-dark: #8f5438;
+        --background-color-dark: #142309;
+        --secondary-background-color-dark: #212529;
+        --primary-color-dark: #8f5438;
+        --secondary-color-dark: #2c3520;
+    }
+    body {
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        text-align: left;
+    }
+
+    html {
+        background-color: var(--background-color) !important;
+    }
+
+    body::-webkit-scrollbar {
+        height: 0px;
+        width: 8px;
+        background-color: var(--background-color);
+    }
+
+    ::-webkit-scrollbar-track {
+        border-radius: 1rem;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        border-radius: 1rem;
+        background: #b0b0b0;
+        outline: 1px solid var(--background-color);
+    }
+
+    #search-content::-webkit-scrollbar {
+        width: .5em;
+        height: .1em;
+        background-color: var(--background-color);
+    }
+</style>
+
+
+
+<meta name="description" content="Hardware of Gianluca Fiore">
+<link rel="stylesheet" href="/css/list.css" media="all">
+
+
+  
+  
+    <link rel="stylesheet" href="/style.css">
+  
+
+  <title>
+Hardware | Gianluca Fiore
+
+  </title>
 </head>
 
-    <body>
-
-    <!-- Wrapper -->
-        <div id="wrapper">
-
-            <!-- Header -->
-    <header id="header" class="alt">
-        <a href="https://www.gianlucafiore.it/" class="logo"><strong>Gianlucafiore.it</strong> <span></span></a>
-        <nav>
-        <ul id="linksinnav">
-            
-                <li><a href="https://www.gianlucafiore.it/">Home</a></li>
-            
-                <li><a href="https://www.gianlucafiore.it/my-story">My Story</a></li>
-            
-                <li><a href="https://www.gianlucafiore.it/blog">Blog</a></li>
-            
-                <li><a href="https://www.gianlucafiore.it/coffee">Coffee</a></li>
-            
-
-        </ul>
-            <a href="#menu">Menu</a>
-        </nav>
-    </header>
-
-<!-- Menu -->
-    <nav id="menu">
-        <ul class="links">
-            
-                <li><a href="https://www.gianlucafiore.it/">Home</a></li>
-            
-                <li><a href="https://www.gianlucafiore.it/my-story">My Story</a></li>
-            
-                <li><a href="https://www.gianlucafiore.it/blog">Blog</a></li>
-            
-                <li><a href="https://www.gianlucafiore.it/coffee">Coffee</a></li>
-            
-
-        </ul>
-        <ul class="actions vertical">
-            
-            
-        </ul>
-    </nav>
-
-
-        <!-- Main -->
-            <div id="main" class="alt">
-              <div class="content">
-                  <div class="inner">
-                      <header class="major">
-                          <h3>Posts under "Hardware"</h3>
-                      </header>
-                      <ul>
-                      
-                        <li>
-                          <a href="/blog/pulse-15-update-after-one-year/">Pulse 15 update after one year</a>
-                        </li>
-                      
-                        <li>
-                          <a href="/blog/pulse-15-review/">Pulse 15 Review</a>
-                        </li>
-                      
-                      </ul>
-                  </div>
-              </div>
-
-        <!-- Footer -->
-            
-                <!-- Footer -->
-    <footer id="footer">
-        <div class="inner">
-            <ul class="icons">
-                
-                    <li><a href="https://www.instagram.com/gianlucadfiore" class="icon alt fab fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                
-                    <li><a href="https://metalhead.club/@gianlucafiore" class="icon alt fab fa-mastodon" target="_blank"><span class="label">Mastodon</span></a></li>
-                
-                    <li><a href="https://www.github.com/Donearm" class="icon alt fab fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-                
-                    <li><a href="https://www.linkedin.com/in/gianluca-fiore-a70913b6" class="icon alt fab fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-                
-            </ul>
-            <ul class="copyright">
-                <li>&copy; Gianluca Fiore</li>
-                
-                <li>Design:  <a href="https://www.html5up.net">HTML5 UP</a></li>
-                
-                <li>Icons:  <a href="https://fontawesome.com">Font Awesome</a></li>
-                
-            </ul>
-        </div>
-    </footer>
-
-            
-        </div>
-
-    <!-- Scripts -->
-        <!-- Scripts -->
-    <!-- jQuery -->
-    <script src="https://www.gianlucafiore.it/js/jquery.min.js"></script>
-    <script src="https://www.gianlucafiore.it/js/jquery.scrolly.min.js"></script>
-    <script src="https://www.gianlucafiore.it/js/jquery.scrollex.min.js"></script>
-    <script src="https://www.gianlucafiore.it/js/skel.min.js"></script>
-    <script src="https://www.gianlucafiore.it/js/util.js"></script>
-
-    
-
-    <!-- Main JS -->
-    <script src="https://www.gianlucafiore.it/js/main.js"></script>
-
-    
+<body class="light">
+  
+  
 <script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'G-ZNT699MLE3', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
+    let localStorageValue = localStorage.getItem("pref-theme");
+    let mediaQuery = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
+    switch (localStorageValue) {
+        case "dark":
+            document.body.classList.add('dark');
+            break;
+        case "light":
+            document.body.classList.remove('dark');
+            break;
+        default:
+            if (mediaQuery) {
+                document.body.classList.add('dark');
+            }
+            break;
+    }
+</script>
+
+
+
+
+<script>
+    var prevScrollPos = window.pageYOffset;
+    window.addEventListener("scroll", function showHeaderOnScroll() {
+        let profileHeaderElem = document.getElementById("profileHeader");
+        let currentScrollPos = window.pageYOffset;
+        let resetHeaderStyle = false;
+        let showNavBarOnScrollUp =  true ;
+        let showNavBar = showNavBarOnScrollUp ? prevScrollPos > currentScrollPos : currentScrollPos > 0;
+        if (showNavBar) {
+            profileHeaderElem.classList.add("showHeaderOnTop");
+        } else {
+            resetHeaderStyle = true;
+        }
+        if(currentScrollPos === 0) {
+            resetHeaderStyle = true;
+        }
+        if(resetHeaderStyle) {
+            profileHeaderElem.classList.remove("showHeaderOnTop");
+        }
+        prevScrollPos = currentScrollPos;
+    });
+</script>
+
+
+
+<header id="profileHeader">
+    <nav class="pt-3 navbar navbar-expand-lg animate">
+        <div class="container-fluid mx-xs-2 mx-sm-5 mx-md-5 mx-lg-5">
+            
+            <a class="navbar-brand primary-font text-wrap" href="/">
+                
+                <img src="/img/favicon.png" width="30" height="30"
+                    class="d-inline-block align-top">
+                Gianlucafiore.it
+                
+            </a>
+
+            
+                <div>
+                    <input id="search" autocomplete="off" class="form-control mr-sm-2 d-none d-md-block" placeholder='Ctrl &#43; k to Search...'
+                        aria-label="Search" oninput="searchOnChange(event)">
+                </div>
+            
+
+            
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
+                aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+                <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true">
+                    <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
+                </svg>
+            </button>
+
+            
+            <div class="collapse navbar-collapse text-wrap primary-font" id="navbarContent">
+                <ul class="navbar-nav me-auto text-center">
+                    
+                        <li class="nav-item navbar-text d-block d-md-none">
+                            <div class="nav-link">
+                                <input id="search" autocomplete="off" class="form-control mr-sm-2" placeholder='Ctrl &#43; k to Search...' aria-label="Search" oninput="searchOnChange(event)">
+                            </div>
+                        </li>
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/#about" aria-label="about">
+                            About Me
+                        </a>
+                    </li>
+                    
+
+                    
+
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/#projects"
+                            aria-label="projects">
+                            Projects
+                        </a>
+                    </li>
+                    
+
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/#contact"
+                            aria-label="contact">
+                            Contact
+                        </a>
+                    </li>
+                    
+
+                    
+
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/blog" title="Blog posts">
+                            
+                            Blog
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/my-story" title="My Story">
+                            
+                            My Story
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/coffee" title="Coffee">
+                            
+                            Coffee
+                        </a>
+                    </li>
+                    
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        
+                        <div class="text-center">
+                            <button id="theme-toggle">
+                                <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                                </svg>
+                                <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="5"></circle>
+                                    <line x1="12" y1="1" x2="12" y2="3"></line>
+                                    <line x1="12" y1="21" x2="12" y2="23"></line>
+                                    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                                    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                                    <line x1="1" y1="12" x2="3" y2="12"></line>
+                                    <line x1="21" y1="12" x2="23" y2="12"></line>
+                                    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                                    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                                </svg>
+                            </button>
+                        </div>
+                    </li>
+                    
+
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+</header>
+<div id="content">
+<div class="container pt-5" id="list-page">
+    <h2 class="text-center pb-2">Hardware</h2>
+    <div class="row">
+        
+        <div class="col-lg-4 col-md-6 my-3">
+            <div class="card-columns">
+                <div class="card h-100">
+                    
+                    <div class="card-header">
+                        <a href="/blog/pulse-15-update-after-one-year/">
+                            <img src="/blog/pulse-15-update-after-one-year/pulse_15_open.jpg" class="card-img-top" alt="Pulse 15 update after one year">
+                        </a>
+                    </div>
+                    
+                    <div class="card-body bg-transparent p-4 shadow-sm">
+                        <a href="/blog/pulse-15-update-after-one-year/" class="primary-font card-title">
+                            <h5 class="card-title bg-transparent" title="Pulse 15 update after one year">Pulse 15 update after one …</h5>
+                        </a>
+                        <div class="card-text secondary-font">
+                            <p><p>I wrote about the Pulse 15 in <a href="../pulse-15-review">my previous review</a>. Usually I don&rsquo;t review what I buy, neither here nor elsewhere, but I made an exception for this laptop as it was from a small company and geared towards Linux users. Both things I care a lot about when purchasing technology.
+If you are …</p></p>
+                        </div>
+                    </div>
+                    <div class="mt-auto post-footer bg-transparent py-3">
+                        <span class="float-start bg-transparent">17 Jan 2022</span>
+                        <a href="/blog/pulse-15-update-after-one-year/" class="float-end btn btn-outline-info btn-sm">Read</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-6 my-3">
+            <div class="card-columns">
+                <div class="card h-100">
+                    
+                    <div class="card-header">
+                        <a href="/blog/pulse-15-review/">
+                            <img src="/blog/pulse-15-review/pulse_15_logo.jpg" class="card-img-top" alt="Pulse 15 Review">
+                        </a>
+                    </div>
+                    
+                    <div class="card-body bg-transparent p-4 shadow-sm">
+                        <a href="/blog/pulse-15-review/" class="primary-font card-title">
+                            <h5 class="card-title bg-transparent" title="Pulse 15 Review">Pulse 15 Review</h5>
+                        </a>
+                        <div class="card-text secondary-font">
+                            <p><p>As a long time Linux user (over 20 years), the quest for a perfect Linux laptop experience has been going on for most of those years. I went through a tiny Asus EEEPc back in the mid 2000s, which served me well for the very limited purposes it could manage (the Atom processors were anything but …</p></p>
+                        </div>
+                    </div>
+                    <div class="mt-auto post-footer bg-transparent py-3">
+                        <span class="float-start bg-transparent">24 Mar 2021</span>
+                        <a href="/blog/pulse-15-review/" class="float-end btn btn-outline-info btn-sm">Read</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row justify-content-center">
+            <div class="col-auto m-3">
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+  </div><footer>
+    
+ 
+ 
+<div class="container py-3" id="recent-posts">
+    
+    
+    <div class="h3 text-center text-secondary py-3">
+        Recent Posts
+    </div>
+    <div class="row justify-content-center">
+        
+        <div class="col-lg-4 col-md-6 pt-2">
+            <div class="card h-100">
+                
+                <div class="card-header">
+                    <a href="/blog/flying-is-terrible/">
+                        <img src="/blog/flying-is-terrible/flying_over_clouds.jpg" class="card-img-top" alt="Flying is terrible">
+                    </a>
+                </div>
+                
+                <div class="card-body bg-transparent p-3 shadow-sm">
+                    <a href="/blog/flying-is-terrible/" class="primary-font card-title">
+                        <h5 class="card-title bg-transparent" title="Flying is terrible">Flying is terrible</h5>
+                    </a>
+                    <div class="card-text secondary-font">
+                        <p><p>I never loved flying. I tolerated it in the beginning. Then grew fond of it. Until it became the worst possible way of transportation there is. Now I am considering renouncing flying altogether.</p>
+<p>Sounded a bit dramatic, didn&rsquo;t it? Oh well, imagine how strong is my frustration with flying then. …</p></p>
+                    </div>
+                </div>
+                <div class="mt-auto card-footer">
+                    <span class="float-start">20 May 2023</span>
+                    <a href="/blog/flying-is-terrible/" class="float-end btn btn-outline-info btn-sm">Read</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-6 pt-2">
+            <div class="card h-100">
+                
+                <div class="card-header">
+                    <a href="/blog/bali/">
+                        <img src="/blog/bali/bali_tanah_lot_at_sunset.jpg" class="card-img-top" alt="Bali">
+                    </a>
+                </div>
+                
+                <div class="card-body bg-transparent p-3 shadow-sm">
+                    <a href="/blog/bali/" class="primary-font card-title">
+                        <h5 class="card-title bg-transparent" title="Bali">Bali</h5>
+                    </a>
+                    <div class="card-text secondary-font">
+                        <p><h1 id="see-bali-once--and-no-more">See Bali once &hellip; and no more</h1>
+<p>Bali. Just the word evokes lush forests, rice terraces, yoga, coffee houses, dawn treks, and digital nomading. I didn&rsquo;t particularly go for any of those but would be unfair to assert that I wasn&rsquo;t captivated a bit by each. I found them all, but …</p></p>
+                    </div>
+                </div>
+                <div class="mt-auto card-footer">
+                    <span class="float-start">11 Mar 2023</span>
+                    <a href="/blog/bali/" class="float-end btn btn-outline-info btn-sm">Read</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-6 pt-2">
+            <div class="card h-100">
+                
+                <div class="card-header">
+                    <a href="/blog/on-pele/">
+                        <img src="/blog/on-pele/diego_and_pele.jpg" class="card-img-top" alt="On Pelé">
+                    </a>
+                </div>
+                
+                <div class="card-body bg-transparent p-3 shadow-sm">
+                    <a href="/blog/on-pele/" class="primary-font card-title">
+                        <h5 class="card-title bg-transparent" title="On Pelé">On Pelé</h5>
+                    </a>
+                    <div class="card-text secondary-font">
+                        <p><h2 id="the-king-and-the-god-are-gone">The King and the God are gone</h2>
+<p>Pelé was a totem. And a scary one at that. For a kid growing up in Naples during the 80s, Pelé was not a tangible experience but a myth already. Somebody who we would all compare to, as the archetype of the great footballer from South America.</p>
+<p>He was a scary figure. …</p></p>
+                    </div>
+                </div>
+                <div class="mt-auto card-footer">
+                    <span class="float-start">30 Dec 2022</span>
+                    <a href="/blog/on-pele/" class="float-end btn btn-outline-info btn-sm">Read</a>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<div class="text-center pt-2">
+    
+    <span class="px-1">
+        <a href="https://github.com/Donearm" aria-label="github">
+            <svg xmlns="http://www.w3.org/2000/svg" width="2.7em" height="2.7em" viewBox="0 0 1792 1792">
+                <path id="footer-socialNetworks-github-svg-path"
+                    d="M522 1352q-8 9-20-3-13-11-4-19 8-9 20 3 12 11 4 19zm-42-61q9 12 0 19-8 6-17-7t0-18q9-7 17 6zm-61-60q-5 7-13 2-10-5-7-12 3-5 13-2 10 5 7 12zm31 34q-6 7-16-3-9-11-2-16 6-6 16 3 9 11 2 16zm129 112q-4 12-19 6-17-4-13-15t19-7q16 5 13 16zm63 5q0 11-16 11-17 2-17-11 0-11 16-11 17-2 17 11zm58-10q2 10-14 14t-18-8 14-15q16-2 18 9zm964-956v960q0 119-84.5 203.5t-203.5 84.5h-224q-16 0-24.5-1t-19.5-5-16-14.5-5-27.5v-239q0-97-52-142 57-6 102.5-18t94-39 81-66.5 53-105 20.5-150.5q0-121-79-206 37-91-8-204-28-9-81 11t-92 44l-38 24q-93-26-192-26t-192 26q-16-11-42.5-27t-83.5-38.5-86-13.5q-44 113-7 204-79 85-79 206 0 85 20.5 150t52.5 105 80.5 67 94 39 102.5 18q-40 36-49 103-21 10-45 15t-57 5-65.5-21.5-55.5-62.5q-19-32-48.5-52t-49.5-24l-20-3q-21 0-29 4.5t-5 11.5 9 14 13 12l7 5q22 10 43.5 38t31.5 51l10 23q13 38 44 61.5t67 30 69.5 7 55.5-3.5l23-4q0 38 .5 103t.5 68q0 22-11 33.5t-22 13-33 1.5h-224q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" />
+
+                <metadata>
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description about="https://iconscout.com/legal#licenses"
+                            dc:title="Github, Online, Project, Hosting, Square"
+                            dc:description="Github, Online, Project, Hosting, Square" dc:publisher="Iconscout"
+                            dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+                            <dc:creator>
+                                <rdf:Bag>
+                                    <rdf:li>Font Awesome</rdf:li>
+                                </rdf:Bag>
+                            </dc:creator>
+                        </rdf:Description>
+                    </rdf:RDF>
+                </metadata>
+            </svg>
+        </a>
+    </span>
+    
+
+    
+    <span class="px-1">
+        <a href="https://www.linkedin.com/in/gianluca-fiore-a70913b6" aria-label="linkedin">
+            <svg xmlns="http://www.w3.org/2000/svg" width='2.4em' height='2.4em' fill="#fff" aria-label="LinkedIn"
+                viewBox="0 0 512 512">
+                <rect width="512" height="512" fill="#0077b5" rx="15%" />
+                <circle cx="142" cy="138" r="37" />
+                <path stroke="#fff" stroke-width="66" d="M244 194v198M142 194v198" />
+                <path d="M276 282c0-20 13-40 36-40 24 0 33 18 33 45v105h66V279c0-61-32-89-76-89-34 0-51 19-59 32" />
+            </svg>
+        </a>
+    </span>
+    
 
     
 
-    </body>
-</html>
+    
+    <a href="https://www.instagram.com/gianlucadfiore" aria-label="instagram">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px">
+            <radialGradient id="yOrnnhliCrdS2gy~4tD8ma" cx="19.38" cy="42.035" r="44.899"
+                gradientUnits="userSpaceOnUse">
+                <stop offset="0" stop-color="#fd5" />
+                <stop offset=".328" stop-color="#ff543f" />
+                <stop offset=".348" stop-color="#fc5245" />
+                <stop offset=".504" stop-color="#e64771" />
+                <stop offset=".643" stop-color="#d53e91" />
+                <stop offset=".761" stop-color="#cc39a4" />
+                <stop offset=".841" stop-color="#c837ab" />
+            </radialGradient>
+            <path fill="url(#yOrnnhliCrdS2gy~4tD8ma)"
+                d="M34.017,41.99l-20,0.019c-4.4,0.004-8.003-3.592-8.008-7.992l-0.019-20	c-0.004-4.4,3.592-8.003,7.992-8.008l20-0.019c4.4-0.004,8.003,3.592,8.008,7.992l0.019,20	C42.014,38.383,38.417,41.986,34.017,41.99z" />
+            <radialGradient id="yOrnnhliCrdS2gy~4tD8mb" cx="11.786" cy="5.54" r="29.813"
+                gradientTransform="matrix(1 0 0 .6663 0 1.849)" gradientUnits="userSpaceOnUse">
+                <stop offset="0" stop-color="#4168c9" />
+                <stop offset=".999" stop-color="#4168c9" stop-opacity="0" />
+            </radialGradient>
+            <path fill="url(#yOrnnhliCrdS2gy~4tD8mb)"
+                d="M34.017,41.99l-20,0.019c-4.4,0.004-8.003-3.592-8.008-7.992l-0.019-20	c-0.004-4.4,3.592-8.003,7.992-8.008l20-0.019c4.4-0.004,8.003,3.592,8.008,7.992l0.019,20	C42.014,38.383,38.417,41.986,34.017,41.99z" />
+            <path fill="#fff"
+                d="M24,31c-3.859,0-7-3.14-7-7s3.141-7,7-7s7,3.14,7,7S27.859,31,24,31z M24,19c-2.757,0-5,2.243-5,5	s2.243,5,5,5s5-2.243,5-5S26.757,19,24,19z" />
+            <circle cx="31.5" cy="16.5" r="1.5" fill="#fff" />
+            <path fill="#fff"
+                d="M30,37H18c-3.859,0-7-3.14-7-7V18c0-3.86,3.141-7,7-7h12c3.859,0,7,3.14,7,7v12	C37,33.86,33.859,37,30,37z M18,13c-2.757,0-5,2.243-5,5v12c0,2.757,2.243,5,5,5h12c2.757,0,5-2.243,5-5V18c0-2.757-2.243-5-5-5H18z" />
+        </svg>
+    </a>
+    
 
+    
+</div><div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-4 text-center">
+            
+                <div class="pb-2">
+                    <a href="https://www.gianlucafiore.it/" title="Gianluca Fiore">
+                        <img alt="Footer logo" src="/img/favicon.png"
+                            height="40px" width="40px">
+                    </a>
+                </div>
+            
+            &copy; 2025  © Gianluca Fiore. All rights reserved
+            <div class="text-secondary">
+                Made with
+                <span class="text-danger">
+                    &#10084;
+                </span>
+                and
+                <a href="https://github.com/gurusabarish/hugo-profile" target="_blank"
+                    title="Designed and developed by gurusabarish">
+                    Hugo Profile
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</footer><script src="/bootstrap-5/js/bootstrap.bundle.min.js"></script>
+<script>
+    if (document.body.className.includes("dark")) {
+        document.body.classList.remove('dark');
+        localStorage.setItem("pref-theme", 'light');
+    }
+</script>
+
+
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+    })
+
+</script>
+
+
+    <script src="/js/search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+  <section id="search-content" class="py-2">
+    <div class="container" id="search-results"></div>
+  </section>
+</body>
+
+</html>

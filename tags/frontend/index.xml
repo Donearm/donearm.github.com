@@ -4,8 +4,8 @@
     <title>Frontend on Gianluca Fiore</title>
     <link>https://www.gianlucafiore.it/tags/frontend/</link>
     <description>Recent content in Frontend on Gianluca Fiore</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
     <lastBuildDate>Wed, 25 Sep 2019 10:54:03 +0200</lastBuildDate>
     <atom:link href="https://www.gianlucafiore.it/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,28 +13,28 @@
       <link>https://www.gianlucafiore.it/where-is-the-best-pizza-in-the-world/</link>
       <pubDate>Wed, 25 Sep 2019 10:54:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/where-is-the-best-pizza-in-the-world/</guid>
-      <description>A few months ago I found the pizza repository of Steve Kinney, a project to list all the best pizzerias around the world. As a fan of pizza and being born in the hometown of it (Naples for those unaware), I started contributing to it pizzerias in Italy and Poland mostly that I knew by first-hand experience were very good.&#xA;To make a longer story short, slowly the contributions piled up and I wasn&amp;rsquo;t satisfied with a few technical solutions adopted, mainly the use of Ruby and implementing the list of pizzerias in Markdown in the Readme file.</description>
+      <description>&lt;p&gt;A few months ago I found the &lt;a href=&#34;https://github.com/stevekinney/pizza&#34;&gt;pizza repository&lt;/a&gt; of &lt;a href=&#34;http://www.stevekinney.net/&#34;&gt;Steve Kinney&lt;/a&gt;, a project to list all the best pizzerias around the world. As a fan of pizza and being born in the hometown of it (Naples for those unaware), I started contributing to it pizzerias in Italy and Poland mostly that I knew by first-hand experience were very good.&lt;/p&gt;&#xA;&lt;p&gt;To make a longer story short, slowly the contributions piled up and I wasn&amp;rsquo;t satisfied with a few technical solutions adopted, mainly the use of Ruby and implementing the list of pizzerias in Markdown in the Readme file. My fork of the original project grew distant enough that I agreed with Steve to make it a separate project and adding to it a UI, moving  it at the same time to a Go codebase.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Things I Know as of 2018</title>
       <link>https://www.gianlucafiore.it/blog/things-i-know-as-of-2018/</link>
       <pubDate>Wed, 19 Dec 2018 18:11:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/things-i-know-as-of-2018/</guid>
-      <description>It honestly came as a surprise a post on Overreacted by Dan Abramov. He lists all the things he doesn&amp;rsquo;t know as of 2018, in an attempt to &amp;ldquo;devalue&amp;rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I&amp;rsquo;m far from being the only one surprised.</description>
+      <description>&lt;p&gt;It honestly came as a surprise a &lt;a href=&#34;https://overreacted.io/things-i-dont-know-as-of-2018/&#34;&gt;post&lt;/a&gt; on Overreacted by &lt;a href=&#34;https://mobile.twitter.com/dan_abramov&#34;&gt;Dan Abramov&lt;/a&gt;. He lists all the things he doesn&amp;rsquo;t know as of 2018, in an attempt to &amp;ldquo;devalue&amp;rdquo; in the eyes of newbies any experienced developer by showing off the gaps in knowledge that usually we take for granted, expecially from those developers that work for big companies and who went through a harder interview process. Considering the number of likes and retweets the post received, I&amp;rsquo;m far from being the only one surprised.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freecodecamp: There and Back Again</title>
       <link>https://www.gianlucafiore.it/blog/freecodecamp-there-and-back-again/</link>
       <pubDate>Thu, 04 Oct 2018 15:44:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/freecodecamp-there-and-back-again/</guid>
-      <description>Well, first of all, sorry for not updating about my progresses on Frontend development through Freecodecamp curriculum but there were basically none since last May. Why? Work got in the way, with a larger role and more duties taking over little by little the energy I had to focus on coding after work. First reason.&#xA;Second reason, health issues. I&amp;rsquo;ve been battling with the most pernicious kind of backpain since spring and it intensified around June, when it became a routine to wake up in the middle of the night due to the pain, spend half an hour trying to get back to sleep, get up much earlier than due (like 6-6:30) and spending the rest of the day in a perennial tired state.</description>
+      <description>&lt;p&gt;Well, first of all, sorry for not updating about my progresses on Frontend development through Freecodecamp curriculum but there were basically none since last May. Why? Work got in the way, with a larger role and more duties taking over little by little the energy I had to focus on coding after work. First reason.&lt;/p&gt;&#xA;&lt;p&gt;Second reason, health issues. I&amp;rsquo;ve been battling with the most pernicious kind of backpain since spring and it intensified around June, when it became a routine to wake up in the middle of the night due to the pain, spend half an hour trying to get back to sleep, get up much earlier than due (like 6-6:30) and spending the rest of the day in a perennial tired state. Rinse and repeat the day after. For weeks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freecodecamp</title>
       <link>https://www.gianlucafiore.it/blog/freecodecamp/</link>
       <pubDate>Sat, 05 May 2018 21:44:03 +0200</pubDate>
       <guid>https://www.gianlucafiore.it/blog/freecodecamp/</guid>
-      <description>Frontend development was never my area. I&amp;rsquo;ve always been more of a Backend/System Administrator. I&amp;rsquo;ve never truly grokked the idea of events, DOM, making requests elsewhere and things running outside my machine, without me giving precise instruction when to run and what arguments to accept.&#xA;Yet it&amp;rsquo;s 2018 and Javascript permeates the programming world, whether we like it or not. Thus I was looking for a new challenge to keep me motivated to learn throughout the year.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Frontend development&lt;/strong&gt; was never my area. I&amp;rsquo;ve always been more of a Backend/System Administrator. I&amp;rsquo;ve never truly grokked the idea of events, DOM, making requests elsewhere and things running outside my machine, without me giving precise instruction when to run and what arguments to accept.&lt;/p&gt;&#xA;&lt;p&gt;Yet it&amp;rsquo;s 2018 and Javascript permeates the programming world, whether we like it or not. Thus I was looking for a new challenge to keep me motivated to learn throughout the year.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
